@@ -1,7 +1,7 @@
 // ── Configuracion GitHub ─────────────────────────────────────────────────────
 // Reemplaza estos dos valores con los de tu repositorio de GitHub
-const GITHUB_OWNER = "TU_USUARIO";      // ej: "lubricentrolr"
-const GITHUB_REPO  = "TU_REPOSITORIO"; // ej: "LubricentroLR"
+const GITHUB_OWNER = "lrlubricentro";
+const GITHUB_REPO  = "LubricentroLR";
 const GITHUB_BRANCH = "main";
 const GITHUB_FILE_PATH = "data/services.json";
 const LOCAL_BACKUP_KEY = "lubricentro-services-backup-v1";
