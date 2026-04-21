@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lubricentro LR | Consulta de Service</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800&family=Sora:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="bg-shape shape-1" aria-hidden="true"></div>
+    <div class="bg-shape shape-2" aria-hidden="true"></div>
+
+    <header class="hero">
+      <div class="hero-logo-wrap" aria-hidden="true">
+        <img class="hero-logo" src="assets/logo.jpeg" alt="Logo Lubricentro LR" />
+      </div>
+      <p class="eyebrow">Lubricentro LR</p>
+      <h1>Consulta tu service por patente</h1>
+      <p class="subtitle">
+        Ingresa la patente de tu auto y revisa el ultimo trabajo realizado y la
+        fecha estimada del proximo servicio.
+      </p>
+    </header>
+
+    <main class="panel">
+      <nav class="mode-switch" aria-label="Modos de uso">
+        <button id="tab-customer" class="tab-btn is-active" type="button">Cliente</button>
+        <button id="tab-owner" class="tab-btn" type="button">Panel administrativo</button>
+      </nav>
+
+      <section id="customer-view">
+        <form id="search-form" class="search-form" autocomplete="off">
+          <label for="patente">Patente</label>
+          <div class="input-row">
+            <input
+              id="patente"
+              name="patente"
+              type="text"
+              placeholder="Ej: AB123CD o AAA123"
+              maxlength="8"
+              required
+            />
+            <button type="submit">Consultar</button>
+          </div>
+          <small>Formato flexible. Puedes escribir con o sin espacios.</small>
+        </form>
+
+        <section id="result" class="result hidden" aria-live="polite">
+          <div class="card">
+            <h2>Datos del ultimo service</h2>
+            <p><span>Patente:</span> <strong id="res-patente">-</strong></p>
+            <p><span>Cliente:</span> <strong id="res-cliente">-</strong></p>
+            <p><span>Trabajo realizado:</span> <strong id="res-trabajo">-</strong></p>
+            <p><span>Fecha service:</span> <strong id="res-fecha">-</strong></p>
+            <p><span>Kilometraje actual:</span> <strong id="res-km-actual">-</strong></p>
+          </div>
+
+          <div class="card next-service">
+            <h2>Proximo service</h2>
+            <p><span>Kilometraje previsto:</span> <strong id="res-proximo-km">-</strong></p>
+            <p class="hint">Te recomendamos reservar turno con anticipacion.</p>
+          </div>
+        </section>
+
+        <section id="history" class="history card hidden">
+          <h2>Historial (ultimos 10 services)</h2>
+          <ul id="res-history-list" class="history-list"></ul>
+        </section>
+
+        <section id="empty" class="empty hidden" aria-live="polite">
+          <h2>No encontramos esa patente</h2>
+          <p>
+            Verifica los datos e intenta nuevamente. Si persiste, contacta al
+            lubricentro para actualizar el historial.
+          </p>
+        </section>
+      </section>
+
+      <section id="owner-view" class="hidden" aria-live="polite">
+        <div class="owner-head">
+          <h2>Carga de services</h2>
+          <p>
+            Desde aqui el dueno puede agregar, editar o borrar registros. Los
+            datos se guardan directamente en el repositorio de GitHub.
+          </p>
+          <div class="owner-json-tools">
+            <button type="button" id="owner-export-backup" class="btn-muted">Exportar respaldo local</button>
+            <button type="button" id="owner-import-backup" class="btn-muted">Importar respaldo local</button>
+            <button type="button" id="owner-change-token" class="btn-muted">Cambiar token GitHub</button>
+            <input id="owner-import-file" type="file" accept="application/json" class="hidden" />
+          </div>
+          <p id="owner-token-status" class="owner-token-status owner-token-unknown">Token GitHub: no cargado en esta sesion.</p>
+          <div id="owner-sync-indicator" class="owner-sync-indicator owner-sync-idle" aria-live="polite">
+            <span id="owner-sync-dot" class="owner-sync-dot" aria-hidden="true"></span>
+            <strong id="owner-sync-state">Estado de sync: esperando</strong>
+            <span id="owner-sync-detail">Aun no hubo cambios para sincronizar.</span>
+          </div>
+        </div>
+
+        <form id="owner-form" class="owner-form" autocomplete="off">
+          <div class="form-grid">
+            <label>
+              Patente
+              <input id="owner-patente" type="text" maxlength="8" required />
+            </label>
+            <label>
+              Cliente
+              <input id="owner-cliente" type="text" required />
+            </label>
+            <label>
+              Modelo del auto
+              <input id="owner-model" type="text" placeholder="Ej: Toyota Corolla" />
+            </label>
+            <fieldset class="full owner-checklist">
+              <legend>Checklist del servicio</legend>
+
+              <div class="checklist-text-grid">
+                <label>
+                  Aceite
+                  <input id="owner-aceite" type="text" placeholder="Ej: 5W30 sintetico" />
+                </label>
+                <label>
+                  Aditivo Carter
+                  <input id="owner-aditivo-carter" type="text" placeholder="Opcional" />
+                </label>
+                <label>
+                  Aditivo Transmision
+                  <input id="owner-aditivo-transmision" type="text" placeholder="Opcional" />
+                </label>
+                <label>
+                  Aditivo Combustible
+                  <input id="owner-aditivo-combustible" type="text" placeholder="Opcional" />
+                </label>
+              </div>
+
+              <div class="checklist-rows">
+                <div class="check-row" data-check-key="filtro-aceite" data-check-label="Filtro de Aceite">
+                  <span>Filtro de Aceite</span>
+                  <label><input type="radio" name="check-filtro-aceite" value="si" /> SI</label>
+                  <label><input type="radio" name="check-filtro-aceite" value="no" /> NO</label>
+                </div>
+                <div class="check-row" data-check-key="filtro-combustible" data-check-label="Filtro de Combustible">
+                  <span>Filtro de Combustible</span>
+                  <label><input type="radio" name="check-filtro-combustible" value="si" /> SI</label>
+                  <label><input type="radio" name="check-filtro-combustible" value="no" /> NO</label>
+                </div>
+                <div class="check-row" data-check-key="caja-velocidad" data-check-label="Caja Velocidad">
+                  <span>Caja Velocidad</span>
+                  <label><input type="radio" name="check-caja-velocidad" value="si" /> SI</label>
+                  <label><input type="radio" name="check-caja-velocidad" value="no" /> NO</label>
+                </div>
+                <div class="check-row" data-check-key="diferencial-trasero" data-check-label="Diferencial Trasero">
+                  <span>Diferencial Trasero</span>
+                  <label><input type="radio" name="check-diferencial-trasero" value="si" /> SI</label>
+                  <label><input type="radio" name="check-diferencial-trasero" value="no" /> NO</label>
+                </div>
+                <div class="check-row" data-check-key="filtro-aire" data-check-label="Filtro de Aire">
+                  <span>Filtro de Aire</span>
+                  <label><input type="radio" name="check-filtro-aire" value="si" /> SI</label>
+                  <label><input type="radio" name="check-filtro-aire" value="no" /> NO</label>
+                </div>
+                <div class="check-row" data-check-key="filtro-polen" data-check-label="Filtro Polen">
+                  <span>Filtro Polen</span>
+                  <label><input type="radio" name="check-filtro-polen" value="si" /> SI</label>
+                  <label><input type="radio" name="check-filtro-polen" value="no" /> NO</label>
+                </div>
+                <div class="check-row" data-check-key="caja-transfer" data-check-label="Caja Transfer">
+                  <span>Caja Transfer</span>
+                  <label><input type="radio" name="check-caja-transfer" value="si" /> SI</label>
+                  <label><input type="radio" name="check-caja-transfer" value="no" /> NO</label>
+                </div>
+                <div class="check-row" data-check-key="diferencial-delantero" data-check-label="Diferencial Delantero">
+                  <span>Diferencial Delantero</span>
+                  <label><input type="radio" name="check-diferencial-delantero" value="si" /> SI</label>
+                  <label><input type="radio" name="check-diferencial-delantero" value="no" /> NO</label>
+                </div>
+                <div class="check-row" data-check-key="liquido-freno" data-check-label="Cambio Liquido Freno">
+                  <span>Cambio Liquido Freno</span>
+                  <label><input type="radio" name="check-liquido-freno" value="si" /> SI</label>
+                  <label><input type="radio" name="check-liquido-freno" value="no" /> NO</label>
+                </div>
+                <div class="check-row" data-check-key="bujias" data-check-label="Cambio Bujias">
+                  <span>Cambio Bujias</span>
+                  <label><input type="radio" name="check-bujias" value="si" /> SI</label>
+                  <label><input type="radio" name="check-bujias" value="no" /> NO</label>
+                </div>
+                <div class="check-row" data-check-key="bateria" data-check-label="Cambio Bateria">
+                  <span>Cambio Bateria</span>
+                  <label><input type="radio" name="check-bateria" value="si" /> SI</label>
+                  <label><input type="radio" name="check-bateria" value="no" /> NO</label>
+                </div>
+                <div class="check-row" data-check-key="liquido-refrigerante" data-check-label="Cambio Liquido Refrigerante">
+                  <span>Cambio Liquido Refrigerante</span>
+                  <label><input type="radio" name="check-liquido-refrigerante" value="si" /> SI</label>
+                  <label><input type="radio" name="check-liquido-refrigerante" value="no" /> NO</label>
+                </div>
+                <div class="check-row" data-check-key="engrase" data-check-label="Engrase">
+                  <span>Engrase</span>
+                  <label><input type="radio" name="check-engrase" value="si" /> SI</label>
+                  <label><input type="radio" name="check-engrase" value="no" /> NO</label>
+                </div>
+                <div class="check-row" data-check-key="liquido-hidraulico" data-check-label="Cambio Liquido Hidraulico">
+                  <span>Cambio Liquido Hidraulico</span>
+                  <label><input type="radio" name="check-liquido-hidraulico" value="si" /> SI</label>
+                  <label><input type="radio" name="check-liquido-hidraulico" value="no" /> NO</label>
+                </div>
+              </div>
+            </fieldset>
+            <label class="full">
+              Detalle de lo realizado
+              <textarea id="owner-trabajo-detalle" rows="3" placeholder="Ej: Se uso aceite sintetico 5W30, se reviso perdida en reten delantero."></textarea>
+            </label>
+            <label>
+              Fecha del service
+              <input id="owner-fecha" type="date" required />
+            </label>
+            <label>
+              Kilometraje actual (KM)
+              <input id="owner-km-actual" type="number" min="1" max="999999" value="0" required />
+            </label>
+            <label>
+              Proximo service (km)
+              <input id="owner-km" type="number" min="1" step="1" placeholder="Ej: 85000" required />
+            </label>
+          </div>
+
+          <div class="owner-actions">
+            <button type="submit" id="owner-submit">Guardar registro</button>
+            <button type="button" id="owner-cancel" class="btn-muted hidden">Cancelar edicion</button>
+          </div>
+          <p id="owner-form-status" class="owner-form-status"></p>
+        </form>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Patente</th>
+                <th>Cliente</th>
+                <th>Modelo</th>
+                <th>Fecha service</th>
+                <th>Proximo km</th>
+                <th>Historial</th>
+                <th>Acciones</th>
+              </tr>
+            </thead>
+            <tbody id="owner-table-body"></tbody>
+          </table>
+        </div>
+
+        <section id="owner-history" class="owner-history hidden">
+          <h3 id="owner-history-title">Historial de patente</h3>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Fecha</th>
+                  <th>Trabajo</th>
+                  <th>Proximo km</th>
+                  <th>Acciones</th>
+                </tr>
+              </thead>
+              <tbody id="owner-history-body"></tbody>
+            </table>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <a
+      class="whatsapp-float"
+      href="https://wa.me/5491168916529"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Enviar mensaje por WhatsApp"
+      title="WhatsApp"
+      style="position: fixed; right: 20px; bottom: 20px; z-index: 20; display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 58px; padding: 10px 14px 10px 12px; border-radius: 999px; background: #25d366; color: #ffffff; text-decoration: none;"
+    >
+      <span class="wa-label">Escribinos por WhatsApp</span>
+      <svg viewBox="0 0 32 32" width="30" height="30" aria-hidden="true" focusable="false">
+        <path
+          fill="currentColor"
+          d="M16.02 3.2c-7 0-12.66 5.66-12.66 12.64 0 2.24.6 4.44 1.74 6.38L3 29l6.94-1.82a12.8 12.8 0 0 0 6.08 1.54h.02c6.98 0 12.64-5.66 12.64-12.66A12.63 12.63 0 0 0 16.02 3.2Zm7.38 17.84c-.3.84-1.8 1.6-2.5 1.66-.64.08-1.46.12-2.36-.18-.54-.18-1.22-.4-2.1-.78-3.7-1.6-6.1-5.36-6.3-5.62-.24-.3-1.5-2-.96-3.82.26-.9.94-1.34 1.26-1.52.32-.16.7-.2.94-.2h.68c.2 0 .48-.08.74.56.3.72 1.02 2.5 1.1 2.68.1.2.16.42.04.66-.12.24-.18.4-.36.62-.18.2-.38.46-.54.62-.18.18-.38.38-.16.74.22.36.98 1.62 2.1 2.62 1.44 1.28 2.64 1.68 3 1.86.36.18.58.16.8-.1.22-.24.9-1.06 1.14-1.42.24-.34.48-.28.8-.16.34.12 2.08.98 2.44 1.16.36.18.6.26.68.4.08.14.08.82-.22 1.66Z"
+        />
+      </svg>
+    </a>
+
+    <footer>
+      <p class="customer-hours">Horarios: Lun a Vie 08:00 - 12:30 y de 14:00 a 19:00hs | Sab 08:30 - 13:00</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

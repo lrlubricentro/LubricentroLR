@@ -1,0 +1,29 @@
+{
+  "AB123CD": [
+    {
+      "id": "svc-1",
+      "cliente": "Juan Perez",
+      "trabajo": "Cambio de aceite + Filtro de aceite. Detalle: Aceite 10W40 semisintetico.",
+      "fechaService": "2026-03-04",
+      "proximoKm": "55000"
+    }
+  ],
+  "AC456EF": [
+    {
+      "id": "svc-2",
+      "cliente": "Maria Gomez",
+      "trabajo": "Cambio de aceite + Filtro de aire.",
+      "fechaService": "2026-02-20",
+      "proximoKm": "62000"
+    }
+  ],
+  "AAA123": [
+    {
+      "id": "svc-3",
+      "cliente": "Carlos Ruiz",
+      "trabajo": "Service completo + Revision de fluidos.",
+      "fechaService": "2026-01-12",
+      "proximoKm": "73000"
+    }
+  ]
+}
