@@ -5,6 +5,7 @@ const GITHUB_REPO  = "LubricentroLR";
 const GITHUB_BRANCH = "main";
 const GITHUB_FILE_PATH = "data/services.json";
 const LOCAL_BACKUP_KEY = "lubricentro-services-backup-v1";
+const LOCAL_PENDING_SYNC_KEY = "lubricentro-services-pending-sync-v1";
 const SYNC_RETRY_BASE_MS = 10000;
 const SYNC_RETRY_MAX_MS = 60000;
 const GITHUB_SYNC_TIMEOUT_MS = 15000;
@@ -76,6 +77,9 @@ const ownerTokenStatus = document.getElementById("owner-token-status");
 const ownerSyncIndicator = document.getElementById("owner-sync-indicator");
 const ownerSyncState = document.getElementById("owner-sync-state");
 const ownerSyncDetail = document.getElementById("owner-sync-detail");
+const dataSourceIndicator = document.getElementById("data-source-indicator");
+const dataSourceState = document.getElementById("data-source-state");
+const dataSourceDetail = document.getElementById("data-source-detail");
 
 const ownerPlateInput = document.getElementById("owner-patente");
 const ownerClienteInput = document.getElementById("owner-cliente");
@@ -302,9 +306,9 @@ async function loadServices() {
     const parsed = await response.json();
     if (parsed && typeof parsed === "object") return parsed;
   } catch (error) {
-    console.error("No se pudo leer services.json desde GitHub, se cargan datos por defecto", error);
+    console.error("No se pudo leer services.json desde GitHub", error);
   }
-  return { ...defaultServices };
+  return null;
 }
 
 function normalizeStorageShape(data) {
@@ -371,6 +375,30 @@ function setSyncStatus(mode, detail) {
   ownerSyncDetail.textContent = detail || "";
 }
 
+function setDataSourceStatus(mode, detail) {
+  if (!dataSourceIndicator || !dataSourceState || !dataSourceDetail) {
+    return;
+  }
+
+  dataSourceIndicator.classList.remove(
+    "data-source-github",
+    "data-source-local",
+    "data-source-default",
+    "data-source-unknown"
+  );
+
+  const labels = {
+    github: "Origen de datos: GitHub",
+    local: "Origen de datos: respaldo local",
+    default: "Origen de datos: datos por defecto",
+    unknown: "Origen de datos: verificando",
+  };
+
+  dataSourceIndicator.classList.add(`data-source-${mode}`);
+  dataSourceState.textContent = labels[mode] || labels.unknown;
+  dataSourceDetail.textContent = detail || "";
+}
+
 function maskToken(token) {
   if (!token) {
     return "";
@@ -423,6 +451,22 @@ function saveLocalBackup(services) {
     localStorage.setItem(LOCAL_BACKUP_KEY, JSON.stringify(services));
   } catch (error) {
     console.error("No se pudo guardar el respaldo local", error);
+  }
+}
+
+function hasPendingLocalSync() {
+  return localStorage.getItem(LOCAL_PENDING_SYNC_KEY) === "1";
+}
+
+function setPendingLocalSync(value) {
+  try {
+    if (value) {
+      localStorage.setItem(LOCAL_PENDING_SYNC_KEY, "1");
+    } else {
+      localStorage.removeItem(LOCAL_PENDING_SYNC_KEY);
+    }
+  } catch (error) {
+    console.error("No se pudo actualizar el estado de sincronizacion local", error);
   }
 }
 
@@ -556,16 +600,19 @@ async function attemptBackgroundSync() {
 
   if (!isGitHubConfigReady()) {
     setSyncStatus("pending", "Configura GITHUB_OWNER y GITHUB_REPO en app.js para habilitar sync con GitHub.");
+    setDataSourceStatus("local", "Usando respaldo local mientras se corrige la configuracion de GitHub.");
     return;
   }
 
   if (!sessionStorage.getItem("gh-token")) {
     setSyncStatus("pending", "Falta token de GitHub en esta sesion del administrador.");
+    setDataSourceStatus("local", "Usando respaldo local hasta validar token de GitHub.");
     return;
   }
 
   if (!navigator.onLine) {
     setSyncStatus("pending", "Sin conexion a internet. Se reintentara automaticamente.");
+    setDataSourceStatus("local", "Sin internet: se mantiene respaldo local con reintento automatico.");
     scheduleSyncRetry();
     return;
   }
@@ -578,9 +625,11 @@ async function attemptBackgroundSync() {
     await syncToGitHub(snapshot);
     if (pendingSyncServices === snapshot) {
       pendingSyncServices = null;
+      setPendingLocalSync(false);
     }
     syncRetryAttempt = 0;
     setSyncStatus("synced", `Ultima sincronizacion: ${new Date().toLocaleString("es-AR")}.`);
+    setDataSourceStatus("github", "Datos sincronizados correctamente con el repositorio.");
   } catch (error) {
     console.error("Fallo la sincronizacion automatica con GitHub", error);
     const retryable = isRetryableSyncError(error);
@@ -595,8 +644,10 @@ async function attemptBackgroundSync() {
 
     if (retryable) {
       scheduleSyncRetry();
+      setDataSourceStatus("local", "Hubo error temporal de GitHub; se mantiene respaldo local hasta reintentar.");
     } else {
       setSyncStatus("pending", `Error de GitHub: ${error.message}. Revisa token/configuracion y vuelve a guardar.`);
+      setDataSourceStatus("local", "Error de GitHub: se conserva respaldo local en este dispositivo.");
     }
   } finally {
     syncInProgress = false;
@@ -613,6 +664,7 @@ async function attemptBackgroundSync() {
 function persistServices(services) {
   // Local-first: siempre queda persistido en este navegador antes de sincronizar remoto.
   saveLocalBackup(services);
+  setPendingLocalSync(true);
   pendingSyncServices = cloneServicesSnapshot(services);
   setSyncStatus("pending", "Cambios guardados localmente. Pendiente de sincronizar con GitHub.");
   clearSyncRetryTimer();
@@ -1071,23 +1123,44 @@ window.addEventListener("online", () => {
 });
 
 async function initializeApp() {
+  setDataSourceStatus("unknown", "Comprobando si hay datos remotos o respaldo local...");
   const remoteServices = await loadServices();
   const localBackup = loadLocalBackup();
-  const sourceServices = localBackup && Object.keys(localBackup).length > 0 ? localBackup : remoteServices;
+  const localHasData = Boolean(localBackup && Object.keys(localBackup).length > 0);
+  const remoteHasData = Boolean(remoteServices && Object.keys(remoteServices).length > 0);
+  const localPending = hasPendingLocalSync();
+
+  let sourceServices = { ...defaultServices };
+
+  if (localPending && localHasData) {
+    sourceServices = localBackup;
+  } else if (remoteHasData) {
+    sourceServices = remoteServices;
+  } else if (localHasData) {
+    sourceServices = localBackup;
+  }
 
   servicesByPlate = normalizeStorageShape(sourceServices);
   saveLocalBackup(servicesByPlate);
   renderOwnerTable();
   refreshTokenStatusFromSession();
 
-  if (localBackup && Object.keys(localBackup).length > 0) {
+  if (localPending && localHasData) {
     pendingSyncServices = cloneServicesSnapshot(servicesByPlate);
     setSyncStatus("pending", "Se detecto respaldo local. Validando sincronizacion con GitHub...");
+    setDataSourceStatus("local", "Se cargo respaldo local porque habia cambios pendientes de sincronizar.");
     setTimeout(() => {
       attemptBackgroundSync();
     }, 0);
+  } else if (remoteHasData) {
+    setSyncStatus("synced", "Datos cargados desde GitHub.");
+    setDataSourceStatus("github", "Datos cargados directamente desde el repositorio de GitHub.");
+  } else if (localHasData) {
+    setSyncStatus("pending", "GitHub no disponible. Se cargaron datos locales de respaldo.");
+    setDataSourceStatus("local", "GitHub no respondio; se uso el respaldo guardado en este dispositivo.");
   } else {
-    setSyncStatus("synced", "Datos cargados sin pendientes locales.");
+    setSyncStatus("synced", "Datos por defecto cargados temporalmente.");
+    setDataSourceStatus("default", "No habia datos remotos ni respaldo local; se cargaron datos de ejemplo.");
   }
 }
 

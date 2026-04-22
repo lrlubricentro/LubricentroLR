@@ -117,6 +117,58 @@ h1 {
   margin-bottom: 18px;
 }
 
+.data-source-indicator {
+  margin: -2px 0 14px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding: 8px 10px;
+  border: 1px solid #d8d1c3;
+  border-radius: 10px;
+  background: #fffdf8;
+  color: #3d3a34;
+}
+
+.data-source-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+  background: #8a8a8a;
+}
+
+.data-source-indicator strong {
+  font-size: 0.9rem;
+}
+
+.data-source-indicator span {
+  font-size: 0.84rem;
+}
+
+.data-source-indicator.data-source-github {
+  border-color: #9dd8c3;
+  background: #f2fbf7;
+}
+
+.data-source-indicator.data-source-github .data-source-dot {
+  background: #1f8f67;
+}
+
+.data-source-indicator.data-source-local {
+  border-color: #e8bf78;
+  background: #fff8ec;
+}
+
+.data-source-indicator.data-source-local .data-source-dot {
+  background: #cc8b12;
+}
+
+.data-source-indicator.data-source-default,
+.data-source-indicator.data-source-unknown {
+  border-color: #d8d1c3;
+  background: #fffdf8;
+}
+
 .tab-btn {
   height: 40px;
   border-radius: 10px;
