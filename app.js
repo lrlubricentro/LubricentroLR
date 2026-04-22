@@ -1128,6 +1128,14 @@ async function initializeApp() {
   const localBackup = loadLocalBackup();
   const localHasData = Boolean(localBackup && Object.keys(localBackup).length > 0);
   const remoteHasData = Boolean(remoteServices && Object.keys(remoteServices).length > 0);
+
+  // Migracion: si habia respaldo local antes de que existiera la flag de sync,
+  // lo marcamos como pendiente para no perder datos cargados previamente.
+  const flagAlreadySet = localStorage.getItem(LOCAL_PENDING_SYNC_KEY) !== null;
+  if (localHasData && !flagAlreadySet) {
+    setPendingLocalSync(true);
+  }
+
   const localPending = hasPendingLocalSync();
 
   let sourceServices = { ...defaultServices };
