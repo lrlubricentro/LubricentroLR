@@ -3,8 +3,11 @@
     {
       "id": "svc-1",
       "cliente": "Juan Perez",
+      "model": "",
+      "checklist": null,
       "trabajo": "Cambio de aceite + Filtro de aceite. Detalle: Aceite 10W40 semisintetico.",
       "fechaService": "2026-03-04",
+      "currentKm": "",
       "proximoKm": "55000"
     }
   ],
@@ -12,8 +15,11 @@
     {
       "id": "svc-2",
       "cliente": "Maria Gomez",
+      "model": "",
+      "checklist": null,
       "trabajo": "Cambio de aceite + Filtro de aire.",
       "fechaService": "2026-02-20",
+      "currentKm": "",
       "proximoKm": "62000"
     }
   ],
@@ -21,9 +27,46 @@
     {
       "id": "svc-3",
       "cliente": "Carlos Ruiz",
+      "model": "",
+      "checklist": null,
       "trabajo": "Service completo + Revision de fluidos.",
       "fechaService": "2026-01-12",
+      "currentKm": "",
       "proximoKm": "73000"
+    }
+  ],
+  "AA177PF": [
+    {
+      "id": "svc-1777006088924-8170",
+      "cliente": "Javier Cordero",
+      "model": "Chevrolet Tracker LTZ AWD",
+      "checklist": {
+        "aceite": "5W30",
+        "aditivoCarter": "no",
+        "aditivoTransmision": "no",
+        "aditivoCombustible": "no",
+        "detalle": ".",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "no",
+          "caja-velocidad": "no",
+          "diferencial-trasero": "no",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "no",
+          "diferencial-delantero": "no",
+          "liquido-freno": "no",
+          "bujias": "no",
+          "bateria": "no",
+          "liquido-refrigerante": "si",
+          "engrase": "si",
+          "liquido-hidraulico": "no"
+        }
+      },
+      "trabajo": "Aceite: 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen, Cambio Liquido Refrigerante, Engrase | Aditivo Carter: no | Aditivo Transmision: no | Aditivo Combustible: no | Detalle: .",
+      "fechaService": "2026-04-11",
+      "currentKm": "76500",
+      "proximoKm": "86500"
     }
   ]
 }
