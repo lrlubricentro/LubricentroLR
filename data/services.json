@@ -1,16 +1,4 @@
 {
-  "AC456EF": [
-    {
-      "id": "svc-2",
-      "cliente": "Maria Gomez",
-      "model": "",
-      "checklist": null,
-      "trabajo": "Cambio de aceite + Filtro de aire.",
-      "fechaService": "2026-02-20",
-      "currentKm": "",
-      "proximoKm": "62000"
-    }
-  ],
   "AA177PF": [
     {
       "id": "svc-1777006088924-8170",
