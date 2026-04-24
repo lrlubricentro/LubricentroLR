@@ -23,18 +23,6 @@
       "proximoKm": "62000"
     }
   ],
-  "AAA123": [
-    {
-      "id": "svc-3",
-      "cliente": "Carlos Ruiz",
-      "model": "",
-      "checklist": null,
-      "trabajo": "Service completo + Revision de fluidos.",
-      "fechaService": "2026-01-12",
-      "currentKm": "",
-      "proximoKm": "73000"
-    }
-  ],
   "AA177PF": [
     {
       "id": "svc-1777006088924-8170",
