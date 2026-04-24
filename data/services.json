@@ -1,1 +1,172 @@
-{}
+{
+  "AA177PF": [
+    {
+      "id": "svc-1777006088924-8170",
+      "cliente": "Javier Cordero",
+      "model": "Chevrolet Tracker LTZ AWD",
+      "checklist": {
+        "aceite": "5W30",
+        "aditivoCarter": "no",
+        "aditivoTransmision": "no",
+        "aditivoCombustible": "no",
+        "detalle": ".",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "no",
+          "caja-velocidad": "no",
+          "diferencial-trasero": "no",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "no",
+          "diferencial-delantero": "no",
+          "liquido-freno": "no",
+          "bujias": "no",
+          "bateria": "no",
+          "liquido-refrigerante": "si",
+          "engrase": "si",
+          "liquido-hidraulico": "no"
+        }
+      },
+      "trabajo": "Aceite: 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen, Cambio Liquido Refrigerante, Engrase | Aditivo Carter: no | Aditivo Transmision: no | Aditivo Combustible: no | Detalle: .",
+      "fechaService": "2026-04-11",
+      "currentKm": "76500",
+      "proximoKm": "86500"
+    }
+  ],
+  "AA494TA": [
+    {
+      "id": "svc-1777028505885-8839",
+      "cliente": "GOLF",
+      "model": "GOLF",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-10",
+      "currentKm": "80000",
+      "proximoKm": "90000"
+    }
+  ],
+  "KHW676": [
+    {
+      "id": "svc-1777029819079-5979",
+      "cliente": "MINI",
+      "model": "MINI",
+      "checklist": {
+        "aceite": "MOBIL 1 5W50",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOBIL 1 5W50 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-10",
+      "currentKm": "72900",
+      "proximoKm": "83000"
+    }
+  ],
+  "AA223SB": [
+    {
+      "id": "svc-1777029884150-7749",
+      "cliente": "GLC300",
+      "model": "GLC300",
+      "checklist": {
+        "aceite": "VALVOLINE ADVANCED 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE ADVANCED 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-10",
+      "currentKm": "168000",
+      "proximoKm": "179000"
+    }
+  ],
+  "AE184YM": [
+    {
+      "id": "svc-1777029934870-6349",
+      "cliente": "CRUZE",
+      "model": "CRUZE",
+      "checklist": {
+        "aceite": "YPF ELAION AURO D1 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: YPF ELAION AURO D1 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-06",
+      "currentKm": "103400",
+      "proximoKm": "113000"
+    }
+  ]
+}
