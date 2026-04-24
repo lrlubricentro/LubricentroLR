@@ -1,38 +1,4 @@
 {
-  "AA177PF": [
-    {
-      "id": "svc-1777006088924-8170",
-      "cliente": "Javier Cordero",
-      "model": "Chevrolet Tracker LTZ AWD",
-      "checklist": {
-        "aceite": "5W30",
-        "aditivoCarter": "no",
-        "aditivoTransmision": "no",
-        "aditivoCombustible": "no",
-        "detalle": ".",
-        "checks": {
-          "filtro-aceite": "si",
-          "filtro-combustible": "no",
-          "caja-velocidad": "no",
-          "diferencial-trasero": "no",
-          "filtro-aire": "si",
-          "filtro-polen": "si",
-          "caja-transfer": "no",
-          "diferencial-delantero": "no",
-          "liquido-freno": "no",
-          "bujias": "no",
-          "bateria": "no",
-          "liquido-refrigerante": "si",
-          "engrase": "si",
-          "liquido-hidraulico": "no"
-        }
-      },
-      "trabajo": "Aceite: 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen, Cambio Liquido Refrigerante, Engrase | Aditivo Carter: no | Aditivo Transmision: no | Aditivo Combustible: no | Detalle: .",
-      "fechaService": "2026-04-11",
-      "currentKm": "76500",
-      "proximoKm": "86500"
-    }
-  ],
   "AA494TA": [
     {
       "id": "svc-1777028505885-8839",
