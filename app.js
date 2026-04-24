@@ -1128,19 +1128,24 @@ async function initializeApp() {
   const localBackup = loadLocalBackup();
   const localHasData = Boolean(localBackup && Object.keys(localBackup).length > 0);
   const remoteHasData = Boolean(remoteServices && Object.keys(remoteServices).length > 0);
+  const hasSessionToken = Boolean(sessionStorage.getItem("gh-token"));
 
   // Migracion: si habia respaldo local antes de que existiera la flag de sync,
-  // lo marcamos como pendiente para no perder datos cargados previamente.
+  // lo marcamos como pendiente solo si GitHub no trae datos en este momento.
+  // Esto evita bloquear dispositivos en modo "pendiente" cuando los datos ya
+  // estan correctamente publicados en el repositorio.
   const flagAlreadySet = localStorage.getItem(LOCAL_PENDING_SYNC_KEY) !== null;
-  if (localHasData && !flagAlreadySet) {
+  if (localHasData && !flagAlreadySet && !remoteHasData) {
     setPendingLocalSync(true);
   }
 
   const localPending = hasPendingLocalSync();
+  const shouldPrioritizePendingLocal =
+    localPending && localHasData && (!remoteHasData || hasSessionToken);
 
   let sourceServices = { ...defaultServices };
 
-  if (localPending && localHasData) {
+  if (shouldPrioritizePendingLocal) {
     sourceServices = localBackup;
   } else if (remoteHasData) {
     sourceServices = remoteServices;
@@ -1153,13 +1158,22 @@ async function initializeApp() {
   renderOwnerTable();
   refreshTokenStatusFromSession();
 
-  if (localPending && localHasData) {
+  if (shouldPrioritizePendingLocal) {
     pendingSyncServices = cloneServicesSnapshot(servicesByPlate);
     setSyncStatus("pending", "Se detecto respaldo local. Validando sincronizacion con GitHub...");
     setDataSourceStatus("local", "Se cargo respaldo local porque habia cambios pendientes de sincronizar.");
     setTimeout(() => {
       attemptBackgroundSync();
     }, 0);
+  } else if (localPending && localHasData && remoteHasData && !hasSessionToken) {
+    setSyncStatus(
+      "pending",
+      "Hay respaldo local marcado como pendiente, pero este dispositivo no tiene token activo."
+    );
+    setDataSourceStatus(
+      "github",
+      "Se priorizan datos de GitHub en este dispositivo para mantener la informacion actualizada."
+    );
   } else if (remoteHasData) {
     setSyncStatus("synced", "Datos cargados desde GitHub.");
     setDataSourceStatus("github", "Datos cargados directamente desde el repositorio de GitHub.");
