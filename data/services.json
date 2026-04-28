@@ -984,5 +984,39 @@
       "currentKm": "74100",
       "proximoKm": "84000"
     }
+  ],
+  "AB815FI": [
+    {
+      "id": "svc-1777412112704-4344",
+      "cliente": "SAVEIRO",
+      "model": "SAVEIRO",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-04-18",
+      "currentKm": "96400",
+      "proximoKm": "106000"
+    }
   ]
 }
