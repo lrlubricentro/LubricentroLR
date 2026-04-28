@@ -1086,5 +1086,39 @@
       "currentKm": "215600",
       "proximoKm": "226000"
     }
+  ],
+  "AA134ZJ": [
+    {
+      "id": "svc-1777412279520-9738",
+      "cliente": "S10",
+      "model": "S10",
+      "checklist": {
+        "aceite": "MOTUL 8100 XCLEAN 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 XCLEAN 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-18",
+      "currentKm": "211300",
+      "proximoKm": "222000"
+    }
   ]
 }
