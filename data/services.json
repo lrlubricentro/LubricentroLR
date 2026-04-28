@@ -236,5 +236,39 @@
       "currentKm": "349500",
       "proximoKm": "360000"
     }
+  ],
+  "ILI386": [
+    {
+      "id": "svc-1777396115580-8539",
+      "cliente": "SW4",
+      "model": "SW4",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "A3",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: A3",
+      "fechaService": "2026-04-15",
+      "currentKm": "108900",
+      "proximoKm": "119000"
+    }
   ]
 }
