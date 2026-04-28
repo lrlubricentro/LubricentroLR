@@ -1290,5 +1290,39 @@
       "currentKm": "184000",
       "proximoKm": "194000"
     }
+  ],
+  "AE024UH": [
+    {
+      "id": "svc-1777412602448-4506",
+      "cliente": "2008",
+      "model": "2008",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ INEO 0W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ INEO 0W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-17",
+      "currentKm": "52500",
+      "proximoKm": "62000"
+    }
   ]
 }
