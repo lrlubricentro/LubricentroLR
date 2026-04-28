@@ -882,5 +882,39 @@
       "currentKm": "133600",
       "proximoKm": "144000"
     }
+  ],
+  "JCM449": [
+    {
+      "id": "svc-1777411928955-3723",
+      "cliente": "CAROLINA",
+      "model": "KA",
+      "checklist": {
+        "aceite": "ELAION AURO FE 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 530 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-18",
+      "currentKm": "54200",
+      "proximoKm": "64000"
+    }
   ]
 }
