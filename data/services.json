@@ -542,5 +542,39 @@
       "currentKm": "142500",
       "proximoKm": "154000"
     }
+  ],
+  "JKY020": [
+    {
+      "id": "svc-1777396833913-147",
+      "cliente": "IMPREZA",
+      "model": "IMPREZA",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-04-14",
+      "currentKm": "283400",
+      "proximoKm": "294000"
+    }
   ]
 }
