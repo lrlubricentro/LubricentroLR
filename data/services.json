@@ -406,5 +406,39 @@
       "currentKm": "107700",
       "proximoKm": "117000"
     }
+  ],
+  "OGH829": [
+    {
+      "id": "svc-1777396464495-3721",
+      "cliente": "MATIAS",
+      "model": "FIESTA",
+      "checklist": {
+        "aceite": "YPF ELAION AURO FE 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: YPF ELAION AURO FE 530 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-14",
+      "currentKm": "123500",
+      "proximoKm": "133000"
+    }
   ]
 }
