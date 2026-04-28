@@ -576,5 +576,39 @@
       "currentKm": "283400",
       "proximoKm": "294000"
     }
+  ],
+  "JVN464": [
+    {
+      "id": "svc-1777396910442-9897",
+      "cliente": "BORA",
+      "model": "BORA",
+      "checklist": {
+        "aceite": "VALVOLINE ADVANCED 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE ADVANCED 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-14",
+      "currentKm": "220000",
+      "proximoKm": "230000"
+    }
   ]
 }
