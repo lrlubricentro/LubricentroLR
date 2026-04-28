@@ -1120,5 +1120,39 @@
       "currentKm": "211300",
       "proximoKm": "222000"
     }
+  ],
+  "KPO219": [
+    {
+      "id": "svc-1777412326376-7151",
+      "cliente": "DANIEL",
+      "model": "207",
+      "checklist": {
+        "aceite": "TOTAL 7000 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL 7000 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-18",
+      "currentKm": "151300",
+      "proximoKm": "160000"
+    }
   ]
 }
