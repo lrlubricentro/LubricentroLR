@@ -1222,5 +1222,39 @@
       "currentKm": "158700",
       "proximoKm": "168000"
     }
+  ],
+  "AF205DI": [
+    {
+      "id": "svc-1777412482560-5040",
+      "cliente": "GASTON",
+      "model": "MUSTANG",
+      "checklist": {
+        "aceite": "SHELL HELIX HX3 20W50",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX3 20W50 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-04-17",
+      "currentKm": "12900",
+      "proximoKm": "16000"
+    }
   ]
 }
