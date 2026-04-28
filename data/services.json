@@ -950,5 +950,39 @@
       "currentKm": "46900",
       "proximoKm": "57000"
     }
+  ],
+  "HPB782": [
+    {
+      "id": "svc-1777412063839-672",
+      "cliente": "BORA",
+      "model": "BORA",
+      "checklist": {
+        "aceite": "ELAION FS 540",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "no",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION FS 540 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-04-18",
+      "currentKm": "74100",
+      "proximoKm": "84000"
+    }
   ]
 }
