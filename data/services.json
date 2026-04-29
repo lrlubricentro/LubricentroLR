@@ -1528,5 +1528,39 @@
       "currentKm": "87100",
       "proximoKm": "97100"
     }
+  ],
+  "DEK387": [
+    {
+      "id": "svc-1777474117437-6183",
+      "cliente": "106",
+      "model": "106",
+      "checklist": {
+        "aceite": "MOBIL SUPER 1000 15W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOBIL SUPER 1000 15W40 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-04-20",
+      "currentKm": "218300",
+      "proximoKm": "228000"
+    }
   ]
 }
