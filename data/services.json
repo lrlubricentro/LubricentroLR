@@ -1392,5 +1392,39 @@
       "currentKm": "70200",
       "proximoKm": "80000"
     }
+  ],
+  "AB162CW": [
+    {
+      "id": "svc-1777460568603-5282",
+      "cliente": "ETIOS",
+      "model": "ETIOS",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ACEITE DE CAJA",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "no",
+          "caja-transfer": "si",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Caja Transfer | Detalle: CAMBIO ACEITE DE CAJA",
+      "fechaService": "2026-04-21",
+      "currentKm": "170100",
+      "proximoKm": "180000"
+    }
   ]
 }
