@@ -1766,5 +1766,39 @@
       "currentKm": "186300",
       "proximoKm": "205998"
     }
+  ],
+  "TEST1234": [
+    {
+      "id": "svc-1777515125699-6392",
+      "cliente": "test",
+      "model": "Ford test",
+      "checklist": {
+        "aceite": "5w30",
+        "aditivoCarter": "no",
+        "aditivoTransmision": "no",
+        "aditivoCombustible": "no",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "no",
+          "filtro-combustible": "no",
+          "caja-velocidad": "no",
+          "diferencial-trasero": "no",
+          "filtro-aire": "no",
+          "filtro-polen": "no",
+          "caja-transfer": "no",
+          "diferencial-delantero": "no",
+          "liquido-freno": "no",
+          "bujias": "no",
+          "bateria": "no",
+          "liquido-refrigerante": "no",
+          "engrase": "no",
+          "liquido-hidraulico": "no"
+        }
+      },
+      "trabajo": "Aceite: 5w30 | Aditivo Carter: no | Aditivo Transmision: no | Aditivo Combustible: no",
+      "fechaService": "2026-04-29",
+      "currentKm": "100",
+      "proximoKm": "10000"
+    }
   ]
 }
