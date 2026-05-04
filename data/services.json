@@ -2038,5 +2038,39 @@
       "currentKm": "116700",
       "proximoKm": "126000"
     }
+  ],
+  "VYS389": [
+    {
+      "id": "svc-1777921214143-9172",
+      "cliente": "DIEGUITO",
+      "model": "R19",
+      "checklist": {
+        "aceite": "ELF EVOLUTION 700",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELF EVOLUTION 700 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-04-30",
+      "currentKm": "10600",
+      "proximoKm": "17000"
+    }
   ]
 }
