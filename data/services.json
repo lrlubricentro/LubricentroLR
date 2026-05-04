@@ -1834,5 +1834,39 @@
       "currentKm": "325900",
       "proximoKm": "336000"
     }
+  ],
+  "GZB015": [
+    {
+      "id": "svc-1777920881422-8924",
+      "cliente": "ECOSPORT",
+      "model": "ECOSPORT",
+      "checklist": {
+        "aceite": "VALVOLINE ADVANCED 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE ADVANCED 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-02",
+      "currentKm": "119400",
+      "proximoKm": "130000"
+    }
   ]
 }
