@@ -2682,5 +2682,39 @@
       "currentKm": "162800",
       "proximoKm": "173000"
     }
+  ],
+  "PGI603": [
+    {
+      "id": "svc-1777930801126-6581",
+      "cliente": "AMAROK",
+      "model": "AMAROK",
+      "checklist": {
+        "aceite": "SHELL HELIX HX8 5W40",
+        "aditivoCarter": "CERMAO ESTER",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX8 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Aditivo Carter: CERMAO ESTER",
+      "fechaService": "2026-04-29",
+      "currentKm": "208500",
+      "proximoKm": "219000"
+    }
   ]
 }
