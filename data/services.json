@@ -1970,5 +1970,39 @@
       "currentKm": "98400",
       "proximoKm": "108000"
     }
+  ],
+  "AC052FJ": [
+    {
+      "id": "svc-1777921112351-1559",
+      "cliente": "ETIOS",
+      "model": "ETIOS",
+      "checklist": {
+        "aceite": "",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-02",
+      "currentKm": "25700",
+      "proximoKm": "35000"
+    }
   ]
 }
