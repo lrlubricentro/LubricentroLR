@@ -2072,5 +2072,39 @@
       "currentKm": "10600",
       "proximoKm": "17000"
     }
+  ],
+  "AH118UN": [
+    {
+      "id": "svc-1777921263039-9620",
+      "cliente": "JUAN",
+      "model": "208",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ INEO 0W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ INEO 0W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-30",
+      "currentKm": "19800",
+      "proximoKm": "30000"
+    }
   ]
 }
