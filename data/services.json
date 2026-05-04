@@ -2580,5 +2580,39 @@
       "currentKm": "81600",
       "proximoKm": "91000"
     }
+  ],
+  "AA239HH": [
+    {
+      "id": "svc-1777930641589-35",
+      "cliente": "EDUARDO",
+      "model": "PARTNER",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 9000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 9000 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-04-29",
+      "currentKm": "152000",
+      "proximoKm": "162000"
+    }
   ]
 }
