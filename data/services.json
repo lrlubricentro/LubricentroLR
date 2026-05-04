@@ -1800,5 +1800,39 @@
       "currentKm": "100",
       "proximoKm": "10000"
     }
+  ],
+  "GBG104": [
+    {
+      "id": "svc-1777920817423-4431",
+      "cliente": "307",
+      "model": "307",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-05-02",
+      "currentKm": "325900",
+      "proximoKm": "336000"
+    }
   ]
 }
