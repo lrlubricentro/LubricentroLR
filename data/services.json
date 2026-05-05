@@ -2886,5 +2886,39 @@
       "currentKm": "20000",
       "proximoKm": "30000"
     }
+  ],
+  "AC085IZ": [
+    {
+      "id": "svc-1777980597532-8060",
+      "cliente": "C3",
+      "model": "C3",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 9000 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ACEITE DE CAJA",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "si",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 9000 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen, Caja Transfer | Detalle: CAMBIO ACEITE DE CAJA",
+      "fechaService": "2026-05-15",
+      "currentKm": "96300",
+      "proximoKm": "106000"
+    }
   ]
 }
