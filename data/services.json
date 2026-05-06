@@ -3630,5 +3630,39 @@
       "currentKm": "123400",
       "proximoKm": "133000"
     }
+  ],
+  "AF221XC": [
+    {
+      "id": "svc-1778029873976-4417",
+      "cliente": "JUAN",
+      "model": "KANGOO",
+      "checklist": {
+        "aceite": "CASTROL MAGNATEC STOP START 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL MAGNATEC STOP START 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-09",
+      "currentKm": "60000",
+      "proximoKm": "70000"
+    }
   ]
 }
