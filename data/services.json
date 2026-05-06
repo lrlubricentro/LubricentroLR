@@ -1,6 +1,38 @@
 {
   "AA177PF": [
     {
+      "id": "svc-1778029501705-2332",
+      "cliente": "TRACKER",
+      "model": "TRACKER",
+      "checklist": {
+        "aceite": "MOTUL 8100 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-11",
+      "currentKm": "76900",
+      "proximoKm": "87000"
+    },
+    {
       "id": "svc-1777006088924-8170",
       "cliente": "Javier Cordero",
       "model": "Chevrolet Tracker LTZ AWD",
