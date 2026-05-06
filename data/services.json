@@ -3664,5 +3664,39 @@
       "currentKm": "60000",
       "proximoKm": "70000"
     }
+  ],
+  "GIF457": [
+    {
+      "id": "svc-1778031049285-6530",
+      "cliente": "VENTO",
+      "model": "VENTO",
+      "checklist": {
+        "aceite": "MOTUL 8100 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-09",
+      "currentKm": "86200",
+      "proximoKm": "96000"
+    }
   ]
 }
