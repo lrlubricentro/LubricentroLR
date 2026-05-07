@@ -3360,5 +3360,39 @@
       "currentKm": "88200",
       "proximoKm": "98200"
     }
+  ],
+  "GEK425": [
+    {
+      "id": "svc-1778153121806-874",
+      "cliente": "X5",
+      "model": "X5",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-05",
+      "currentKm": "139800",
+      "proximoKm": "150000"
+    }
   ]
 }
