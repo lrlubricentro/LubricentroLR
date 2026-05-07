@@ -3700,5 +3700,39 @@
       "currentKm": "185100",
       "proximoKm": "195000"
     }
+  ],
+  "OFO389": [
+    {
+      "id": "svc-1778186231668-1729",
+      "cliente": "FERNANDO",
+      "model": "208",
+      "checklist": {
+        "aceite": "TOTAL 7000 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL 7000 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-06",
+      "currentKm": "152600",
+      "proximoKm": "162000"
+    }
   ]
 }
