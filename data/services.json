@@ -3496,5 +3496,39 @@
       "currentKm": "58200",
       "proximoKm": "68000"
     }
+  ],
+  "SFP479": [
+    {
+      "id": "svc-1778185782131-7452",
+      "cliente": "MATIAS",
+      "model": "C220",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "no",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "si",
+          "diferencial-delantero": "si",
+          "liquido-freno": "",
+          "bujias": "si",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Caja Transfer, Diferencial Delantero, Cambio Bujias",
+      "fechaService": "2026-04-28",
+      "currentKm": "125300",
+      "proximoKm": "135000"
+    }
   ]
 }
