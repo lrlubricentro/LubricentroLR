@@ -3292,5 +3292,39 @@
       "currentKm": "164700",
       "proximoKm": "175000"
     }
+  ],
+  "AD776OP": [
+    {
+      "id": "svc-1778153015734-6584",
+      "cliente": "PRISMA",
+      "model": "PRISMA",
+      "checklist": {
+        "aceite": "ELAION AURO D1 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D1 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-08",
+      "currentKm": "104200",
+      "proximoKm": "114000"
+    }
   ]
 }
