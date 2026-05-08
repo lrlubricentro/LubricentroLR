@@ -3768,5 +3768,39 @@
       "currentKm": "95300",
       "proximoKm": "104999"
     }
+  ],
+  "AG543UU": [
+    {
+      "id": "svc-1778238541247-8356",
+      "cliente": "CRONOS",
+      "model": "CRNOS",
+      "checklist": {
+        "aceite": "SELENIA FORWARD 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA FORWARD 0W20 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro Polen",
+      "fechaService": "2026-05-05",
+      "currentKm": "68309",
+      "proximoKm": "78000"
+    }
   ]
 }
