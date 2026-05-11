@@ -4516,5 +4516,39 @@
       "currentKm": "300000",
       "proximoKm": "310000"
     }
+  ],
+  "HCC779": [
+    {
+      "id": "svc-1778520975326-5836",
+      "cliente": "ANA",
+      "model": "MEGANE",
+      "checklist": {
+        "aceite": "VALVOLINE 25W60",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE 25W60 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-08",
+      "currentKm": "381600",
+      "proximoKm": "391000"
+    }
   ]
 }
