@@ -4618,5 +4618,39 @@
       "currentKm": "39000",
       "proximoKm": "49000"
     }
+  ],
+  "NDR307": [
+    {
+      "id": "svc-1778585681731-2971",
+      "cliente": "PALIO",
+      "model": "PALIO",
+      "checklist": {
+        "aceite": "VALVOLINE 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE 10W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-08",
+      "currentKm": "181000",
+      "proximoKm": "191000"
+    }
   ]
 }
