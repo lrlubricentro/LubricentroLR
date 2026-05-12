@@ -5366,5 +5366,39 @@
       "currentKm": "179700",
       "proximoKm": "189000"
     }
+  ],
+  "AC808YJ": [
+    {
+      "id": "svc-1778587216355-8481",
+      "cliente": "ARGO",
+      "model": "ARGO",
+      "checklist": {
+        "aceite": "VALVOLINE 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-21",
+      "currentKm": "84000",
+      "proximoKm": "94000"
+    }
   ]
 }
