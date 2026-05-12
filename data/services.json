@@ -5264,5 +5264,39 @@
       "currentKm": "110200",
       "proximoKm": "120000"
     }
+  ],
+  "EUR953": [
+    {
+      "id": "svc-1778587041427-4885",
+      "cliente": "NICOLAS",
+      "model": "FOX",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-04-21",
+      "currentKm": "231300",
+      "proximoKm": "241000"
+    }
   ]
 }
