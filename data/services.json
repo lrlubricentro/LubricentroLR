@@ -5672,5 +5672,39 @@
       "currentKm": "191700",
       "proximoKm": "200000"
     }
+  ],
+  "ETV004": [
+    {
+      "id": "svc-1778587805743-2614",
+      "cliente": "ECOSPORT",
+      "model": "ECOSPORT",
+      "checklist": {
+        "aceite": "MOTUL 8100 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-24",
+      "currentKm": "66800",
+      "proximoKm": "76000"
+    }
   ]
 }
