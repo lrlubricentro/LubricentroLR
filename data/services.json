@@ -5910,5 +5910,39 @@
       "currentKm": "67300",
       "proximoKm": "77000"
     }
+  ],
+  "AG103PG": [
+    {
+      "id": "svc-1778931851313-516",
+      "cliente": "CRONOS",
+      "model": "CRONOS",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-05-13",
+      "currentKm": "89200",
+      "proximoKm": "99000"
+    }
   ]
 }
