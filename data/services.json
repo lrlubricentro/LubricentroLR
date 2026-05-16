@@ -6350,5 +6350,39 @@
       "currentKm": "93000",
       "proximoKm": "103000"
     }
+  ],
+  "JST616": [
+    {
+      "id": "svc-1778937989560-3166",
+      "cliente": "TIGUAN",
+      "model": "TIGUAN",
+      "checklist": {
+        "aceite": "VALVOLINE 5W40",
+        "aditivoCarter": "CERATEC",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen | Aditivo Carter: CERATEC",
+      "fechaService": "2026-04-24",
+      "currentKm": "115000",
+      "proximoKm": "125000"
+    }
   ]
 }
