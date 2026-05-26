@@ -6758,5 +6758,39 @@
       "currentKm": "179200",
       "proximoKm": "1111111"
     }
+  ],
+  "GTR315": [
+    {
+      "id": "svc-1779831506746-2320",
+      "cliente": "GOL POWER",
+      "model": "GOL POWER",
+      "checklist": {
+        "aceite": "HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX HX7 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-04-28",
+      "currentKm": "201300",
+      "proximoKm": "210000"
+    }
   ]
 }
