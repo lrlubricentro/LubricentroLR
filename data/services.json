@@ -6622,5 +6622,39 @@
       "currentKm": "55400",
       "proximoKm": "65400"
     }
+  ],
+  "AB101PG": [
+    {
+      "id": "svc-1779830500435-8658",
+      "cliente": "LOGAN",
+      "model": "LOGAN",
+      "checklist": {
+        "aceite": "EVOLUTION 700",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: EVOLUTION 700 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-05-04",
+      "currentKm": "160400",
+      "proximoKm": "170000"
+    }
   ]
 }
