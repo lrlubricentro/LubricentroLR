@@ -7064,5 +7064,39 @@
       "currentKm": "169600",
       "proximoKm": "180000"
     }
+  ],
+  "FJT483": [
+    {
+      "id": "svc-1779917476919-5465",
+      "cliente": "307",
+      "model": "307",
+      "checklist": {
+        "aceite": "TOTAL 7000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL 7000 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-05-22",
+      "currentKm": "248600",
+      "proximoKm": "258000"
+    }
   ]
 }
