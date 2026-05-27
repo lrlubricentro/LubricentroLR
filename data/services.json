@@ -7370,5 +7370,39 @@
       "currentKm": "211300",
       "proximoKm": "222000"
     }
+  ],
+  "AG006XT": [
+    {
+      "id": "svc-1779918777055-4937",
+      "cliente": "BERLINGO",
+      "model": "BERLINGO",
+      "checklist": {
+        "aceite": "TOTAL 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-22",
+      "currentKm": "79300",
+      "proximoKm": "90000"
+    }
   ]
 }
