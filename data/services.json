@@ -7302,5 +7302,39 @@
       "currentKm": "102400",
       "proximoKm": "112000"
     }
+  ],
+  "AF463XV": [
+    {
+      "id": "svc-1779918561661-4036",
+      "cliente": "POLO",
+      "model": "POLO",
+      "checklist": {
+        "aceite": "HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-22",
+      "currentKm": "33800",
+      "proximoKm": "43000"
+    }
   ]
 }
