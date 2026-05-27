@@ -7030,5 +7030,39 @@
       "currentKm": "80700",
       "proximoKm": "1111"
     }
+  ],
+  "JMX085": [
+    {
+      "id": "svc-1779917349778-7207",
+      "cliente": "VANESA",
+      "model": "PALIO",
+      "checklist": {
+        "aceite": "HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-22",
+      "currentKm": "169600",
+      "proximoKm": "180000"
+    }
   ]
 }
