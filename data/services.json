@@ -7098,5 +7098,39 @@
       "currentKm": "248600",
       "proximoKm": "258000"
     }
+  ],
+  "AA220GS": [
+    {
+      "id": "svc-1779917655030-2764",
+      "cliente": "DANIELA",
+      "model": "FORD KA",
+      "checklist": {
+        "aceite": "ELAION AURO FE 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "ver cinturon",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 530 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: ver cinturon",
+      "fechaService": "2026-05-22",
+      "currentKm": "123000",
+      "proximoKm": "133000"
+    }
   ]
 }
