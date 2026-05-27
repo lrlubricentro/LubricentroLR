@@ -7472,5 +7472,39 @@
       "currentKm": "104300",
       "proximoKm": "114000"
     }
+  ],
+  "AG122II": [
+    {
+      "id": "svc-1779919425624-6561",
+      "cliente": "OCTAVIO",
+      "model": "TRACKER",
+      "checklist": {
+        "aceite": "ELAION AURO 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO 530 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-05-21",
+      "currentKm": "42000",
+      "proximoKm": "52000"
+    }
   ]
 }
