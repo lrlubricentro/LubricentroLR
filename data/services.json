@@ -6929,40 +6929,6 @@
       "proximoKm": "11111"
     }
   ],
-  "LXH889": [
-    {
-      "id": "svc-1779832192559-2270",
-      "cliente": "CLIO",
-      "model": "CLIO",
-      "checklist": {
-        "aceite": "EVOLUTION 700",
-        "aditivoCarter": "",
-        "aditivoTransmision": "",
-        "aditivoCombustible": "",
-        "detalle": "",
-        "checks": {
-          "filtro-aceite": "si",
-          "filtro-combustible": "",
-          "caja-velocidad": "",
-          "diferencial-trasero": "",
-          "filtro-aire": "si",
-          "filtro-polen": "si",
-          "caja-transfer": "",
-          "diferencial-delantero": "",
-          "liquido-freno": "",
-          "bujias": "",
-          "bateria": "",
-          "liquido-refrigerante": "",
-          "engrase": "",
-          "liquido-hidraulico": ""
-        }
-      },
-      "trabajo": "Aceite: EVOLUTION 700 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
-      "fechaService": "2026-04-28",
-      "currentKm": "38600",
-      "proximoKm": "1111"
-    }
-  ],
   "AD162RU": [
     {
       "id": "svc-1779832331329-408",
