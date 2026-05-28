@@ -7676,5 +7676,39 @@
       "currentKm": "78000",
       "proximoKm": "88000"
     }
+  ],
+  "AB493OK": [
+    {
+      "id": "svc-1780003115011-2890",
+      "cliente": "FOX",
+      "model": "FOX",
+      "checklist": {
+        "aceite": "ELAION AURO FE 540",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 540 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-23",
+      "currentKm": "133300",
+      "proximoKm": "143000"
+    }
   ]
 }
