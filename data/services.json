@@ -8220,5 +8220,39 @@
       "currentKm": "103500",
       "proximoKm": "113500"
     }
+  ],
+  "DMB050": [
+    {
+      "id": "svc-1780091302187-632",
+      "cliente": "RANGER",
+      "model": "RANGER",
+      "checklist": {
+        "aceite": "SHELL RIMULA",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL RIMULA | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-04-22",
+      "currentKm": "224000",
+      "proximoKm": "234000"
+    }
   ]
 }
