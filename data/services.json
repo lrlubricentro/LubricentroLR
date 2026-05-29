@@ -8322,5 +8322,39 @@
       "currentKm": "54200",
       "proximoKm": "64000"
     }
+  ],
+  "AB064KM": [
+    {
+      "id": "svc-1780091752630-4768",
+      "cliente": "SAVEIRO",
+      "model": "SAVEIRO",
+      "checklist": {
+        "aceite": "HELIX ULTRA",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-23",
+      "currentKm": "69500",
+      "proximoKm": "79500"
+    }
   ]
 }
