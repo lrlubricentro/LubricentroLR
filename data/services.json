@@ -7880,5 +7880,39 @@
       "currentKm": "102500",
       "proximoKm": "112500"
     }
+  ],
+  "AD794RW": [
+    {
+      "id": "svc-1780089819215-7114",
+      "cliente": "CARLOS(TITO)",
+      "model": "KA",
+      "checklist": {
+        "aceite": "AURO FE 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: AURO FE 530 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-27",
+      "currentKm": "59000",
+      "proximoKm": "69000"
+    }
   ]
 }
