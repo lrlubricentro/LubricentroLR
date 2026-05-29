@@ -7982,5 +7982,39 @@
       "currentKm": "92200",
       "proximoKm": "102000"
     }
+  ],
+  "DXS282": [
+    {
+      "id": "svc-1780090501924-5002",
+      "cliente": "BERLINGO",
+      "model": "BERLINGO",
+      "checklist": {
+        "aceite": "VALVOLINE DURABLEND",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE DURABLEND | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-23",
+      "currentKm": "253200",
+      "proximoKm": "263000"
+    }
   ]
 }
