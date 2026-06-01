@@ -8594,5 +8594,39 @@
       "currentKm": "141200",
       "proximoKm": "151000"
     }
+  ],
+  "AF242RR": [
+    {
+      "id": "svc-1780344265463-9490",
+      "cliente": "COMPASS",
+      "model": "COMPASS",
+      "checklist": {
+        "aceite": "HELIZ ULTRA OW30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIZ ULTRA OW30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-28",
+      "currentKm": "32400",
+      "proximoKm": "42400"
+    }
   ]
 }
