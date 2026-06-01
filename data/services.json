@@ -8390,5 +8390,39 @@
       "currentKm": "81500",
       "proximoKm": "91000"
     }
+  ],
+  "JTZ781": [
+    {
+      "id": "svc-1780343722851-8627",
+      "cliente": "SANDERO",
+      "model": "SANDERO",
+      "checklist": {
+        "aceite": "EVOLUTION 700",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: EVOLUTION 700 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-25",
+      "currentKm": "128500",
+      "proximoKm": "138000"
+    }
   ]
 }
