@@ -8900,5 +8900,39 @@
       "currentKm": "83500",
       "proximoKm": "94000"
     }
+  ],
+  "AF704IP": [
+    {
+      "id": "svc-1780346415894-7126",
+      "cliente": "BERLINGO",
+      "model": "BERLINGO",
+      "checklist": {
+        "aceite": "TOTAL INEO 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "LIMPIEZA DE INYECTORES",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL INEO 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: LIMPIEZA DE INYECTORES",
+      "fechaService": "2026-05-07",
+      "currentKm": "51200",
+      "proximoKm": "61000"
+    }
   ]
 }
