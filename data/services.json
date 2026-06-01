@@ -8424,5 +8424,39 @@
       "currentKm": "128500",
       "proximoKm": "138000"
     }
+  ],
+  "AG967GM": [
+    {
+      "id": "svc-1780343805346-7370",
+      "cliente": "VERSA",
+      "model": "VERSA",
+      "checklist": {
+        "aceite": "HELIX ULTRA",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-25",
+      "currentKm": "113500",
+      "proximoKm": "123500"
+    }
   ]
 }
