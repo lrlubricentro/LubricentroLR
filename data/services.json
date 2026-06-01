@@ -8696,5 +8696,39 @@
       "currentKm": "61200",
       "proximoKm": "71000"
     }
+  ],
+  "LGD592": [
+    {
+      "id": "svc-1780345098390-9935",
+      "cliente": "VICTORIA",
+      "model": "KA",
+      "checklist": {
+        "aceite": "ELAION TS 1040",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION TS 1040 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-04",
+      "currentKm": "80200",
+      "proximoKm": "90000"
+    }
   ]
 }
