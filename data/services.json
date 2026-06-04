@@ -9274,5 +9274,39 @@
       "currentKm": "202000",
       "proximoKm": "212000"
     }
+  ],
+  "AE282IX": [
+    {
+      "id": "svc-1780602020807-7347",
+      "cliente": "DIEGUITO",
+      "model": "KANGOO",
+      "checklist": {
+        "aceite": "HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX HX7 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-11",
+      "currentKm": "144700",
+      "proximoKm": "154700"
+    }
   ]
 }
