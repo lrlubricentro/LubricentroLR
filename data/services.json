@@ -9172,5 +9172,39 @@
       "currentKm": "38800",
       "proximoKm": "46000"
     }
+  ],
+  "GGQ838": [
+    {
+      "id": "svc-1780601481898-8752",
+      "cliente": "307",
+      "model": "307",
+      "checklist": {
+        "aceite": "TOTAL 7000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL 7000 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-11",
+      "currentKm": "198200",
+      "proximoKm": "208000"
+    }
   ]
 }
