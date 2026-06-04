@@ -9036,5 +9036,39 @@
       "currentKm": "68500",
       "proximoKm": "78500"
     }
+  ],
+  "TPE023": [
+    {
+      "id": "svc-1780600768303-6179",
+      "cliente": "PASSAT",
+      "model": "PASSAT",
+      "checklist": {
+        "aceite": "HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO CAJA",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX HX7 | Checks SI: Filtro de Aceite, Filtro de Aire | Detalle: CAMBIO CAJA",
+      "fechaService": "2026-05-11",
+      "currentKm": "101400",
+      "proximoKm": "111400"
+    }
   ]
 }
