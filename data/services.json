@@ -9512,5 +9512,39 @@
       "currentKm": "170800",
       "proximoKm": "180000"
     }
+  ],
+  "AF345CU": [
+    {
+      "id": "svc-1780603502098-894",
+      "cliente": "CRUZE",
+      "model": "CRUZE",
+      "checklist": {
+        "aceite": "ELAION AURO D1 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D1 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-05-14",
+      "currentKm": "51500",
+      "proximoKm": "61000"
+    }
   ]
 }
