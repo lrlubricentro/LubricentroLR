@@ -9410,5 +9410,39 @@
       "currentKm": "66100",
       "proximoKm": "76000"
     }
+  ],
+  "AA776GY": [
+    {
+      "id": "svc-1780602628375-1399",
+      "cliente": "JORGE",
+      "model": "2008",
+      "checklist": {
+        "aceite": "TOTAL 9000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL 9000 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-12",
+      "currentKm": "70800",
+      "proximoKm": "80800"
+    }
   ]
 }
