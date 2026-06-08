@@ -10464,5 +10464,39 @@
       "currentKm": "11600",
       "proximoKm": "21600"
     }
+  ],
+  "OQK015": [
+    {
+      "id": "svc-1780942382318-1872",
+      "cliente": "HECTOR",
+      "model": "FIESTA",
+      "checklist": {
+        "aceite": "AURO FE 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: AURO FE 530 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-18",
+      "currentKm": "111000",
+      "proximoKm": "121000"
+    }
   ]
 }
