@@ -10430,5 +10430,39 @@
       "currentKm": "25100",
       "proximoKm": "35100"
     }
+  ],
+  "AG186GA": [
+    {
+      "id": "svc-1780942314449-4681",
+      "cliente": "COMPASS",
+      "model": "COMPASS",
+      "checklist": {
+        "aceite": "HELIX ULTRA 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-18",
+      "currentKm": "11600",
+      "proximoKm": "21600"
+    }
   ]
 }
