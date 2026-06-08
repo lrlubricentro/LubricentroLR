@@ -10294,5 +10294,39 @@
       "currentKm": "140000",
       "proximoKm": "150000"
     }
+  ],
+  "AB488YM": [
+    {
+      "id": "svc-1780940946179-5191",
+      "cliente": "ONIX",
+      "model": "ONIX",
+      "checklist": {
+        "aceite": "AURO DA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: AURO DA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-16",
+      "currentKm": "164300",
+      "proximoKm": "174300"
+    }
   ]
 }
