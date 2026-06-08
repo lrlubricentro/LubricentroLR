@@ -9580,5 +9580,39 @@
       "currentKm": "56700",
       "proximoKm": "66000"
     }
+  ],
+  "AA279IS": [
+    {
+      "id": "svc-1780936360521-6582",
+      "cliente": "MATIAS",
+      "model": "VERSA",
+      "checklist": {
+        "aceite": "HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX HX7 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-05-14",
+      "currentKm": "256600",
+      "proximoKm": "266000"
+    }
   ]
 }
