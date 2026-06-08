@@ -9614,5 +9614,39 @@
       "currentKm": "256600",
       "proximoKm": "266000"
     }
+  ],
+  "AF539MR": [
+    {
+      "id": "svc-1780936516929-9589",
+      "cliente": "NATACHA",
+      "model": "MOBI",
+      "checklist": {
+        "aceite": "SELENIA PURE ENERGY 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA PURE ENERGY 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-14",
+      "currentKm": "29966",
+      "proximoKm": "40000"
+    }
   ]
 }
