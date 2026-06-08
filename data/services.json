@@ -10906,5 +10906,39 @@
       "currentKm": "107000",
       "proximoKm": "117000"
     }
+  ],
+  "OHY363": [
+    {
+      "id": "svc-1780943533411-391",
+      "cliente": "C3",
+      "model": "C3",
+      "checklist": {
+        "aceite": "TOTAL 7000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL 7000 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-19",
+      "currentKm": "60800",
+      "proximoKm": "70000"
+    }
   ]
 }
