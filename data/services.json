@@ -9682,5 +9682,39 @@
       "currentKm": "97600",
       "proximoKm": "107600"
     }
+  ],
+  "AB533VC": [
+    {
+      "id": "svc-1780937920773-3862",
+      "cliente": "FOX",
+      "model": "FOX",
+      "checklist": {
+        "aceite": "ELAION FS 540",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION FS 540 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-14",
+      "currentKm": "158400",
+      "proximoKm": "168000"
+    }
   ]
 }
