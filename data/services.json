@@ -11754,5 +11754,39 @@
       "currentKm": "92600",
       "proximoKm": "102000"
     }
+  ],
+  "LDK715": [
+    {
+      "id": "svc-1781040758828-788",
+      "cliente": "BERLINGO",
+      "model": "BERLINGO",
+      "checklist": {
+        "aceite": "TOTAL9000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL9000 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-28",
+      "currentKm": "181200",
+      "proximoKm": "191000"
+    }
   ]
 }
