@@ -11448,5 +11448,39 @@
       "currentKm": "93200",
       "proximoKm": "103000"
     }
+  ],
+  "JIB000": [
+    {
+      "id": "svc-1781039531403-4009",
+      "cliente": "BORA",
+      "model": "BORA",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-05-27",
+      "currentKm": "219200",
+      "proximoKm": "229200"
+    }
   ]
 }
