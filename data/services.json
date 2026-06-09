@@ -11178,5 +11178,39 @@
       "currentKm": "167300",
       "proximoKm": "177300"
     }
+  ],
+  "OZD914": [
+    {
+      "id": "svc-1781037333245-7138",
+      "cliente": "MARIA",
+      "model": "LANCER",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-26",
+      "currentKm": "191000",
+      "proximoKm": "201000"
+    }
   ]
 }
