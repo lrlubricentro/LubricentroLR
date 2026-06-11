@@ -12128,5 +12128,39 @@
       "currentKm": "47300",
       "proximoKm": "57000"
     }
+  ],
+  "AB620DW": [
+    {
+      "id": "svc-1781216297433-3888",
+      "cliente": "IVAN",
+      "model": "MARCH",
+      "checklist": {
+        "aceite": "HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX HX7 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-29",
+      "currentKm": "119000",
+      "proximoKm": "129000"
+    }
   ]
 }
