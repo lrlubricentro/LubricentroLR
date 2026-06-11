@@ -12298,5 +12298,39 @@
       "currentKm": "179100",
       "proximoKm": "189000"
     }
+  ],
+  "PBI173": [
+    {
+      "id": "svc-1781216607572-1998",
+      "cliente": "SW4",
+      "model": "SW4",
+      "checklist": {
+        "aceite": "MOTUL 8100(5W40)",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100(5W40) | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-29",
+      "currentKm": "368400",
+      "proximoKm": "378400"
+    }
   ]
 }
