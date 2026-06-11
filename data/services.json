@@ -11924,5 +11924,39 @@
       "currentKm": "140300",
       "proximoKm": "150000"
     }
+  ],
+  "AD779NQ": [
+    {
+      "id": "svc-1781215890643-5495",
+      "cliente": "COMPASS",
+      "model": "COMPASS",
+      "checklist": {
+        "aceite": "HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-28",
+      "currentKm": "86000",
+      "proximoKm": "96000"
+    }
   ]
 }
