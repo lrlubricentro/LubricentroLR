@@ -12604,5 +12604,39 @@
       "currentKm": "169800",
       "proximoKm": "179800"
     }
+  ],
+  "HKW594": [
+    {
+      "id": "svc-1781218078999-8186",
+      "cliente": "VELTRA",
+      "model": "VELTRA",
+      "checklist": {
+        "aceite": "HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX HX7 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-07",
+      "currentKm": "210000",
+      "proximoKm": "220000"
+    }
   ]
 }
