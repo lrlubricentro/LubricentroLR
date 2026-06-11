@@ -11992,5 +11992,39 @@
       "currentKm": "232200",
       "proximoKm": "242000"
     }
+  ],
+  "AC225XH": [
+    {
+      "id": "svc-1781216044839-1705",
+      "cliente": "NICOLAS",
+      "model": "PASSAT",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro Polen",
+      "fechaService": "2024-05-28",
+      "currentKm": "113700",
+      "proximoKm": "123700"
+    }
   ]
 }
