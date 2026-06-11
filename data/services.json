@@ -12162,5 +12162,39 @@
       "currentKm": "119000",
       "proximoKm": "129000"
     }
+  ],
+  "JTZ132": [
+    {
+      "id": "svc-1781216345483-7617",
+      "cliente": "KANGOO",
+      "model": "KANGOO",
+      "checklist": {
+        "aceite": "",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-29",
+      "currentKm": "187000",
+      "proximoKm": "197000"
+    }
   ]
 }
