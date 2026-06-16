@@ -13318,5 +13318,39 @@
       "currentKm": "241200",
       "proximoKm": "251200"
     }
+  ],
+  "JVN789": [
+    {
+      "id": "svc-1781632127592-5795",
+      "cliente": "C200",
+      "model": "C200",
+      "checklist": {
+        "aceite": "MOBIL 1 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "no",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "no",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOBIL 1 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-04",
+      "currentKm": "196300",
+      "proximoKm": "206300"
+    }
   ]
 }
