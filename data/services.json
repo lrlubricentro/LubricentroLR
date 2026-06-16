@@ -13216,5 +13216,39 @@
       "currentKm": "82200",
       "proximoKm": "92000"
     }
+  ],
+  "MRR712": [
+    {
+      "id": "svc-1781631876556-5474",
+      "cliente": "TIIDA",
+      "model": "TIIDA",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-04",
+      "currentKm": "170000",
+      "proximoKm": "180000"
+    }
   ]
 }
