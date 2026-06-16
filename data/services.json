@@ -14394,5 +14394,39 @@
       "currentKm": "215200",
       "proximoKm": "225000"
     }
+  ],
+  "ILV586": [
+    {
+      "id": "svc-1781644977085-7761",
+      "cliente": "AGILE",
+      "model": "AGILE",
+      "checklist": {
+        "aceite": "HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX HX7 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-06-02",
+      "currentKm": "221800",
+      "proximoKm": "231000"
+    }
   ]
 }
