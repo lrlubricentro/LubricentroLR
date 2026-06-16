@@ -13284,5 +13284,39 @@
       "currentKm": "40000",
       "proximoKm": "50000"
     }
+  ],
+  "FKU051": [
+    {
+      "id": "svc-1781632014856-688",
+      "cliente": "GOL",
+      "model": "GOL",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-06-04",
+      "currentKm": "241200",
+      "proximoKm": "251200"
+    }
   ]
 }
