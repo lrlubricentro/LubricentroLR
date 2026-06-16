@@ -13080,5 +13080,39 @@
       "currentKm": "158200",
       "proximoKm": "168000"
     }
+  ],
+  "PBP300": [
+    {
+      "id": "svc-1781631136366-190",
+      "cliente": "SAVEIRO",
+      "model": "SAVEIRO",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-05",
+      "currentKm": "82400",
+      "proximoKm": "92400"
+    }
   ]
 }
