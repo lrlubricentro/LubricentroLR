@@ -12706,5 +12706,39 @@
       "currentKm": "236100",
       "proximoKm": "246100"
     }
+  ],
+  "OLZ237": [
+    {
+      "id": "svc-1781629140665-4888",
+      "cliente": "TIIDA",
+      "model": "TIIDA",
+      "checklist": {
+        "aceite": "HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX HX7 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-01-04",
+      "currentKm": "104800",
+      "proximoKm": "115000"
+    }
   ]
 }
