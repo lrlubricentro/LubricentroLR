@@ -14190,5 +14190,39 @@
       "currentKm": "137100",
       "proximoKm": "147000"
     }
+  ],
+  "AG393HR": [
+    {
+      "id": "svc-1781639614079-8257",
+      "cliente": "BRONCO",
+      "model": "BRONCO",
+      "checklist": {
+        "aceite": "HELIX ULTRA AF 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA AF 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-02",
+      "currentKm": "445000",
+      "proximoKm": "560000"
+    }
   ]
 }
