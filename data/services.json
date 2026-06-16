@@ -14734,5 +14734,39 @@
       "currentKm": "131100",
       "proximoKm": "141000"
     }
+  ],
+  "AE363RS": [
+    {
+      "id": "svc-1781646505673-3342",
+      "cliente": "TCROSS",
+      "model": "TCROSS",
+      "checklist": {
+        "aceite": "HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-06",
+      "currentKm": "134200",
+      "proximoKm": "144200"
+    }
   ]
 }
