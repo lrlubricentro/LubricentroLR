@@ -12910,5 +12910,39 @@
       "currentKm": "178700",
       "proximoKm": "188700"
     }
+  ],
+  "AE780YZ": [
+    {
+      "id": "svc-1781630647604-8686",
+      "cliente": "CRUZE",
+      "model": "CRUZE",
+      "checklist": {
+        "aceite": "VALVOLINE ADVANCED OW20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE ADVANCED OW20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-05",
+      "currentKm": "69300",
+      "proximoKm": "79300"
+    }
   ]
 }
