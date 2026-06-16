@@ -14870,5 +14870,39 @@
       "currentKm": "26100",
       "proximoKm": "36000"
     }
+  ],
+  "IKQ531": [
+    {
+      "id": "svc-1781647288588-4782",
+      "cliente": "KOLEOS",
+      "model": "KOLEOS",
+      "checklist": {
+        "aceite": "HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "ESCOBILLAS",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: ESCOBILLAS",
+      "fechaService": "2026-05-07",
+      "currentKm": "121500",
+      "proximoKm": "131500"
+    }
   ]
 }
