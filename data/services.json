@@ -13624,5 +13624,39 @@
       "currentKm": "26700",
       "proximoKm": "37000"
     }
+  ],
+  "PAO580": [
+    {
+      "id": "svc-1781633397808-3675",
+      "cliente": "FERNANDO",
+      "model": "208",
+      "checklist": {
+        "aceite": "TOTAL 7000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL 7000 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-04",
+      "currentKm": "76800",
+      "proximoKm": "86000"
+    }
   ]
 }
