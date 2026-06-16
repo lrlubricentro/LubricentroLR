@@ -14292,5 +14292,39 @@
       "currentKm": "41300",
       "proximoKm": "51300"
     }
+  ],
+  "AA242WU": [
+    {
+      "id": "svc-1781644754496-641",
+      "cliente": "HRV",
+      "model": "HRV",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-02",
+      "currentKm": "54400",
+      "proximoKm": "64000"
+    }
   ]
 }
