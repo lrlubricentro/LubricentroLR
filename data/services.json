@@ -12672,5 +12672,39 @@
       "currentKm": "243900",
       "proximoKm": "253900"
     }
+  ],
+  "HHJ081": [
+    {
+      "id": "svc-1781629033872-9855",
+      "cliente": "DARIO",
+      "model": "TIIDA 2008",
+      "checklist": {
+        "aceite": "TOTAL 7000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL 7000 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-25",
+      "currentKm": "236100",
+      "proximoKm": "246100"
+    }
   ]
 }
