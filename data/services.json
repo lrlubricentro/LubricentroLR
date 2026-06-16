@@ -13952,5 +13952,39 @@
       "currentKm": "42100",
       "proximoKm": "52000"
     }
+  ],
+  "IQV382": [
+    {
+      "id": "svc-1781638766124-8853",
+      "cliente": "PALIO",
+      "model": "PALIO",
+      "checklist": {
+        "aceite": "SELENIA PURE ENERGY",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA PURE ENERGY | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-03",
+      "currentKm": "156000",
+      "proximoKm": "166000"
+    }
   ]
 }
