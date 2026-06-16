@@ -15074,5 +15074,39 @@
       "currentKm": "163000",
       "proximoKm": "173000"
     }
+  ],
+  "PIT390": [
+    {
+      "id": "svc-1781648475048-8322",
+      "cliente": "AMAROK",
+      "model": "AMAROK",
+      "checklist": {
+        "aceite": "HELIX HX8",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX HX8 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-08",
+      "currentKm": "140300",
+      "proximoKm": "150000"
+    }
   ]
 }
