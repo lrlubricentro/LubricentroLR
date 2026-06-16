@@ -14088,5 +14088,39 @@
       "currentKm": "85100",
       "proximoKm": "95000"
     }
+  ],
+  "AA657SS": [
+    {
+      "id": "svc-1781639347609-4345",
+      "cliente": "FLUENCE",
+      "model": "FLUENCE",
+      "checklist": {
+        "aceite": "EVOLUTION 900",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: EVOLUTION 900 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-03",
+      "currentKm": "223000",
+      "proximoKm": "233000"
+    }
   ]
 }
