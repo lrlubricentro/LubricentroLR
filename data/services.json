@@ -13420,5 +13420,39 @@
       "currentKm": "50900",
       "proximoKm": "60900"
     }
+  ],
+  "AE530QD": [
+    {
+      "id": "svc-1781632476475-6118",
+      "cliente": "CARLOS",
+      "model": "SANDERO STEPWAY",
+      "checklist": {
+        "aceite": "ELAION TS 1040",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION TS 1040 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-04",
+      "currentKm": "46700",
+      "proximoKm": "56000"
+    }
   ]
 }
