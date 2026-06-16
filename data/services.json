@@ -13162,7 +13162,7 @@
         "detalle": "",
         "checks": {
           "filtro-aceite": "si",
-          "filtro-combustible": "si",
+          "filtro-combustible": "no",
           "caja-velocidad": "",
           "diferencial-trasero": "",
           "filtro-aire": "si",
@@ -13177,7 +13177,7 @@
           "liquido-hidraulico": ""
         }
       },
-      "trabajo": "Aceite: ELAION AURO D1 020 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "trabajo": "Aceite: ELAION AURO D1 020 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
       "fechaService": "2026-06-05",
       "currentKm": "60700",
       "proximoKm": "70000"
