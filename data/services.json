@@ -13046,5 +13046,39 @@
       "currentKm": "75600",
       "proximoKm": "86000"
     }
+  ],
+  "JUV935": [
+    {
+      "id": "svc-1781631059560-7190",
+      "cliente": "FIT",
+      "model": "FIT",
+      "checklist": {
+        "aceite": "HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO CAJA",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen | Detalle: CAMBIO CAJA",
+      "fechaService": "2026-06-05",
+      "currentKm": "158200",
+      "proximoKm": "168000"
+    }
   ]
 }
