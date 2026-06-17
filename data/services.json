@@ -15786,5 +15786,39 @@
       "currentKm": "181300",
       "proximoKm": "191300"
     }
+  ],
+  "OBZ828": [
+    {
+      "id": "svc-1781730592373-5984",
+      "cliente": "BERLINGO",
+      "model": "BERLINGO",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 9000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "no",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 9000 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-16",
+      "currentKm": "184000",
+      "proximoKm": "194000"
+    }
   ]
 }
