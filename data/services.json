@@ -15820,5 +15820,39 @@
       "currentKm": "184000",
       "proximoKm": "194000"
     }
+  ],
+  "AD120QZ": [
+    {
+      "id": "svc-1781730646541-4819",
+      "cliente": "FERNANDO (TITO)",
+      "model": "208",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 7000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 7000 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-16",
+      "currentKm": "54800",
+      "proximoKm": "64800"
+    }
   ]
 }
