@@ -15412,5 +15412,39 @@
       "currentKm": "155500",
       "proximoKm": "165500"
     }
+  ],
+  "PII249": [
+    {
+      "id": "svc-1781729725406-2245",
+      "cliente": "CAPTIVA",
+      "model": "CAPTIVA",
+      "checklist": {
+        "aceite": "ELAION AURO D1 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "F.AIRE:WO8, F.ACEITE: 312, F.POLEN:3535",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D1 530 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen | Detalle: F.AIRE:WO8, F.ACEITE: 312, F.POLEN:3535",
+      "fechaService": "2026-06-10",
+      "currentKm": "44800",
+      "proximoKm": "54800"
+    }
   ]
 }
