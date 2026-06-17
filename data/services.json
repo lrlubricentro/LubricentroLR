@@ -16024,5 +16024,39 @@
       "currentKm": "111",
       "proximoKm": "1111"
     }
+  ],
+  "AG408IL": [
+    {
+      "id": "svc-1781731437340-7057",
+      "cliente": "FRONTIER",
+      "model": "FRONTIER",
+      "checklist": {
+        "aceite": "HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CERATEC ADITIVO",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: CERATEC ADITIVO",
+      "fechaService": "2026-06-16",
+      "currentKm": "50400",
+      "proximoKm": "60400"
+    }
   ]
 }
