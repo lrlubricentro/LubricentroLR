@@ -15480,5 +15480,39 @@
       "currentKm": "54200",
       "proximoKm": "64200"
     }
+  ],
+  "AE085HI": [
+    {
+      "id": "svc-1781730010443-2337",
+      "cliente": "CARLOS/TITO",
+      "model": "HRV",
+      "checklist": {
+        "aceite": "",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO CAJA",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen | Detalle: CAMBIO CAJA",
+      "fechaService": "2026-06-10",
+      "currentKm": "120400",
+      "proximoKm": "130000"
+    }
   ]
 }
