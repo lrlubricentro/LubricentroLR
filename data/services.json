@@ -16124,5 +16124,39 @@
       "currentKm": "185000",
       "proximoKm": "195000"
     }
+  ],
+  "NVT381": [
+    {
+      "id": "svc-1781731744324-4002",
+      "cliente": "NORA",
+      "model": "MARCH",
+      "checklist": {
+        "aceite": "HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-15",
+      "currentKm": "62000",
+      "proximoKm": "72000"
+    }
   ]
 }
