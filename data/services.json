@@ -15446,5 +15446,39 @@
       "currentKm": "44800",
       "proximoKm": "54800"
     }
+  ],
+  "AC756NT": [
+    {
+      "id": "svc-1781729946253-9967",
+      "cliente": "308",
+      "model": "308",
+      "checklist": {
+        "aceite": "TOTAL INEO FIRST",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL INEO FIRST | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-10",
+      "currentKm": "54200",
+      "proximoKm": "64200"
+    }
   ]
 }
