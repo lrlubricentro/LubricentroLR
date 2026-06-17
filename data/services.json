@@ -15854,5 +15854,39 @@
       "currentKm": "54800",
       "proximoKm": "64800"
     }
+  ],
+  "AD109WQ": [
+    {
+      "id": "svc-1781730909475-1337",
+      "cliente": "VERSA",
+      "model": "VERSA",
+      "checklist": {
+        "aceite": "VALVOLINE 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-06-16",
+      "currentKm": "249700",
+      "proximoKm": "259700"
+    }
   ]
 }
