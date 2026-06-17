@@ -16192,5 +16192,39 @@
       "currentKm": "163300",
       "proximoKm": "173000"
     }
+  ],
+  "AH734FH": [
+    {
+      "id": "svc-1781731944178-7405",
+      "cliente": "ONIX",
+      "model": "ONIX",
+      "checklist": {
+        "aceite": "ELAION AURP D1 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURP D1 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-13",
+      "currentKm": "19700",
+      "proximoKm": "29000"
+    }
   ]
 }
