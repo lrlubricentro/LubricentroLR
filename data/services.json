@@ -15582,5 +15582,39 @@
       "currentKm": "255000",
       "proximoKm": "267000"
     }
+  ],
+  "AF772JU": [
+    {
+      "id": "svc-1781730160676-5672",
+      "cliente": "SOL",
+      "model": "CRONOS",
+      "checklist": {
+        "aceite": "HELIX ULTRA 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA 0W20 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-10",
+      "currentKm": "156000",
+      "proximoKm": "166000"
+    }
   ]
 }
