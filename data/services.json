@@ -15650,5 +15650,39 @@
       "currentKm": "76300",
       "proximoKm": "86000"
     }
+  ],
+  "AF058CR": [
+    {
+      "id": "svc-1781730298862-515",
+      "cliente": "CAPTUR",
+      "model": "CAPTUR",
+      "checklist": {
+        "aceite": "EVOLUTION 9000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: EVOLUTION 9000 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-10",
+      "currentKm": "201200",
+      "proximoKm": "211200"
+    }
   ]
 }
