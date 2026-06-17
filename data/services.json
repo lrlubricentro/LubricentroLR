@@ -15548,5 +15548,39 @@
       "currentKm": "107500",
       "proximoKm": "118000"
     }
+  ],
+  "AD209CK": [
+    {
+      "id": "svc-1781730098642-6233",
+      "cliente": "VIRTUS",
+      "model": "VIRTUS",
+      "checklist": {
+        "aceite": "ELAION FS 540",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION FS 540 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-10",
+      "currentKm": "255000",
+      "proximoKm": "267000"
+    }
   ]
 }
