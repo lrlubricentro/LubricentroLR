@@ -15378,5 +15378,39 @@
       "currentKm": "188300",
       "proximoKm": "198300"
     }
+  ],
+  "NTL425": [
+    {
+      "id": "svc-1781729613660-1431",
+      "cliente": "TIGUAN",
+      "model": "TIGUAN",
+      "checklist": {
+        "aceite": "ELAION AURO 540",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO 540 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-10",
+      "currentKm": "155500",
+      "proximoKm": "165500"
+    }
   ]
 }
