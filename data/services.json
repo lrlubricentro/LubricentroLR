@@ -16498,5 +16498,39 @@
       "currentKm": "59100",
       "proximoKm": "69000"
     }
+  ],
+  "AB642AN": [
+    {
+      "id": "svc-1781806041094-5703",
+      "cliente": "S10",
+      "model": "S10",
+      "checklist": {
+        "aceite": "ELAION AURO D2 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "FILTRO COMBUSTIBLE: 2 A3",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D2 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: FILTRO COMBUSTIBLE: 2 A3",
+      "fechaService": "2026-04-04",
+      "currentKm": "202200",
+      "proximoKm": "212000"
+    }
   ]
 }
