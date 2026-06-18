@@ -16736,5 +16736,39 @@
       "currentKm": "29700",
       "proximoKm": "40000"
     }
+  ],
+  "KTJ630": [
+    {
+      "id": "svc-1781806672874-8942",
+      "cliente": "SEBASTIAN",
+      "model": "STRADA",
+      "checklist": {
+        "aceite": "SELENIA K",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA K | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-01",
+      "currentKm": "110500",
+      "proximoKm": "120000"
+    }
   ]
 }
