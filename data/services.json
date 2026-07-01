@@ -17144,5 +17144,39 @@
       "currentKm": "71200",
       "proximoKm": "81000"
     }
+  ],
+  "LUK543": [
+    {
+      "id": "svc-1782907315285-9779",
+      "cliente": "GOL TREND",
+      "model": "GOL TREND",
+      "checklist": {
+        "aceite": "ELAION F30 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION F30 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-29",
+      "currentKm": "153300",
+      "proximoKm": "163000"
+    }
   ]
 }
