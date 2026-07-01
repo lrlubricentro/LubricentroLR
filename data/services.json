@@ -17584,5 +17584,39 @@
       "currentKm": "93500",
       "proximoKm": "103000"
     }
+  ],
+  "DWO813": [
+    {
+      "id": "svc-1782908204828-8864",
+      "cliente": "FOCUS",
+      "model": "FOCUS",
+      "checklist": {
+        "aceite": "ELAION TS 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION TS 10W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-30",
+      "currentKm": "283100",
+      "proximoKm": "293000"
+    }
   ]
 }
