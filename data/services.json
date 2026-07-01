@@ -17042,5 +17042,39 @@
       "currentKm": "48700",
       "proximoKm": "58700"
     }
+  ],
+  "AC926DJ": [
+    {
+      "id": "svc-1782907149653-4215",
+      "cliente": "GOLF",
+      "model": "GOLF",
+      "checklist": {
+        "aceite": "MOTUL SPECIFIC 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL SPECIFIC 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-29",
+      "currentKm": "34000",
+      "proximoKm": "44000"
+    }
   ]
 }
