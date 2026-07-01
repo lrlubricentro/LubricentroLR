@@ -3837,6 +3837,38 @@
   ],
   "AC492CV": [
     {
+      "id": "svc-1782908155111-9840",
+      "cliente": "VERSA",
+      "model": "VERSA",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "ESCOBILLAS",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire | Detalle: ESCOBILLAS",
+      "fechaService": "2026-06-30",
+      "currentKm": "118000",
+      "proximoKm": "128000"
+    },
+    {
       "id": "svc-1778238596270-9922",
       "cliente": "VERSA",
       "model": "VERSA",
