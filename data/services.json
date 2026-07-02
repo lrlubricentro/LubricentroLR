@@ -15067,6 +15067,38 @@
   ],
   "AF752WZ": [
     {
+      "id": "svc-1782956834182-4315",
+      "cliente": "TAOS",
+      "model": "TAOS",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-10",
+      "currentKm": "93200",
+      "proximoKm": "103000"
+    },
+    {
       "id": "svc-1781648023999-3411",
       "cliente": "TAOS",
       "model": "TAOS",
