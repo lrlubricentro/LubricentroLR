@@ -18796,5 +18796,39 @@
       "currentKm": "20900",
       "proximoKm": "30000"
     }
+  ],
+  "OFM115": [
+    {
+      "id": "svc-1782957201163-2574",
+      "cliente": "ALEJANDRO",
+      "model": "PALIO",
+      "checklist": {
+        "aceite": "SELENIA K 15W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA K 15W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-01",
+      "currentKm": "131500",
+      "proximoKm": "141000"
+    }
   ]
 }
