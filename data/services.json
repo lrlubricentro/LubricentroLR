@@ -19102,5 +19102,39 @@
       "currentKm": "157900",
       "proximoKm": "167000"
     }
+  ],
+  "MVX908": [
+    {
+      "id": "svc-1783105084691-9350",
+      "cliente": "PATRIOT",
+      "model": "JEEP PATRIOT",
+      "checklist": {
+        "aceite": "VALVOLINE ADVANCED 5W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "- SERVICIO COMPLETO CAJA AUTOMATICA CVT CON RECIRCULADO + FILTRO + JUNTA\n- CAMBIO DE BUJIAS",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "si",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE ADVANCED 5W20 | Checks SI: Filtro de Aceite, Caja Velocidad, Filtro de Aire, Filtro Polen | Detalle: - SERVICIO COMPLETO CAJA AUTOMATICA CVT CON RECIRCULADO + FILTRO + JUNTA\n- CAMBIO DE BUJIAS",
+      "fechaService": "2026-07-03",
+      "currentKm": "184900",
+      "proximoKm": "195000"
+    }
   ]
 }
