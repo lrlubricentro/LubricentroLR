@@ -19816,5 +19816,39 @@
       "currentKm": "133000",
       "proximoKm": "143000"
     }
+  ],
+  "EKM443": [
+    {
+      "id": "svc-1783169202367-5198",
+      "cliente": "ZAFIRA",
+      "model": "ZAFIRA",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 7000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 7000 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-07-03",
+      "currentKm": "315000",
+      "proximoKm": "325000"
+    }
   ]
 }
