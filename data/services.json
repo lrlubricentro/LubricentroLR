@@ -19238,5 +19238,39 @@
       "currentKm": "10600",
       "proximoKm": "20000"
     }
+  ],
+  "OZO261": [
+    {
+      "id": "svc-1783165175759-8540",
+      "cliente": "LOGAN",
+      "model": "LOGAN",
+      "checklist": {
+        "aceite": "ELF EVOLUTION 700",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELF EVOLUTION 700 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-02",
+      "currentKm": "180000",
+      "proximoKm": "190000"
+    }
   ]
 }
