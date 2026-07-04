@@ -19204,5 +19204,39 @@
       "currentKm": "74600",
       "proximoKm": "84000"
     }
+  ],
+  "AI153NM": [
+    {
+      "id": "svc-1783165122606-3089",
+      "cliente": "CRONOS",
+      "model": "CRONOS",
+      "checklist": {
+        "aceite": "SELENIA FORWARD 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA FORWARD 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-07-02",
+      "currentKm": "10600",
+      "proximoKm": "20000"
+    }
   ]
 }
