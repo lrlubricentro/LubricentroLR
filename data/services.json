@@ -19748,5 +19748,39 @@
       "currentKm": "97400",
       "proximoKm": "107000"
     }
+  ],
+  "AE709DJ": [
+    {
+      "id": "svc-1783166768978-5730",
+      "cliente": "HECTOR",
+      "model": "CRUZE",
+      "checklist": {
+        "aceite": "ELAION AURO D1 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D1 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-03",
+      "currentKm": "109200",
+      "proximoKm": "119000"
+    }
   ]
 }
