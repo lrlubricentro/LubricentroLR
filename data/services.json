@@ -19646,5 +19646,39 @@
       "currentKm": "011111",
       "proximoKm": "1111111"
     }
+  ],
+  "NQV149": [
+    {
+      "id": "svc-1783166616544-6127",
+      "cliente": "GONZA",
+      "model": "FOCUS",
+      "checklist": {
+        "aceite": "ELAION AURO FE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "si",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen, Cambio Liquido Refrigerante",
+      "fechaService": "2026-07-03",
+      "currentKm": "85400",
+      "proximoKm": "95000"
+    }
   ]
 }
