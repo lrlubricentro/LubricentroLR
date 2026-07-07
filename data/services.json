@@ -20358,5 +20358,39 @@
       "currentKm": "166800",
       "proximoKm": "176000"
     }
+  ],
+  "ISW216": [
+    {
+      "id": "svc-1783460345052-4430",
+      "cliente": "ROY",
+      "model": "SURAN",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "no",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-07-07",
+      "currentKm": "73800",
+      "proximoKm": "83000"
+    }
   ]
 }
