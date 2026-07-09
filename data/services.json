@@ -20970,5 +20970,39 @@
       "currentKm": "190400",
       "proximoKm": "200000"
     }
+  ],
+  "AD010ZG": [
+    {
+      "id": "svc-1783608461618-3164",
+      "cliente": "GUSTAVO",
+      "model": "X2",
+      "checklist": {
+        "aceite": "CASTROL EDGE 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO BUJIAS",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "si",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 0W20 | Checks SI: Filtro de Aceite, Cambio Bujias | Detalle: CAMBIO BUJIAS",
+      "fechaService": "2026-07-07",
+      "currentKm": "71800",
+      "proximoKm": "81000"
+    }
   ]
 }
