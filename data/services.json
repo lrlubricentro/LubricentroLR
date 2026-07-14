@@ -21446,5 +21446,39 @@
       "currentKm": "173800",
       "proximoKm": "183000"
     }
+  ],
+  "AF536IE": [
+    {
+      "id": "svc-1784059128762-3033",
+      "cliente": "MAXI",
+      "model": "TAOS",
+      "checklist": {
+        "aceite": "SHELL HELIX HX8 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX8 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-13",
+      "currentKm": "40400",
+      "proximoKm": "50000"
+    }
   ]
 }
