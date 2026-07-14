@@ -21072,5 +21072,39 @@
       "currentKm": "131500",
       "proximoKm": "141000"
     }
+  ],
+  "KON593": [
+    {
+      "id": "svc-1784057784272-2823",
+      "cliente": "SURAN",
+      "model": "SURAN",
+      "checklist": {
+        "aceite": "ELAION FS 540",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION FS 540 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-13",
+      "currentKm": "119500",
+      "proximoKm": "129000"
+    }
   ]
 }
