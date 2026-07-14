@@ -21582,5 +21582,39 @@
       "currentKm": "19700",
       "proximoKm": "30000"
     }
+  ],
+  "AB722ZW": [
+    {
+      "id": "svc-1784064995650-8051",
+      "cliente": "SPIN",
+      "model": "SPIN",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-07-13",
+      "currentKm": "393600",
+      "proximoKm": "404000"
+    }
   ]
 }
