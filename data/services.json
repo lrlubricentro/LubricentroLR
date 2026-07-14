@@ -21514,5 +21514,39 @@
       "currentKm": "47000",
       "proximoKm": "57000"
     }
+  ],
+  "AF496PO": [
+    {
+      "id": "svc-1784059282480-6165",
+      "cliente": "JUAN",
+      "model": "TAOS",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 0W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 0W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-13",
+      "currentKm": "44400",
+      "proximoKm": "54000"
+    }
   ]
 }
