@@ -22228,5 +22228,39 @@
       "currentKm": "63300",
       "proximoKm": "73000"
     }
+  ],
+  "AC611OP": [
+    {
+      "id": "svc-1784129933089-4894",
+      "cliente": "FOCUS",
+      "model": "FOCUS",
+      "checklist": {
+        "aceite": "ELAION AURO FE 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "LIQUI MOLY ENGINE FLUSH",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 530 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: LIQUI MOLY ENGINE FLUSH",
+      "fechaService": "2026-07-10",
+      "currentKm": "103000",
+      "proximoKm": "113000"
+    }
   ]
 }
