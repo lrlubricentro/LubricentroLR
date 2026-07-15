@@ -22364,5 +22364,39 @@
       "currentKm": "9800",
       "proximoKm": "20000"
     }
+  ],
+  "NCJ591": [
+    {
+      "id": "svc-1784130134737-8097",
+      "cliente": "AMAROK",
+      "model": "AMAROK",
+      "checklist": {
+        "aceite": "SHELL HELIX HX8 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX8 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-09",
+      "currentKm": "83100",
+      "proximoKm": "93000"
+    }
   ]
 }
