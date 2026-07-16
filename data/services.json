@@ -22534,5 +22534,39 @@
       "currentKm": "78300",
       "proximoKm": "88000"
     }
+  ],
+  "AC493QO": [
+    {
+      "id": "svc-1784207153027-4553",
+      "cliente": "ENZO",
+      "model": "208",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 7000 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 7000 10W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-15",
+      "currentKm": "152800",
+      "proximoKm": "162000"
+    }
   ]
 }
