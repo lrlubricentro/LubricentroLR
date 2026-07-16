@@ -22670,5 +22670,39 @@
       "currentKm": "37400",
       "proximoKm": "50000"
     }
+  ],
+  "MRX171": [
+    {
+      "id": "svc-1784226173896-3645",
+      "cliente": "TONY",
+      "model": "323i",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-15",
+      "currentKm": "100000",
+      "proximoKm": "110000"
+    }
   ]
 }
