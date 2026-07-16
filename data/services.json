@@ -22940,5 +22940,39 @@
       "currentKm": "33800",
       "proximoKm": "43000"
     }
+  ],
+  "LCD510": [
+    {
+      "id": "svc-1784227970572-9828",
+      "cliente": "MESIMAR",
+      "model": "SIENA",
+      "checklist": {
+        "aceite": "SELENIA K 15W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA K 15W40 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-07-14",
+      "currentKm": "285000",
+      "proximoKm": "295000"
+    }
   ]
 }
