@@ -23076,5 +23076,39 @@
       "currentKm": "90400",
       "proximoKm": "100000"
     }
+  ],
+  "FYO450": [
+    {
+      "id": "svc-1784233840045-3071",
+      "cliente": "ECOSPORT",
+      "model": "ECOSPORT",
+      "checklist": {
+        "aceite": "ELAION AURO FE 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 530 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-14",
+      "currentKm": "81000",
+      "proximoKm": "91000"
+    }
   ]
 }
