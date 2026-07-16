@@ -22770,5 +22770,39 @@
       "currentKm": "114100",
       "proximoKm": "124000"
     }
+  ],
+  "AF546JJ": [
+    {
+      "id": "svc-1784226331275-4802",
+      "cliente": "DIEGO",
+      "model": "CRUZE",
+      "checklist": {
+        "aceite": "MOTUL 8100 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-14",
+      "currentKm": "33200",
+      "proximoKm": "43000"
+    }
   ]
 }
