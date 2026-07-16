@@ -23042,5 +23042,39 @@
       "currentKm": "00001",
       "proximoKm": "000002"
     }
+  ],
+  "MMY338": [
+    {
+      "id": "svc-1784233771241-2242",
+      "cliente": "X1",
+      "model": "X1",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-14",
+      "currentKm": "90400",
+      "proximoKm": "100000"
+    }
   ]
 }
