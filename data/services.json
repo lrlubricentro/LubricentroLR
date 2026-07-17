@@ -6885,6 +6885,38 @@
   ],
   "AF813AJ": [
     {
+      "id": "svc-1784321298450-8718",
+      "cliente": "CRONOS",
+      "model": "CRONOS",
+      "checklist": {
+        "aceite": "SELENIA PURE ENERGY 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ACEITE DE CAJA AT CON RECIRCULADO",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "si",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA PURE ENERGY 5W30 | Checks SI: Filtro de Aceite, Caja Velocidad, Filtro de Aire, Filtro Polen | Detalle: CAMBIO ACEITE DE CAJA AT CON RECIRCULADO",
+      "fechaService": "2026-07-16",
+      "currentKm": "214000",
+      "proximoKm": "224000"
+    },
+    {
       "id": "svc-1779831156748-3051",
       "cliente": "CRONOS",
       "model": "CRONOS",
