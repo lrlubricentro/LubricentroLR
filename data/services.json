@@ -23616,5 +23616,39 @@
       "currentKm": "54800",
       "proximoKm": "65000"
     }
+  ],
+  "AC541CX": [
+    {
+      "id": "svc-1784322780577-3681",
+      "cliente": "308",
+      "model": "308",
+      "checklist": {
+        "aceite": "TOTAL INEO 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL INEO 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-05-30",
+      "currentKm": "95200",
+      "proximoKm": "105000"
+    }
   ]
 }
