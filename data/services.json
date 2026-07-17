@@ -24022,5 +24022,39 @@
       "currentKm": "120700",
       "proximoKm": "130000"
     }
+  ],
+  "AE319UL": [
+    {
+      "id": "svc-1784324284593-3732",
+      "cliente": "POLO",
+      "model": "POLO",
+      "checklist": {
+        "aceite": "HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-01",
+      "currentKm": "51100",
+      "proximoKm": "61000"
+    }
   ]
 }
