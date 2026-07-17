@@ -23379,13 +23379,47 @@
       "proximoKm": "170000"
     }
   ],
-  "PNN351": [
+  "ETX102": [
     {
-      "id": "svc-1784321670706-4161",
-      "cliente": "CORSA",
-      "model": "CORSA",
+      "id": "svc-1784321481040-6200",
+      "cliente": "FIT",
+      "model": "FIT",
       "checklist": {
-        "aceite": "HELIX ULTRA",
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-07-16",
+      "currentKm": "120600",
+      "proximoKm": "130000"
+    }
+  ],
+  "AD194IC": [
+    {
+      "id": "svc-1784321554113-558",
+      "cliente": "JERO",
+      "model": "330i",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W30",
         "aditivoCarter": "",
         "aditivoTransmision": "",
         "aditivoCombustible": "",
@@ -23407,10 +23441,78 @@
           "liquido-hidraulico": ""
         }
       },
-      "trabajo": "Aceite: HELIX ULTRA | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
-      "fechaService": "2026-04-07",
-      "currentKm": "140000",
-      "proximoKm": "150000"
+      "trabajo": "Aceite: CASTROL EDGE 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-15",
+      "currentKm": "96900",
+      "proximoKm": "107000"
+    }
+  ],
+  "AF033KD": [
+    {
+      "id": "svc-1784321612677-1083",
+      "cliente": "RANGER",
+      "model": "RANGER",
+      "checklist": {
+        "aceite": "ELAION AURO FE 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 530 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-16",
+      "currentKm": "69200",
+      "proximoKm": "79000"
+    }
+  ],
+  "AC246UJ": [
+    {
+      "id": "svc-1784321664063-3969",
+      "cliente": "FIESTA",
+      "model": "FIESTA",
+      "checklist": {
+        "aceite": "ELAION AURO FE 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 530 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-16",
+      "currentKm": "64300",
+      "proximoKm": "74000"
     }
   ]
 }
