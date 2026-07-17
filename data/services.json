@@ -23820,5 +23820,39 @@
       "currentKm": "79200",
       "proximoKm": "89000"
     }
+  ],
+  "OLI285": [
+    {
+      "id": "svc-1784323529247-6416",
+      "cliente": "MARCH",
+      "model": "MARCH",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-01",
+      "currentKm": "32300",
+      "proximoKm": "42000"
+    }
   ]
 }
