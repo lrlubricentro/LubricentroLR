@@ -23548,5 +23548,39 @@
       "currentKm": "250400",
       "proximoKm": "260000"
     }
+  ],
+  "NUF637": [
+    {
+      "id": "svc-1784322089838-6081",
+      "cliente": "208",
+      "model": "208 2014",
+      "checklist": {
+        "aceite": "TOTAL 7000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL 7000 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-04-11",
+      "currentKm": "103900",
+      "proximoKm": "113000"
+    }
   ]
 }
