@@ -23378,5 +23378,39 @@
       "currentKm": "160600",
       "proximoKm": "170000"
     }
+  ],
+  "ETX102": [
+    {
+      "id": "svc-1784321481040-6200",
+      "cliente": "FIT",
+      "model": "FIT",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-07-16",
+      "currentKm": "120600",
+      "proximoKm": "130000"
+    }
   ]
 }
