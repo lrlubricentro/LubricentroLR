@@ -23480,5 +23480,39 @@
       "currentKm": "23500",
       "proximoKm": "24500"
     }
+  ],
+  "JRO428": [
+    {
+      "id": "svc-1784321911585-3333",
+      "cliente": "TIIDA",
+      "model": "TIIDA 2011",
+      "checklist": {
+        "aceite": "HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: HELIX HX7 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-04-08",
+      "currentKm": "196400",
+      "proximoKm": "206000"
+    }
   ]
 }
