@@ -24056,5 +24056,39 @@
       "currentKm": "51100",
       "proximoKm": "61000"
     }
+  ],
+  "LMX193": [
+    {
+      "id": "svc-1784324355256-8097",
+      "cliente": "HERNAN",
+      "model": "TIIGO",
+      "checklist": {
+        "aceite": "YPF ELAION F50",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: YPF ELAION F50 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-06-01",
+      "currentKm": "151000",
+      "proximoKm": "161000"
+    }
   ]
 }
