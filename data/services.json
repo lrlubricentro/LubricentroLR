@@ -24158,5 +24158,39 @@
       "currentKm": "71300",
       "proximoKm": "81000"
     }
+  ],
+  "AB870PK": [
+    {
+      "id": "svc-1784547613482-4135",
+      "cliente": "BEETLE",
+      "model": "BEETLE",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CERAMO ESTER",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen | Detalle: CERAMO ESTER",
+      "fechaService": "2026-07-17",
+      "currentKm": "101000",
+      "proximoKm": "110000"
+    }
   ]
 }
