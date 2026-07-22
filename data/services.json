@@ -24498,5 +24498,39 @@
       "currentKm": "67400",
       "proximoKm": "77000"
     }
+  ],
+  "PKY918": [
+    {
+      "id": "svc-1784719278676-6643",
+      "cliente": "FOX",
+      "model": "FOX",
+      "checklist": {
+        "aceite": "ELAION F50 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION F50 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-18",
+      "currentKm": "92300",
+      "proximoKm": "102000"
+    }
   ]
 }
