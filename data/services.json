@@ -24430,5 +24430,39 @@
       "currentKm": "205000",
       "proximoKm": "215000"
     }
+  ],
+  "AB586WM": [
+    {
+      "id": "svc-1784719177923-2437",
+      "cliente": "COBALT",
+      "model": "COBALT",
+      "checklist": {
+        "aceite": "VALVOLINE 25W60",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE 25W60 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-07-18",
+      "currentKm": "210000",
+      "proximoKm": "220000"
+    }
   ]
 }
