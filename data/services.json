@@ -24836,5 +24836,39 @@
       "currentKm": "142800",
       "proximoKm": "152000"
     }
+  ],
+  "LZE308": [
+    {
+      "id": "svc-1785756868924-8904",
+      "cliente": "AGUSTINA",
+      "model": "KA",
+      "checklist": {
+        "aceite": "ELAION F30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION F30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-31",
+      "currentKm": "103000",
+      "proximoKm": "113000"
+    }
   ]
 }
