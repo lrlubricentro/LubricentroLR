@@ -24904,5 +24904,39 @@
       "currentKm": "106100",
       "proximoKm": "116000"
     }
+  ],
+  "AOE591": [
+    {
+      "id": "svc-1785756967957-2535",
+      "cliente": "LAND CRUISER",
+      "model": "LAND CRUISER",
+      "checklist": {
+        "aceite": "PUMA 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: PUMA 10W40 | Checks SI: Filtro de Aceite, Filtro de Combustible",
+      "fechaService": "2026-07-31",
+      "currentKm": "410000",
+      "proximoKm": "420000"
+    }
   ]
 }
