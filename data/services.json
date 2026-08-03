@@ -24972,5 +24972,39 @@
       "currentKm": "58400",
       "proximoKm": "68000"
     }
+  ],
+  "AC736SP": [
+    {
+      "id": "svc-1785757086962-1507",
+      "cliente": "5008",
+      "model": "5008",
+      "checklist": {
+        "aceite": "MOTUL 8100 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-31",
+      "currentKm": "81200",
+      "proximoKm": "91000"
+    }
   ]
 }
