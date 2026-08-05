@@ -26056,5 +26056,39 @@
       "currentKm": "251000",
       "proximoKm": "261000"
     }
+  ],
+  "AC646TM": [
+    {
+      "id": "svc-1785939467751-2391",
+      "cliente": "ALEX",
+      "model": "SCIROCCO",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "no",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W40 | Checks SI: Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-03",
+      "currentKm": "123000",
+      "proximoKm": "133000"
+    }
   ]
 }
