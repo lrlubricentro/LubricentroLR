@@ -26158,5 +26158,39 @@
       "currentKm": "221888",
       "proximoKm": "232000"
     }
+  ],
+  "IQT753": [
+    {
+      "id": "svc-1785939626441-971",
+      "cliente": "WRANGLER",
+      "model": "WRANGLER",
+      "checklist": {
+        "aceite": "VALVOLINE ADVANCED 5W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE ADVANCED 5W20 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-08-03",
+      "currentKm": "186600",
+      "proximoKm": "196000"
+    }
   ]
 }
