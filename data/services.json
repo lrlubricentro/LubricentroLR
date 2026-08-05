@@ -26192,5 +26192,39 @@
       "currentKm": "186600",
       "proximoKm": "196000"
     }
+  ],
+  "AG473PR": [
+    {
+      "id": "svc-1785939669944-3787",
+      "cliente": "YARIS",
+      "model": "YARIS",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-03",
+      "currentKm": "34100",
+      "proximoKm": "44000"
+    }
   ]
 }
