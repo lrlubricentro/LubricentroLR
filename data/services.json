@@ -26396,5 +26396,39 @@
       "currentKm": "105300",
       "proximoKm": "115000"
     }
+  ],
+  "AC915WA": [
+    {
+      "id": "svc-1785940071892-1185",
+      "cliente": "COUNTRYMAN",
+      "model": "COUNTRYMAN",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-01",
+      "currentKm": "101700",
+      "proximoKm": "111000"
+    }
   ]
 }
