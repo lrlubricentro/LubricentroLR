@@ -26566,5 +26566,39 @@
       "currentKm": "140800",
       "proximoKm": "150000"
     }
+  ],
+  "AA034AW": [
+    {
+      "id": "svc-1785940524301-5947",
+      "cliente": "PALIO",
+      "model": "PALIO",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-08-01",
+      "currentKm": "223100",
+      "proximoKm": "233000"
+    }
   ]
 }
