@@ -26632,5 +26632,39 @@
       "currentKm": "223100",
       "proximoKm": "233000"
     }
+  ],
+  "AC299LV": [
+    {
+      "id": "svc-1786364852208-3928",
+      "cliente": "A250",
+      "model": "A250",
+      "checklist": {
+        "aceite": "MOTUL 8100 CLEAN",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 CLEAN | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-07",
+      "currentKm": "76400",
+      "proximoKm": "88000"
+    }
   ]
 }
