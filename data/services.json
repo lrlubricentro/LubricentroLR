@@ -28462,5 +28462,39 @@
       "currentKm": "145000",
       "proximoKm": "155000"
     }
+  ],
+  "MIW903": [
+    {
+      "id": "svc-1786643856430-9877",
+      "cliente": "CELTA",
+      "model": "CELTA",
+      "checklist": {
+        "aceite": "ELAION TS 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION TS 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-06",
+      "currentKm": "134100",
+      "proximoKm": "144000"
+    }
   ]
 }
