@@ -27040,5 +27040,39 @@
       "currentKm": "27000",
       "proximoKm": "37000"
     }
+  ],
+  "HEJ962": [
+    {
+      "id": "svc-1786619915157-2388",
+      "cliente": "116I",
+      "model": "116I",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-12",
+      "currentKm": "275000",
+      "proximoKm": "285000"
+    }
   ]
 }
