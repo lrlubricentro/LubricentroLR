@@ -27956,5 +27956,39 @@
       "currentKm": "152300",
       "proximoKm": "162000"
     }
+  ],
+  "JQK743": [
+    {
+      "id": "svc-1786626458253-6255",
+      "cliente": "GOL",
+      "model": "GOL",
+      "checklist": {
+        "aceite": "ELAION TS 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "no",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION TS 10W40 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-08-10",
+      "currentKm": "98500",
+      "proximoKm": "106000"
+    }
   ]
 }
