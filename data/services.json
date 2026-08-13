@@ -27278,5 +27278,39 @@
       "currentKm": "54500",
       "proximoKm": "64000"
     }
+  ],
+  "MUT191": [
+    {
+      "id": "svc-1786620273168-7995",
+      "cliente": "PALIO",
+      "model": "PALIO",
+      "checklist": {
+        "aceite": "SELENIA K",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA K | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-12",
+      "currentKm": "163800",
+      "proximoKm": "173000"
+    }
   ]
 }
