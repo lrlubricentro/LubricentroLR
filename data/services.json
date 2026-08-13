@@ -28190,5 +28190,39 @@
       "currentKm": "62000",
       "proximoKm": "72000"
     }
+  ],
+  "OLH739": [
+    {
+      "id": "svc-1786643005027-4049",
+      "cliente": "GOL TREND",
+      "model": "GOL TREND",
+      "checklist": {
+        "aceite": "ELAION FS 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION FS 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-08-08",
+      "currentKm": "118700",
+      "proximoKm": "128000"
+    }
   ]
 }
