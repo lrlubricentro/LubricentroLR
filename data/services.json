@@ -1017,6 +1017,38 @@
   ],
   "HPB782": [
     {
+      "id": "svc-1786642084878-6160",
+      "cliente": "BORA",
+      "model": "BORA",
+      "checklist": {
+        "aceite": "ELAION FS 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION FS 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-08-08",
+      "currentKm": "85200",
+      "proximoKm": "95000"
+    },
+    {
       "id": "svc-1777412063839-672",
       "cliente": "BORA",
       "model": "BORA",
