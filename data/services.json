@@ -28292,5 +28292,39 @@
       "currentKm": "12000",
       "proximoKm": "22000"
     }
+  ],
+  "OCL136": [
+    {
+      "id": "svc-1786643351502-5851",
+      "cliente": "ECOSPORT",
+      "model": "ECOSPORT",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-08-06",
+      "currentKm": "183400",
+      "proximoKm": "193000"
+    }
   ]
 }
