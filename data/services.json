@@ -28664,5 +28664,39 @@
       "currentKm": "171200",
       "proximoKm": "181000"
     }
+  ],
+  "AB483CY": [
+    {
+      "id": "svc-1786727941261-4044",
+      "cliente": "LOGAN",
+      "model": "LOGAN",
+      "checklist": {
+        "aceite": "ELAION TS 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION TS 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-08-13",
+      "currentKm": "223300",
+      "proximoKm": "233000"
+    }
   ]
 }
