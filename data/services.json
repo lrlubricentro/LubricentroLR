@@ -28698,5 +28698,39 @@
       "currentKm": "223300",
       "proximoKm": "233000"
     }
+  ],
+  "AF018OF": [
+    {
+      "id": "svc-1786728010803-6522",
+      "cliente": "TRAILBLAZER",
+      "model": "TRAILBLAZER",
+      "checklist": {
+        "aceite": "VALVOLINE ADVANCED 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "A3",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE ADVANCED 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: A3",
+      "fechaService": "2026-08-13",
+      "currentKm": "41900",
+      "proximoKm": "52000"
+    }
   ]
 }
