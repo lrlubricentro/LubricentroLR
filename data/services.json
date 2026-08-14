@@ -28596,5 +28596,39 @@
       "currentKm": "29100",
       "proximoKm": "39000"
     }
+  ],
+  "OKS557": [
+    {
+      "id": "svc-1786727842910-4700",
+      "cliente": "308",
+      "model": "308",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 7000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 7000 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-13",
+      "currentKm": "127000",
+      "proximoKm": "137000"
+    }
   ]
 }
