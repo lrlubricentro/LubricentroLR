@@ -28630,5 +28630,39 @@
       "currentKm": "127000",
       "proximoKm": "137000"
     }
+  ],
+  "OKX974": [
+    {
+      "id": "svc-1786727900192-1361",
+      "cliente": "PARTNER",
+      "model": "PARTNER",
+      "checklist": {
+        "aceite": "MANNOL 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MANNOL 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-13",
+      "currentKm": "171200",
+      "proximoKm": "181000"
+    }
   ]
 }
