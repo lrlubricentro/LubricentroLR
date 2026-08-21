@@ -28866,5 +28866,39 @@
       "currentKm": "116000",
       "proximoKm": "126000"
     }
+  ],
+  "LEK853": [
+    {
+      "id": "svc-1787317927787-1076",
+      "cliente": "SILVANA",
+      "model": "RAV 4",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ACEITE DE CAJA AT + FILTRO + JUNTA",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "si",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Caja Velocidad, Filtro de Aire, Filtro Polen | Detalle: CAMBIO ACEITE DE CAJA AT + FILTRO + JUNTA",
+      "fechaService": "2026-07-24",
+      "currentKm": "178000",
+      "proximoKm": "188000"
+    }
   ]
 }
