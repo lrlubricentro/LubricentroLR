@@ -29272,5 +29272,39 @@
       "currentKm": "208300",
       "proximoKm": "218000"
     }
+  ],
+  "AE125MI": [
+    {
+      "id": "svc-1787319125045-9061",
+      "cliente": "Q5",
+      "model": "Q5",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-23",
+      "currentKm": "109400",
+      "proximoKm": "119000"
+    }
   ]
 }
