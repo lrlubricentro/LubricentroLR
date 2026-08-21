@@ -29068,5 +29068,39 @@
       "currentKm": "48100",
       "proximoKm": "58000"
     }
+  ],
+  "LXH799": [
+    {
+      "id": "svc-1787318273581-9003",
+      "cliente": "C3",
+      "model": "C3",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-23",
+      "currentKm": "210000",
+      "proximoKm": "220000"
+    }
   ]
 }
