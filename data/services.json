@@ -28966,5 +28966,39 @@
       "currentKm": "159100",
       "proximoKm": "169000"
     }
+  ],
+  "JEQ307": [
+    {
+      "id": "svc-1787318115823-6279",
+      "cliente": "FACUNDO",
+      "model": "CLIO",
+      "checklist": {
+        "aceite": "ELF EVOLUTION 700",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELF EVOLUTION 700 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-07-23",
+      "currentKm": "106100",
+      "proximoKm": "116000"
+    }
   ]
 }
