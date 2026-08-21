@@ -28932,5 +28932,39 @@
       "currentKm": "178000",
       "proximoKm": "188000"
     }
+  ],
+  "JSV728": [
+    {
+      "id": "svc-1787318058280-1351",
+      "cliente": "JUAN",
+      "model": "TIGGO",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "si",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 | Checks SI: Filtro de Aceite, Cambio Bujias",
+      "fechaService": "2026-07-23",
+      "currentKm": "159100",
+      "proximoKm": "169000"
+    }
   ]
 }
