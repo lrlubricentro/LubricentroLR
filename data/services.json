@@ -29034,5 +29034,39 @@
       "currentKm": "108100",
       "proximoKm": "118000"
     }
+  ],
+  "LFT167": [
+    {
+      "id": "svc-1787318217162-6305",
+      "cliente": "CARLOS",
+      "model": "FOCUS",
+      "checklist": {
+        "aceite": "ELAION F30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION F30 | Checks SI: Filtro de Aceite, Filtro de Combustible",
+      "fechaService": "2026-07-23",
+      "currentKm": "48100",
+      "proximoKm": "58000"
+    }
   ]
 }
