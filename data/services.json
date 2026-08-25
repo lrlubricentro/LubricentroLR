@@ -29508,5 +29508,39 @@
       "currentKm": "100000",
       "proximoKm": "110000"
     }
+  ],
+  "HTY630": [
+    {
+      "id": "svc-1787657945597-461",
+      "cliente": "NICOLAS",
+      "model": "SANDERO",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-05",
+      "currentKm": "102200",
+      "proximoKm": "112000"
+    }
   ]
 }
