@@ -29408,5 +29408,39 @@
       "currentKm": "214300",
       "proximoKm": "224000"
     }
+  ],
+  "EKJ476": [
+    {
+      "id": "svc-1787657775371-7416",
+      "cliente": "HERNAN",
+      "model": "ECOSPORT",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "A3",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: A3",
+      "fechaService": "2026-08-13",
+      "currentKm": "166000",
+      "proximoKm": "176000"
+    }
   ]
 }
