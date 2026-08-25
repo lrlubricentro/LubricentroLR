@@ -29576,5 +29576,39 @@
       "currentKm": "161700",
       "proximoKm": "171000"
     }
+  ],
+  "AD076QR": [
+    {
+      "id": "svc-1787658072287-7239",
+      "cliente": "MARCELO",
+      "model": "GOLF",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-05",
+      "currentKm": "116100",
+      "proximoKm": "126000"
+    }
   ]
 }
