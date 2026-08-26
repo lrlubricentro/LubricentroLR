@@ -29742,5 +29742,39 @@
       "currentKm": "157500",
       "proximoKm": "167000"
     }
+  ],
+  "AB428BQ": [
+    {
+      "id": "svc-1787744596474-523",
+      "cliente": "KA",
+      "model": "KA",
+      "checklist": {
+        "aceite": "ELAION AURO FE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-08-25",
+      "currentKm": "124400",
+      "proximoKm": "134000"
+    }
   ]
 }
