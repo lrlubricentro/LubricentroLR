@@ -15983,6 +15983,38 @@
   ],
   "NOR507": [
     {
+      "id": "svc-1787747630668-2226",
+      "cliente": "FLUENCE",
+      "model": "FLUENCE",
+      "checklist": {
+        "aceite": "GULF 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: GULF 10W40 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-08-25",
+      "currentKm": "144100",
+      "proximoKm": "154000"
+    },
+    {
       "id": "svc-1781729310319-5987",
       "cliente": "FLUENCE",
       "model": "FLUENCE",
