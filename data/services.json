@@ -30248,5 +30248,39 @@
       "currentKm": "132600",
       "proximoKm": "142000"
     }
+  ],
+  "AF300ND": [
+    {
+      "id": "svc-1787776603271-6252",
+      "cliente": "CRONOS",
+      "model": "CRONOS",
+      "checklist": {
+        "aceite": "SELENIA PURE ENERGY 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA PURE ENERGY 5W30 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-08-24",
+      "currentKm": "328800",
+      "proximoKm": "338000"
+    }
   ]
 }
