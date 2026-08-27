@@ -30960,5 +30960,39 @@
       "currentKm": "334700",
       "proximoKm": "344000"
     }
+  ],
+  "EHH486": [
+    {
+      "id": "svc-1787858382645-8803",
+      "cliente": "CHEROKEE",
+      "model": "CHEROKEE",
+      "checklist": {
+        "aceite": "VALVOLINE 15W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE 15W40 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-07-28",
+      "currentKm": "252900",
+      "proximoKm": "263000"
+    }
   ]
 }
