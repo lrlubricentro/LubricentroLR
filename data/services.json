@@ -31028,5 +31028,39 @@
       "currentKm": "95000",
       "proximoKm": "105000"
     }
+  ],
+  "AA723RO": [
+    {
+      "id": "svc-1787858529249-5352",
+      "cliente": "GOL TREND",
+      "model": "GOL TREND",
+      "checklist": {
+        "aceite": "VALVOLINE 20W50",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE 20W50 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-28",
+      "currentKm": "331200",
+      "proximoKm": "341000"
+    }
   ]
 }
