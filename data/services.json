@@ -30520,5 +30520,39 @@
       "currentKm": "143600",
       "proximoKm": "153000"
     }
+  ],
+  "AA406FD": [
+    {
+      "id": "svc-1787857541292-2700",
+      "cliente": "JUAN",
+      "model": "CRUZE",
+      "checklist": {
+        "aceite": "ELAION AURO D1 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D1 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-26",
+      "currentKm": "133700",
+      "proximoKm": "143000"
+    }
   ]
 }
