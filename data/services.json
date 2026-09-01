@@ -31130,5 +31130,39 @@
       "currentKm": "160000",
       "proximoKm": "170000"
     }
+  ],
+  "JIN157": [
+    {
+      "id": "svc-1788263252177-1687",
+      "cliente": "MATIAS",
+      "model": "207",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 7000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 7000 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-08-29",
+      "currentKm": "121000",
+      "proximoKm": "130000"
+    }
   ]
 }
