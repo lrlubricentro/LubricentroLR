@@ -31436,5 +31436,39 @@
       "currentKm": "181200",
       "proximoKm": "191000"
     }
+  ],
+  "AB227EO": [
+    {
+      "id": "svc-1788264080970-7841",
+      "cliente": "FERNANDO",
+      "model": "GOLF",
+      "checklist": {
+        "aceite": "MOTUL 8100",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "LIQUI MOLY",
+        "detalle": "CAMBIO ESCOBILLAS",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "si",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen, Cambio Bateria | Aditivo Combustible: LIQUI MOLY | Detalle: CAMBIO ESCOBILLAS",
+      "fechaService": "2026-08-31",
+      "currentKm": "134000",
+      "proximoKm": "144000"
+    }
   ]
 }
