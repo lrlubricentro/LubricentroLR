@@ -31164,5 +31164,39 @@
       "currentKm": "126700",
       "proximoKm": "136000"
     }
+  ],
+  "AA316RU": [
+    {
+      "id": "svc-1788221763133-3187",
+      "cliente": "HRV",
+      "model": "HRV",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Filtro de Combustible",
+      "fechaService": "2026-08-22",
+      "currentKm": "141100",
+      "proximoKm": "151000"
+    }
   ]
 }
