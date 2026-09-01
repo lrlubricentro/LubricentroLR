@@ -31674,5 +31674,39 @@
       "currentKm": "138200",
       "proximoKm": "148000"
     }
+  ],
+  "AE096PI": [
+    {
+      "id": "svc-1788223246333-6476",
+      "cliente": "ESMERALDA",
+      "model": "GOL TREND",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO DE CORREA DE DISTRIBUCION + BOMBA DE AGUA + TENSORES + REFRIGERANTE",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "si",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen, Cambio Liquido Refrigerante | Detalle: CAMBIO DE CORREA DE DISTRIBUCION + BOMBA DE AGUA + TENSORES + REFRIGERANTE",
+      "fechaService": "2026-08-20",
+      "currentKm": "60700",
+      "proximoKm": "70000"
+    }
   ]
 }
