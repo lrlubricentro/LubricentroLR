@@ -31266,5 +31266,39 @@
       "currentKm": "204000",
       "proximoKm": "213999"
     }
+  ],
+  "FEL131": [
+    {
+      "id": "svc-1788222104462-7915",
+      "cliente": "GOL",
+      "model": "GOL",
+      "checklist": {
+        "aceite": "VALVOLINE 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ACEITE DE CAJA",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "si",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE 10W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Caja Velocidad, Filtro de Aire | Detalle: CAMBIO ACEITE DE CAJA",
+      "fechaService": "2026-08-21",
+      "currentKm": "195200",
+      "proximoKm": "205000"
+    }
   ]
 }
