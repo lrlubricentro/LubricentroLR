@@ -31640,5 +31640,39 @@
       "currentKm": "42100",
       "proximoKm": "52000"
     }
+  ],
+  "ITZ808": [
+    {
+      "id": "svc-1788223138032-2361",
+      "cliente": "SORENTO",
+      "model": "SORENTO",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 9000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 9000 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-21",
+      "currentKm": "138200",
+      "proximoKm": "148000"
+    }
   ]
 }
