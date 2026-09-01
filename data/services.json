@@ -6467,6 +6467,38 @@
   ],
   "AB139GM": [
     {
+      "id": "svc-1788223720762-6396",
+      "cliente": "VERSA",
+      "model": "VERSA",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ACEITE DE CAJA CVT",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "si",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Caja Velocidad, Filtro de Aire | Detalle: CAMBIO ACEITE DE CAJA CVT",
+      "fechaService": "2026-08-20",
+      "currentKm": "133100",
+      "proximoKm": "143000"
+    },
+    {
       "id": "svc-1784323651304-7890",
       "cliente": "VERSA",
       "model": "VERSA",
