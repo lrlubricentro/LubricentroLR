@@ -32046,5 +32046,39 @@
       "currentKm": "138000",
       "proximoKm": "150000"
     }
+  ],
+  "NFH925": [
+    {
+      "id": "svc-1788348364184-1045",
+      "cliente": "GONZA",
+      "model": "207",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "si",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen, Cambio Liquido Refrigerante",
+      "fechaService": "2026-08-27",
+      "currentKm": "96400",
+      "proximoKm": "106000"
+    }
   ]
 }
