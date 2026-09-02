@@ -32114,5 +32114,39 @@
       "currentKm": "131600",
       "proximoKm": "141000"
     }
+  ],
+  "MXZ937": [
+    {
+      "id": "svc-1788355584463-9823",
+      "cliente": "Q5",
+      "model": "Q5",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-26",
+      "currentKm": "96600",
+      "proximoKm": "107000"
+    }
   ]
 }
