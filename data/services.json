@@ -31740,5 +31740,39 @@
       "currentKm": "27000",
       "proximoKm": "37000"
     }
+  ],
+  "AE247TO": [
+    {
+      "id": "svc-1788346861160-2399",
+      "cliente": "MATI",
+      "model": "COMPASS",
+      "checklist": {
+        "aceite": "VALVOLINE ADVANCED 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ACEITE DE CAJA CON RECIRCULADO",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "si",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE ADVANCED 0W20 | Checks SI: Filtro de Aceite, Caja Velocidad, Filtro de Aire, Filtro Polen | Detalle: CAMBIO ACEITE DE CAJA CON RECIRCULADO",
+      "fechaService": "2026-08-28",
+      "currentKm": "78300",
+      "proximoKm": "88000"
+    }
   ]
 }
