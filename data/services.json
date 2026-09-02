@@ -31774,5 +31774,39 @@
       "currentKm": "78300",
       "proximoKm": "88000"
     }
+  ],
+  "KUN053": [
+    {
+      "id": "svc-1788346904189-2491",
+      "cliente": "CLIO",
+      "model": "CLIO",
+      "checklist": {
+        "aceite": "ELF EVOLUTION 700",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELF EVOLUTION 700 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-27",
+      "currentKm": "134900",
+      "proximoKm": "144000"
+    }
   ]
 }
