@@ -9275,6 +9275,38 @@
   ],
   "AD544VL": [
     {
+      "id": "svc-1788346468400-4510",
+      "cliente": "CHARLIE",
+      "model": "ETIOS",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-08-31",
+      "currentKm": "162000",
+      "proximoKm": "172000"
+    },
+    {
       "id": "svc-1780345247308-1044",
       "cliente": "ETIOS",
       "model": "ETIOS",
