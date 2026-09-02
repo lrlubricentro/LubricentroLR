@@ -32148,5 +32148,39 @@
       "currentKm": "96600",
       "proximoKm": "107000"
     }
+  ],
+  "AH414KC": [
+    {
+      "id": "svc-1788355642699-8115",
+      "cliente": "C3 AIRCROSS",
+      "model": "C3 AIRCROSS",
+      "checklist": {
+        "aceite": "TOTAL INEO 0W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL INEO 0W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-08-27",
+      "currentKm": "10900",
+      "proximoKm": "20000"
+    }
   ]
 }
