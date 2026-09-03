@@ -33028,5 +33028,39 @@
       "currentKm": "109000",
       "proximoKm": "119000"
     }
+  ],
+  "AG014RS": [
+    {
+      "id": "svc-1788469185120-8577",
+      "cliente": "KANGOO",
+      "model": "KANGOO",
+      "checklist": {
+        "aceite": "CASTROL STOP START 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL STOP START 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-27",
+      "currentKm": "54700",
+      "proximoKm": "64000"
+    }
   ]
 }
