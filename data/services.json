@@ -32554,5 +32554,39 @@
       "currentKm": "81600",
       "proximoKm": "91000"
     }
+  ],
+  "GEB623": [
+    {
+      "id": "svc-1788457235369-3412",
+      "cliente": "ADRIAN",
+      "model": "SW4",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "A3",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: A3",
+      "fechaService": "2026-09-02",
+      "currentKm": "219300",
+      "proximoKm": "229000"
+    }
   ]
 }
