@@ -32588,5 +32588,39 @@
       "currentKm": "219300",
       "proximoKm": "229000"
     }
+  ],
+  "AC873OO": [
+    {
+      "id": "svc-1788457305679-7584",
+      "cliente": "ETIOS",
+      "model": "ETIOS",
+      "checklist": {
+        "aceite": "MOBIL SUPER 2000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "LIMPIA INYECTORES",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOBIL SUPER 2000 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen | Aditivo Combustible: LIMPIA INYECTORES",
+      "fechaService": "2026-09-02",
+      "currentKm": "30512",
+      "proximoKm": "40000"
+    }
   ]
 }
