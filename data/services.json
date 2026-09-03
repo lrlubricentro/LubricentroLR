@@ -32452,5 +32452,39 @@
       "currentKm": "118600",
       "proximoKm": "128000"
     }
+  ],
+  "AG168EZ": [
+    {
+      "id": "svc-1788435441669-1017",
+      "cliente": "NAZARENO",
+      "model": "208",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ INEO 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ INEO 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-09-01",
+      "currentKm": "21100",
+      "proximoKm": "31000"
+    }
   ]
 }
