@@ -33264,5 +33264,39 @@
       "currentKm": "39300",
       "proximoKm": "49000"
     }
+  ],
+  "GMJ133": [
+    {
+      "id": "svc-1788808324491-2566",
+      "cliente": "FEDERICO",
+      "model": "GOL",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-09-04",
+      "currentKm": "82800",
+      "proximoKm": "92000"
+    }
   ]
 }
