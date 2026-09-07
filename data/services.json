@@ -33062,5 +33062,39 @@
       "currentKm": "54700",
       "proximoKm": "64000"
     }
+  ],
+  "MFJ588": [
+    {
+      "id": "svc-1788807969047-9709",
+      "cliente": "DUSTER",
+      "model": "DUSTER",
+      "checklist": {
+        "aceite": "CASTROL MAGNATEC 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL MAGNATEC 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-09-05",
+      "currentKm": "168400",
+      "proximoKm": "178000"
+    }
   ]
 }
