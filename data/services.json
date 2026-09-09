@@ -33804,5 +33804,39 @@
       "currentKm": "72800",
       "proximoKm": "82800"
     }
+  ],
+  "AF762BE": [
+    {
+      "id": "svc-1788954730365-3759",
+      "cliente": "MARCELO",
+      "model": "TRACKER",
+      "checklist": {
+        "aceite": "ELAION AURO D1 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D1 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-04",
+      "currentKm": "41000",
+      "proximoKm": "51000"
+    }
   ]
 }
