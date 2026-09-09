@@ -34108,5 +34108,39 @@
       "currentKm": "162300",
       "proximoKm": "172000"
     }
+  ],
+  "AG771AV": [
+    {
+      "id": "svc-1788957156282-7409",
+      "cliente": "208",
+      "model": "208",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ INEO 0W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ INEO 0W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-03",
+      "currentKm": "20000",
+      "proximoKm": "30000"
+    }
   ]
 }
