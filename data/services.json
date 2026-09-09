@@ -34684,5 +34684,39 @@
       "currentKm": "117000",
       "proximoKm": "127000"
     }
+  ],
+  "AE985CW": [
+    {
+      "id": "svc-1788988106477-2988",
+      "cliente": "COROLLA",
+      "model": "COROLLA",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "FILTRO AIRE BATERIAS",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire | Detalle: FILTRO AIRE BATERIAS",
+      "fechaService": "2026-09-09",
+      "currentKm": "84900",
+      "proximoKm": "95000"
+    }
   ]
 }
