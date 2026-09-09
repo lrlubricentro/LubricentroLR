@@ -34514,5 +34514,39 @@
       "currentKm": "80200",
       "proximoKm": "90000"
     }
+  ],
+  "AF122PY": [
+    {
+      "id": "svc-1788987793139-1600",
+      "cliente": "LUCAS",
+      "model": "YARIS GR",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "no",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W30 | Checks SI: Filtro de Aceite, Filtro Polen",
+      "fechaService": "2026-07-27",
+      "currentKm": "30100",
+      "proximoKm": "40000"
+    }
   ]
 }
