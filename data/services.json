@@ -5209,6 +5209,38 @@
   ],
   "AE794TV": [
     {
+      "id": "svc-1788954314582-2519",
+      "cliente": "PASCUAL",
+      "model": "CRUZE",
+      "checklist": {
+        "aceite": "ELAION AURO D1 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D1 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-07",
+      "currentKm": "89500",
+      "proximoKm": "99000"
+    },
+    {
       "id": "svc-1778586350418-8825",
       "cliente": "CRUZE",
       "model": "CRUZE",
