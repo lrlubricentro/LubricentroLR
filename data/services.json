@@ -34752,5 +34752,39 @@
       "currentKm": "75400",
       "proximoKm": "85000"
     }
+  ],
+  "MOY290": [
+    {
+      "id": "svc-1789039109025-6073",
+      "cliente": "CORSA",
+      "model": "CORSA",
+      "checklist": {
+        "aceite": "ELAION F30 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION F30 10W40 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-09-09",
+      "currentKm": "17900",
+      "proximoKm": "28000"
+    }
   ]
 }
