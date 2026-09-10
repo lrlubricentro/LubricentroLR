@@ -34786,5 +34786,39 @@
       "currentKm": "17900",
       "proximoKm": "28000"
     }
+  ],
+  "JES854": [
+    {
+      "id": "svc-1789039168455-366",
+      "cliente": "BORA TDI",
+      "model": "BORA TDI",
+      "checklist": {
+        "aceite": "MOTUL 8100 XCLEAN 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 XCLEAN 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-09-09",
+      "currentKm": "168000",
+      "proximoKm": "178000"
+    }
   ]
 }
