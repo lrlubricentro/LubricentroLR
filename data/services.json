@@ -34956,5 +34956,39 @@
       "currentKm": "27300",
       "proximoKm": "37000"
     }
+  ],
+  "JXO344": [
+    {
+      "id": "svc-1789039673343-7875",
+      "cliente": "C3",
+      "model": "C3",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 9000 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 9000 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-07-24",
+      "currentKm": "121900",
+      "proximoKm": "132000"
+    }
   ]
 }
