@@ -4867,6 +4867,38 @@
   ],
   "AD500XG": [
     {
+      "id": "svc-1789476194553-1547",
+      "cliente": "CRONOS",
+      "model": "CRONOS",
+      "checklist": {
+        "aceite": "SELENIA PURE ENERGY 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA PURE ENERGY 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-08-22",
+      "currentKm": "309200",
+      "proximoKm": "319000"
+    },
+    {
       "id": "svc-1778520901990-7737",
       "cliente": "CRONOS",
       "model": "CRONOS",
