@@ -35734,5 +35734,39 @@
       "currentKm": "82600",
       "proximoKm": "92000"
     }
+  ],
+  "AF101PN": [
+    {
+      "id": "svc-1789476075241-7447",
+      "cliente": "COROLLA CROSS",
+      "model": "COROLLA CROSS",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "si",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen, Cambio Liquido Freno",
+      "fechaService": "2026-09-10",
+      "currentKm": "43100",
+      "proximoKm": "53000"
+    }
   ]
 }
