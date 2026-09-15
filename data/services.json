@@ -35902,5 +35902,39 @@
       "currentKm": "46100",
       "proximoKm": "56000"
     }
+  ],
+  "OPW790": [
+    {
+      "id": "svc-1789476401614-8173",
+      "cliente": "RIO",
+      "model": "RIO",
+      "checklist": {
+        "aceite": "VALVOLINE 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ACEITE DE CAJA",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "si",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE 10W40 | Checks SI: Filtro de Aceite, Caja Velocidad, Filtro de Aire, Filtro Polen | Detalle: CAMBIO ACEITE DE CAJA",
+      "fechaService": "2026-07-24",
+      "currentKm": "148600",
+      "proximoKm": "158000"
+    }
   ]
 }
