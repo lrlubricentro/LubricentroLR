@@ -35600,5 +35600,39 @@
       "currentKm": "90800",
       "proximoKm": "100000"
     }
+  ],
+  "LJT812": [
+    {
+      "id": "svc-1789475855562-8677",
+      "cliente": "FERNADO",
+      "model": "CLIO",
+      "checklist": {
+        "aceite": "ELF EVOLUTION 700",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELF EVOLUTION 700 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-11",
+      "currentKm": "54400",
+      "proximoKm": "64000"
+    }
   ]
 }
