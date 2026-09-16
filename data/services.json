@@ -36072,5 +36072,39 @@
       "currentKm": "150000",
       "proximoKm": "160000"
     }
+  ],
+  "OIU349": [
+    {
+      "id": "svc-1789558231152-3030",
+      "cliente": "FIESTA",
+      "model": "FIESTA",
+      "checklist": {
+        "aceite": "VALVOLINE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-14",
+      "currentKm": "120500",
+      "proximoKm": "130000"
+    }
   ]
 }
