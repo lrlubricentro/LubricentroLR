@@ -36140,5 +36140,39 @@
       "currentKm": "69000",
       "proximoKm": "79000"
     }
+  ],
+  "AA190DL": [
+    {
+      "id": "svc-1789558341918-5534",
+      "cliente": "MIGUEL",
+      "model": "KANGOO",
+      "checklist": {
+        "aceite": "ELF EVOLUTION  700",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELF EVOLUTION  700 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-14",
+      "currentKm": "156400",
+      "proximoKm": "166000"
+    }
   ]
 }
