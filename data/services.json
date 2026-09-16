@@ -36542,5 +36542,39 @@
       "currentKm": "79500",
       "proximoKm": "89000"
     }
+  ],
+  "AC000MJ": [
+    {
+      "id": "svc-1789559059653-2784",
+      "cliente": "DARIO",
+      "model": "AMAROK",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-09-15",
+      "currentKm": "127000",
+      "proximoKm": "137000"
+    }
   ]
 }
