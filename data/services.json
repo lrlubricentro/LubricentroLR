@@ -10077,6 +10077,38 @@
   ],
   "AB908DE": [
     {
+      "id": "svc-1789558495035-7363",
+      "cliente": "FIORINO",
+      "model": "FIORINO",
+      "checklist": {
+        "aceite": "SELENIA K 15W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA K 15W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-14",
+      "currentKm": "401000",
+      "proximoKm": "411000"
+    },
+    {
       "id": "svc-1780602108424-169",
       "cliente": "FIORINO",
       "model": "FIORINO",
