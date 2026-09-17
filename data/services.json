@@ -36644,5 +36644,39 @@
       "currentKm": "105400",
       "proximoKm": "115000"
     }
+  ],
+  "LHL110": [
+    {
+      "id": "svc-1789672944556-6919",
+      "cliente": "AGILE",
+      "model": "AGILE",
+      "checklist": {
+        "aceite": "ELAION FS 540",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION FS 540 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-16",
+      "currentKm": "248200",
+      "proximoKm": "258000"
+    }
   ]
 }
