@@ -36946,5 +36946,39 @@
       "currentKm": "41100",
       "proximoKm": "51000"
     }
+  ],
+  "KZH997": [
+    {
+      "id": "svc-1789816933387-429",
+      "cliente": "GOL TREND",
+      "model": "GOL TREND",
+      "checklist": {
+        "aceite": "ELAION F30 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION F30 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-09-17",
+      "currentKm": "143000",
+      "proximoKm": "153000"
+    }
   ]
 }
