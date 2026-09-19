@@ -36878,5 +36878,39 @@
       "currentKm": "50000",
       "proximoKm": "60000"
     }
+  ],
+  "KUW756": [
+    {
+      "id": "svc-1789816838317-7276",
+      "cliente": "LUCAS",
+      "model": "207",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 7000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 7000 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-09-17",
+      "currentKm": "118500",
+      "proximoKm": "128000"
+    }
   ]
 }
