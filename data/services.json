@@ -37150,5 +37150,39 @@
       "currentKm": "67000",
       "proximoKm": "77000"
     }
+  ],
+  "MKY607": [
+    {
+      "id": "svc-1789989474113-6280",
+      "cliente": "SEBASTIAN",
+      "model": "118i",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-18",
+      "currentKm": "140400",
+      "proximoKm": "150000"
+    }
   ]
 }
