@@ -37218,5 +37218,39 @@
       "currentKm": "107400",
       "proximoKm": "117000"
     }
+  ],
+  "MLD398": [
+    {
+      "id": "svc-1789989672839-611",
+      "cliente": "SIENA",
+      "model": "SIENA",
+      "checklist": {
+        "aceite": "SELENIA K 15W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA K 15W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-18",
+      "currentKm": "401800",
+      "proximoKm": "411000"
+    }
   ]
 }
