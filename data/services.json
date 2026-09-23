@@ -37826,5 +37826,39 @@
       "currentKm": "111100",
       "proximoKm": "121000"
     }
+  ],
+  "OFJ024": [
+    {
+      "id": "svc-1790163459654-7830",
+      "cliente": "NORBERTO",
+      "model": "SHELL HELIX HX7 10W40",
+      "checklist": {
+        "aceite": "",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-21",
+      "currentKm": "151100",
+      "proximoKm": "161000"
+    }
   ]
 }
