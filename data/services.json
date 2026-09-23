@@ -37758,5 +37758,39 @@
       "currentKm": "33400",
       "proximoKm": "43000"
     }
+  ],
+  "AD939KO": [
+    {
+      "id": "svc-1790162488073-4183",
+      "cliente": "ARGO",
+      "model": "ARGO",
+      "checklist": {
+        "aceite": "MOTUL 8100 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "A3",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 0W20 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire | Detalle: A3",
+      "fechaService": "2026-09-21",
+      "currentKm": "19400",
+      "proximoKm": "29000"
+    }
   ]
 }
