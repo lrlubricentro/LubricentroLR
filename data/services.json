@@ -37692,5 +37692,39 @@
       "currentKm": "61100",
       "proximoKm": "71000"
     }
+  ],
+  "AF548FH": [
+    {
+      "id": "svc-1790162393349-6487",
+      "cliente": "MARIANO",
+      "model": "TAOS",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "si",
+          "liquido-refrigerante": "si",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen, Cambio Bateria, Cambio Liquido Refrigerante",
+      "fechaService": "2026-09-21",
+      "currentKm": "33400",
+      "proximoKm": "43000"
+    }
   ]
 }
