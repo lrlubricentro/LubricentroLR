@@ -37894,5 +37894,39 @@
       "currentKm": "30700",
       "proximoKm": "40000"
     }
+  ],
+  "AE268DC": [
+    {
+      "id": "svc-1790163564113-9974",
+      "cliente": "208 GT",
+      "model": "208 GT",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ INEO FIRST 0W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ INEO FIRST 0W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-19",
+      "currentKm": "46600",
+      "proximoKm": "56000"
+    }
   ]
 }
