@@ -38368,5 +38368,39 @@
       "currentKm": "135400",
       "proximoKm": "145000"
     }
+  ],
+  "MXR417": [
+    {
+      "id": "svc-1790619108129-9281",
+      "cliente": "207",
+      "model": "207",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-26",
+      "currentKm": "276500",
+      "proximoKm": "286000"
+    }
   ]
 }
