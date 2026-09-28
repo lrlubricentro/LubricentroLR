@@ -38500,5 +38500,39 @@
       "currentKm": "91200",
       "proximoKm": "101000"
     }
+  ],
+  "AD744NH": [
+    {
+      "id": "svc-1790619342087-3854",
+      "cliente": "AMAROK",
+      "model": "AMAROK",
+      "checklist": {
+        "aceite": "MOTUL SPECIFIC 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL SPECIFIC 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-26",
+      "currentKm": "103700",
+      "proximoKm": "113000"
+    }
   ]
 }
