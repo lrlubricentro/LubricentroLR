@@ -15891,6 +15891,38 @@
   ],
   "AE967GM": [
     {
+      "id": "svc-1790619290870-9941",
+      "cliente": "CHARLIE",
+      "model": "VERSA",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRAS 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRAS 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-26",
+      "currentKm": "147700",
+      "proximoKm": "157000"
+    },
+    {
       "id": "svc-1784226226211-8798",
       "cliente": "VERSA",
       "model": "VERSA",
