@@ -39076,5 +39076,39 @@
       "currentKm": "125500",
       "proximoKm": "135000"
     }
+  ],
+  "MPA745": [
+    {
+      "id": "svc-1790680744120-6905",
+      "cliente": "FIORINO",
+      "model": "FIORINO",
+      "checklist": {
+        "aceite": "SELENIA K",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA K | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-09-24",
+      "currentKm": "373600",
+      "proximoKm": "383000"
+    }
   ]
 }
