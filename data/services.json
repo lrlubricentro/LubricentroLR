@@ -38872,5 +38872,39 @@
       "currentKm": "40000",
       "proximoKm": "50000"
     }
+  ],
+  "KKM224": [
+    {
+      "id": "svc-1790680407146-3203",
+      "cliente": "C3",
+      "model": "C3",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 7000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 7000 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-09-25",
+      "currentKm": "180400",
+      "proximoKm": "190000"
+    }
   ]
 }
