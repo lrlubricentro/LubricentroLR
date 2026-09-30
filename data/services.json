@@ -39514,5 +39514,39 @@
       "currentKm": "57100",
       "proximoKm": "67000"
     }
+  ],
+  "DCX791": [
+    {
+      "id": "svc-1790773946339-6894",
+      "cliente": "735i",
+      "model": "735i",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-09-23",
+      "currentKm": "78000",
+      "proximoKm": "88000"
+    }
   ]
 }
