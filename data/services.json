@@ -9931,6 +9931,38 @@
   ],
   "AF752BT": [
     {
+      "id": "svc-1790774185645-523",
+      "cliente": "DIEGO",
+      "model": "KANGOO",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-28",
+      "currentKm": "78400",
+      "proximoKm": "88000"
+    },
+    {
       "id": "svc-1780600197649-3147",
       "cliente": "DIEGUITO",
       "model": "KANGOO",
