@@ -39312,5 +39312,39 @@
       "currentKm": "52800",
       "proximoKm": "62000"
     }
+  ],
+  "LEP253": [
+    {
+      "id": "svc-1790773608654-4593",
+      "cliente": "KANGOO",
+      "model": "KANGOO",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ACEITE DE CAJA 75W90",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "si",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Caja Velocidad, Filtro de Aire, Filtro Polen | Detalle: CAMBIO ACEITE DE CAJA 75W90",
+      "fechaService": "2026-09-29",
+      "currentKm": "115000",
+      "proximoKm": "125000"
+    }
   ]
 }
