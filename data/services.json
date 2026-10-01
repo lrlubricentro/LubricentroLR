@@ -40354,5 +40354,39 @@
       "currentKm": "125600",
       "proximoKm": "135000"
     }
+  ],
+  "MGL849": [
+    {
+      "id": "svc-1790854559680-3437",
+      "cliente": "COROLLA",
+      "model": "COROLLA",
+      "checklist": {
+        "aceite": "MOBIL SUPER 2000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOBIL SUPER 2000 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-22",
+      "currentKm": "130500",
+      "proximoKm": "140000"
+    }
   ]
 }
