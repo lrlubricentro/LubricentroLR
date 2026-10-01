@@ -39850,5 +39850,39 @@
       "currentKm": "39700",
       "proximoKm": "49000"
     }
+  ],
+  "EIZ263": [
+    {
+      "id": "svc-1790853313318-1768",
+      "cliente": "CRV",
+      "model": "CRV",
+      "checklist": {
+        "aceite": "SHELL HELIX HX5 15W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX5 15W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-30",
+      "currentKm": "283300",
+      "proximoKm": "293000"
+    }
   ]
 }
