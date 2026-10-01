@@ -39986,5 +39986,39 @@
       "currentKm": "150600",
       "proximoKm": "160000"
     }
+  ],
+  "AB146OB": [
+    {
+      "id": "svc-1790853546853-4397",
+      "cliente": "WALTER",
+      "model": "TRACKER",
+      "checklist": {
+        "aceite": "ELAION AURO D1 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "si",
+          "diferencial-trasero": "si",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "si",
+          "diferencial-delantero": "si",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D1 5W30 | Checks SI: Filtro de Aceite, Caja Velocidad, Diferencial Trasero, Filtro de Aire, Filtro Polen, Caja Transfer, Diferencial Delantero",
+      "fechaService": "2026-09-30",
+      "currentKm": "56500",
+      "proximoKm": "66000"
+    }
   ]
 }
