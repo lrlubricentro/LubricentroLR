@@ -17059,6 +17059,38 @@
   ],
   "AF058CR": [
     {
+      "id": "svc-1790853702433-6078",
+      "cliente": "CAPTUR",
+      "model": "CAPTUR",
+      "checklist": {
+        "aceite": "ELF EVOLUTION 900",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELF EVOLUTION 900 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-09-30",
+      "currentKm": "211600",
+      "proximoKm": "221000"
+    },
+    {
       "id": "svc-1781730298862-515",
       "cliente": "CAPTUR",
       "model": "CAPTUR",
