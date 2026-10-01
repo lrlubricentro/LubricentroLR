@@ -39884,5 +39884,39 @@
       "currentKm": "283300",
       "proximoKm": "293000"
     }
+  ],
+  "AH254MO": [
+    {
+      "id": "svc-1790853380989-899",
+      "cliente": "C3 AIRCROSS",
+      "model": "C3 AIRCROSS",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ INEO FIRST 0W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ INEO FIRST 0W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-30",
+      "currentKm": "46300",
+      "proximoKm": "56000"
+    }
   ]
 }
