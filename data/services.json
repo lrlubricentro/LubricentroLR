@@ -40422,5 +40422,39 @@
       "currentKm": "170300",
       "proximoKm": "180000"
     }
+  ],
+  "OOP536": [
+    {
+      "id": "svc-1790854658539-4952",
+      "cliente": "CLASSIC",
+      "model": "CLASSIC",
+      "checklist": {
+        "aceite": "ELAION TS 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION TS 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-09-28",
+      "currentKm": "166200",
+      "proximoKm": "176000"
+    }
   ]
 }
