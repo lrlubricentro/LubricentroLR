@@ -40020,5 +40020,39 @@
       "currentKm": "56500",
       "proximoKm": "66000"
     }
+  ],
+  "AB217JM": [
+    {
+      "id": "svc-1790853605983-1127",
+      "cliente": "SURAN",
+      "model": "SURAN",
+      "checklist": {
+        "aceite": "ELAION FS 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION FS 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-09-30",
+      "currentKm": "267200",
+      "proximoKm": "277000"
+    }
   ]
 }
