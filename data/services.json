@@ -40488,5 +40488,39 @@
       "currentKm": "166200",
       "proximoKm": "176000"
     }
+  ],
+  "AA066PH": [
+    {
+      "id": "svc-1790854757154-461",
+      "cliente": "VOYAGE",
+      "model": "VOYAGE",
+      "checklist": {
+        "aceite": "ELAION TS 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION TS 10W40 | Checks SI: Filtro de Aceite, Filtro de Combustible",
+      "fechaService": "2026-09-28",
+      "currentKm": "68600",
+      "proximoKm": "78000"
+    }
   ]
 }
