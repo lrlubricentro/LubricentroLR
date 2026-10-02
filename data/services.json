@@ -40964,5 +40964,39 @@
       "currentKm": "58500",
       "proximoKm": "68000"
     }
+  ],
+  "AB252NJ": [
+    {
+      "id": "svc-1790975751804-725",
+      "cliente": "PRISMA",
+      "model": "PRISMA",
+      "checklist": {
+        "aceite": "SHELL HELIX 20W50",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX 20W50 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-10-02",
+      "currentKm": "319800",
+      "proximoKm": "330000"
+    }
   ]
 }
