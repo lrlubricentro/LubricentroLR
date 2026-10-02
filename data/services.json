@@ -40930,5 +40930,39 @@
       "currentKm": "79200",
       "proximoKm": "90000"
     }
+  ],
+  "AB734ID": [
+    {
+      "id": "svc-1790975704414-5260",
+      "cliente": "RAMIRO",
+      "model": "ONIX",
+      "checklist": {
+        "aceite": "ELAION AURO D1 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "si",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D1 530 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen, Cambio Liquido Refrigerante",
+      "fechaService": "2026-10-02",
+      "currentKm": "58500",
+      "proximoKm": "68000"
+    }
   ]
 }
