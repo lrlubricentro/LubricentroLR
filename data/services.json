@@ -40828,5 +40828,39 @@
       "currentKm": "106300",
       "proximoKm": "116000"
     }
+  ],
+  "AG410LU": [
+    {
+      "id": "svc-1790975566960-6147",
+      "cliente": "DEFEC",
+      "model": "KANGOO",
+      "checklist": {
+        "aceite": "CASTROL MAGNATEC STOP START 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "si",
+          "bujias": "si",
+          "bateria": "",
+          "liquido-refrigerante": "si",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL MAGNATEC STOP START 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen, Cambio Liquido Freno, Cambio Bujias, Cambio Liquido Refrigerante",
+      "fechaService": "2026-10-02",
+      "currentKm": "80200",
+      "proximoKm": "90000"
+    }
   ]
 }
