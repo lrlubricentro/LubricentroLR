@@ -40998,5 +40998,39 @@
       "currentKm": "319800",
       "proximoKm": "330000"
     }
+  ],
+  "AC809DM": [
+    {
+      "id": "svc-1790975811750-7555",
+      "cliente": "FERNANDO",
+      "model": "ONIX",
+      "checklist": {
+        "aceite": "ELAION TS 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION TS 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-02",
+      "currentKm": "64400",
+      "proximoKm": "74000"
+    }
   ]
 }
