@@ -40624,5 +40624,39 @@
       "currentKm": "65300",
       "proximoKm": "75000"
     }
+  ],
+  "AF539LX": [
+    {
+      "id": "svc-1790975256781-2741",
+      "cliente": "KANGOO",
+      "model": "KANGOO",
+      "checklist": {
+        "aceite": "CASTROL STOP START 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL STOP START 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-02",
+      "currentKm": "60000",
+      "proximoKm": "70000"
+    }
   ]
 }
