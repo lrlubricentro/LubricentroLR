@@ -40760,5 +40760,39 @@
       "currentKm": "46700",
       "proximoKm": "56000"
     }
+  ],
+  "AG107IK": [
+    {
+      "id": "svc-1790975469598-9860",
+      "cliente": "JORGE",
+      "model": "CRUZE",
+      "checklist": {
+        "aceite": "ELAION AURO D1 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D1 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-02",
+      "currentKm": "78200",
+      "proximoKm": "88000"
+    }
   ]
 }
