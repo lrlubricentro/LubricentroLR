@@ -40726,5 +40726,39 @@
       "currentKm": "114300",
       "proximoKm": "124000"
     }
+  ],
+  "NCS507": [
+    {
+      "id": "svc-1790975422431-3943",
+      "cliente": "COBALT",
+      "model": "COBALT",
+      "checklist": {
+        "aceite": "ELAION AURO D1 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ACEITE DE CAJA AT + RECIRCULADO",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "si",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D1 5W30 | Checks SI: Filtro de Aceite, Caja Velocidad, Filtro de Aire, Filtro Polen | Detalle: CAMBIO ACEITE DE CAJA AT + RECIRCULADO",
+      "fechaService": "2026-10-02",
+      "currentKm": "46700",
+      "proximoKm": "56000"
+    }
   ]
 }
