@@ -40658,5 +40658,39 @@
       "currentKm": "60000",
       "proximoKm": "70000"
     }
+  ],
+  "AB180GO": [
+    {
+      "id": "svc-1790975299738-7815",
+      "cliente": "ESTEBAN",
+      "model": "PALIO",
+      "checklist": {
+        "aceite": "SELENIA K 15W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA K 15W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-02",
+      "currentKm": "83400",
+      "proximoKm": "93000"
+    }
   ]
 }
