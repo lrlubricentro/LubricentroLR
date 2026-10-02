@@ -40590,5 +40590,39 @@
       "currentKm": "178000",
       "proximoKm": "188000"
     }
+  ],
+  "AB517JA": [
+    {
+      "id": "svc-1790975209244-6916",
+      "cliente": "FERNANDO",
+      "model": "C3 AIRCROSS",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 7000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 7000 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-02",
+      "currentKm": "65300",
+      "proximoKm": "75000"
+    }
   ]
 }
