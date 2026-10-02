@@ -41236,5 +41236,39 @@
       "currentKm": "105300",
       "proximoKm": "115000"
     }
+  ],
+  "AE372AP": [
+    {
+      "id": "svc-1790976143115-9334",
+      "cliente": "CARLOS",
+      "model": "A250",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-01",
+      "currentKm": "37100",
+      "proximoKm": "47000"
+    }
   ]
 }
