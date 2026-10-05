@@ -41370,5 +41370,39 @@
       "currentKm": "81700",
       "proximoKm": "91000"
     }
+  ],
+  "KKR550": [
+    {
+      "id": "svc-1791199621952-8569",
+      "cliente": "MELISA",
+      "model": "FOCUS",
+      "checklist": {
+        "aceite": "ELAION AURO FE 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 530 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-03",
+      "currentKm": "177500",
+      "proximoKm": "187000"
+    }
   ]
 }
