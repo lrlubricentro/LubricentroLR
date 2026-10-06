@@ -41608,5 +41608,39 @@
       "currentKm": "178300",
       "proximoKm": "188000"
     }
+  ],
+  "FJJ057": [
+    {
+      "id": "svc-1791286081685-6178",
+      "cliente": "CORSA",
+      "model": "CORSA",
+      "checklist": {
+        "aceite": "ELAION TS 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION TS 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-05",
+      "currentKm": "131800",
+      "proximoKm": "141000"
+    }
   ]
 }
