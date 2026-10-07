@@ -42180,5 +42180,39 @@
       "currentKm": "65600",
       "proximoKm": "75000"
     }
+  ],
+  "KWF853": [
+    {
+      "id": "svc-1791392985204-412",
+      "cliente": "FOX",
+      "model": "FOX",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 7000 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 7000 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-06",
+      "currentKm": "226500",
+      "proximoKm": "236000"
+    }
   ]
 }
