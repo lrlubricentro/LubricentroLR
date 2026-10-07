@@ -20741,6 +20741,38 @@
   ],
   "AI153NM": [
     {
+      "id": "svc-1791392893247-6267",
+      "cliente": "CRONOS",
+      "model": "CRONOS",
+      "checklist": {
+        "aceite": "SELENIA PURE ENERGY 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA PURE ENERGY 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-06",
+      "currentKm": "31500",
+      "proximoKm": "41000"
+    },
+    {
       "id": "svc-1783165122606-3089",
       "cliente": "CRONOS",
       "model": "CRONOS",
