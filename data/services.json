@@ -42478,5 +42478,39 @@
       "currentKm": "164600",
       "proximoKm": "174000"
     }
+  ],
+  "AA625PX": [
+    {
+      "id": "svc-1791488827902-2357",
+      "cliente": "CLASSIC",
+      "model": "CLASSIC",
+      "checklist": {
+        "aceite": "VALVOLINE ADVANCED 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE ADVANCED 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-10-08",
+      "currentKm": "93000",
+      "proximoKm": "103000"
+    }
   ]
 }
