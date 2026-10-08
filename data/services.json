@@ -42346,5 +42346,39 @@
       "currentKm": "89600",
       "proximoKm": "100000"
     }
+  ],
+  "DLR550": [
+    {
+      "id": "svc-1791479567611-7527",
+      "cliente": "COROLLA",
+      "model": "COROLLA",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO DE BATERIA 07/10/26",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "si",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Cambio Bateria | Detalle: CAMBIO DE BATERIA 07/10/26",
+      "fechaService": "2026-10-07",
+      "currentKm": "182700",
+      "proximoKm": "192000"
+    }
   ]
 }
