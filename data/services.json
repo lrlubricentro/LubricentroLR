@@ -42982,5 +42982,39 @@
       "currentKm": "65900",
       "proximoKm": "75000"
     }
+  ],
+  "ELH294": [
+    {
+      "id": "svc-1791890899051-4895",
+      "cliente": "307",
+      "model": "307",
+      "checklist": {
+        "aceite": "CHAMPION ACTIVE DEFENCE",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CHAMPION ACTIVE DEFENCE | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-09",
+      "currentKm": "334000",
+      "proximoKm": "344000"
+    }
   ]
 }
