@@ -43184,5 +43184,39 @@
       "currentKm": "226700",
       "proximoKm": "236000"
     }
+  ],
+  "AF752AP": [
+    {
+      "id": "svc-1791892502288-1697",
+      "cliente": "KANGOO",
+      "model": "SHELL HELIX HX7 10W40",
+      "checklist": {
+        "aceite": "",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-08",
+      "currentKm": "62500",
+      "proximoKm": "72000"
+    }
   ]
 }
