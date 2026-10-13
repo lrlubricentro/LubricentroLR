@@ -42646,5 +42646,39 @@
       "currentKm": "29300",
       "proximoKm": "39000"
     }
+  ],
+  "AF488BA": [
+    {
+      "id": "svc-1791889483678-4301",
+      "cliente": "CRUZE",
+      "model": "CRUZE",
+      "checklist": {
+        "aceite": "VALVOLINE ADVANCED 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE ADVANCED 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-09",
+      "currentKm": "89100",
+      "proximoKm": "99000"
+    }
   ]
 }
