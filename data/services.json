@@ -42512,5 +42512,39 @@
       "currentKm": "93000",
       "proximoKm": "103000"
     }
+  ],
+  "AB379PT": [
+    {
+      "id": "svc-1791889202005-9550",
+      "cliente": "KA",
+      "model": "KA",
+      "checklist": {
+        "aceite": "ELAION AURO FE 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 530 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-09",
+      "currentKm": "75500",
+      "proximoKm": "85000"
+    }
   ]
 }
