@@ -42948,5 +42948,39 @@
       "currentKm": "118100",
       "proximoKm": "128000"
     }
+  ],
+  "KWT726": [
+    {
+      "id": "svc-1791890820926-9483",
+      "cliente": "COROLLA",
+      "model": "COROLLA",
+      "checklist": {
+        "aceite": "MOBIL 2000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOBIL 2000 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-09",
+      "currentKm": "65900",
+      "proximoKm": "75000"
+    }
   ]
 }
