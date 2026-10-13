@@ -43116,5 +43116,39 @@
       "currentKm": "198200",
       "proximoKm": "208000"
     }
+  ],
+  "AF269MZ": [
+    {
+      "id": "svc-1791892272847-2063",
+      "cliente": "TERRITORY",
+      "model": "TERRITORY",
+      "checklist": {
+        "aceite": "ELAION AURO FE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-08",
+      "currentKm": "54400",
+      "proximoKm": "64000"
+    }
   ]
 }
