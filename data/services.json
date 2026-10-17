@@ -9279,6 +9279,38 @@
   ],
   "AE562CW": [
     {
+      "id": "svc-1792237807953-7589",
+      "cliente": "CHARLIE",
+      "model": "ETIOS",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-15",
+      "currentKm": "183000",
+      "proximoKm": "193000"
+    },
+    {
       "id": "svc-1788955687725-9828",
       "cliente": "CHARLIE",
       "model": "ETIOS",
