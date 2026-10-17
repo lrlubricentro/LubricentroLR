@@ -43218,5 +43218,39 @@
       "currentKm": "62500",
       "proximoKm": "72000"
     }
+  ],
+  "AH105NW": [
+    {
+      "id": "svc-1792236637972-1046",
+      "cliente": "FIORINO",
+      "model": "FIORINO",
+      "checklist": {
+        "aceite": "SELENIA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-15",
+      "currentKm": "50000",
+      "proximoKm": "60000"
+    }
   ]
 }
