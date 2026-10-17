@@ -5023,6 +5023,38 @@
   ],
   "AG225CH": [
     {
+      "id": "svc-1792240433629-1149",
+      "cliente": "CRONOS",
+      "model": "CRONOS",
+      "checklist": {
+        "aceite": "SELENIA FORWARD 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA FORWARD 0W20 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-16",
+      "currentKm": "88300",
+      "proximoKm": "98000"
+    },
+    {
       "id": "svc-1778240918064-5898",
       "cliente": "CRONOS",
       "model": "CRONOS",
