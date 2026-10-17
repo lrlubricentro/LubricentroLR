@@ -43454,5 +43454,39 @@
       "currentKm": "44000",
       "proximoKm": "54000"
     }
+  ],
+  "AD897DN": [
+    {
+      "id": "svc-1792237067175-607",
+      "cliente": "REHAVITA",
+      "model": "C4 LOUNGE",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 9000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 9000 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-15",
+      "currentKm": "129600",
+      "proximoKm": "139000"
+    }
   ]
 }
