@@ -17501,6 +17501,38 @@
   ],
   "AD209CK": [
     {
+      "id": "svc-1792420273819-372",
+      "cliente": "JUAN RAMON",
+      "model": "VIRTUS",
+      "checklist": {
+        "aceite": "ELAION FS 540",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION FS 540 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-14",
+      "currentKm": "265700",
+      "proximoKm": "275000"
+    },
+    {
       "id": "svc-1781730098642-6233",
       "cliente": "VIRTUS",
       "model": "VIRTUS",
