@@ -44090,5 +44090,39 @@
       "currentKm": "189700",
       "proximoKm": "200000"
     }
+  ],
+  "AB321WH": [
+    {
+      "id": "svc-1792411010686-6878",
+      "cliente": "SANDERO",
+      "model": "SANDERO",
+      "checklist": {
+        "aceite": "ELF EVOLUTION 900",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "no",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELF EVOLUTION 900 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-10-17",
+      "currentKm": "49300",
+      "proximoKm": "59000"
+    }
   ]
 }
