@@ -44460,5 +44460,39 @@
       "currentKm": "19300",
       "proximoKm": "29000"
     }
+  ],
+  "AD736EH": [
+    {
+      "id": "svc-1792411682292-9488",
+      "cliente": "TIGGO 5",
+      "model": "TIGGO 5",
+      "checklist": {
+        "aceite": "SHELL HELIX ULT5RA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULT5RA 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-10-14",
+      "currentKm": "151500",
+      "proximoKm": "161000"
+    }
   ]
 }
