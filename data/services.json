@@ -14207,6 +14207,38 @@
   ],
   "GNM490": [
     {
+      "id": "svc-1792411073779-8963",
+      "cliente": "IDEA",
+      "model": "IDEA",
+      "checklist": {
+        "aceite": "SELENIA K 15W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "ESCOBILLAS",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA K 15W40 | Checks SI: Filtro de Aceite, Filtro de Aire | Detalle: ESCOBILLAS",
+      "fechaService": "2026-10-17",
+      "currentKm": "257900",
+      "proximoKm": "268000"
+    },
+    {
       "id": "svc-1781628939750-7967",
       "cliente": "IDEA",
       "model": "IDEA",
