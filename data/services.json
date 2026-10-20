@@ -45532,5 +45532,39 @@
       "currentKm": "195400",
       "proximoKm": "205000"
     }
+  ],
+  "PIF019": [
+    {
+      "id": "svc-1792518544987-4297",
+      "cliente": "FIESTA",
+      "model": "FIESTA",
+      "checklist": {
+        "aceite": "ELAION AURO FE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "ESOBILLAS",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: ESOBILLAS",
+      "fechaService": "2026-10-10",
+      "currentKm": "72200",
+      "proximoKm": "82000"
+    }
   ]
 }
