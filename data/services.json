@@ -45972,5 +45972,39 @@
       "currentKm": "96100",
       "proximoKm": "106000"
     }
+  ],
+  "AC261GO": [
+    {
+      "id": "svc-1792591476565-9975",
+      "cliente": "ALEJANDRO",
+      "model": "308",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ INEO FIRST 0W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ INEO FIRST 0W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-10",
+      "currentKm": "104800",
+      "proximoKm": "114000"
+    }
   ]
 }
