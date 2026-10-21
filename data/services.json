@@ -45836,5 +45836,39 @@
       "currentKm": "91300",
       "proximoKm": "101000"
     }
+  ],
+  "DZI388": [
+    {
+      "id": "svc-1792591243279-3615",
+      "cliente": "LANCER",
+      "model": "LANCER",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-10-20",
+      "currentKm": "192200",
+      "proximoKm": "202000"
+    }
   ]
 }
