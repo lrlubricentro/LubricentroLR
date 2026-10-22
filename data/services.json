@@ -46474,5 +46474,39 @@
       "currentKm": "158600",
       "proximoKm": "168000"
     }
+  ],
+  "JNO740": [
+    {
+      "id": "svc-1792695514743-4425",
+      "cliente": "FIESTA",
+      "model": "FIESTA",
+      "checklist": {
+        "aceite": "ELAION AURO FE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-10-21",
+      "currentKm": "122300",
+      "proximoKm": "132000"
+    }
   ]
 }
