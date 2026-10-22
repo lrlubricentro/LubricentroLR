@@ -46174,5 +46174,39 @@
       "currentKm": "41700",
       "proximoKm": "51000"
     }
+  ],
+  "BTE603": [
+    {
+      "id": "svc-1792694557423-4759",
+      "cliente": "DIEGO",
+      "model": "ALFA 145",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "no",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro Polen",
+      "fechaService": "2026-10-21",
+      "currentKm": "131600",
+      "proximoKm": "140000"
+    }
   ]
 }
