@@ -46508,5 +46508,39 @@
       "currentKm": "122300",
       "proximoKm": "132000"
     }
+  ],
+  "AE065DR": [
+    {
+      "id": "svc-1792695563749-5211",
+      "cliente": "WRV",
+      "model": "WRV",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-10-21",
+      "currentKm": "73200",
+      "proximoKm": "83000"
+    }
   ]
 }
