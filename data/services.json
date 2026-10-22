@@ -46374,5 +46374,39 @@
       "currentKm": "150400",
       "proximoKm": "160000"
     }
+  ],
+  "LTM271": [
+    {
+      "id": "svc-1792694994799-6142",
+      "cliente": "A4",
+      "model": "A4",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-10-21",
+      "currentKm": "92100",
+      "proximoKm": "102000"
+    }
   ]
 }
