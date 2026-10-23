@@ -46908,5 +46908,39 @@
       "currentKm": "247500",
       "proximoKm": "257000"
     }
+  ],
+  "AE314MD": [
+    {
+      "id": "svc-1792756465768-2453",
+      "cliente": "POLO GTS",
+      "model": "POLO GTS",
+      "checklist": {
+        "aceite": "LIQUI MOLY 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "no",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: LIQUI MOLY 5W40 | Checks SI: Filtro de Aceite, Filtro Polen",
+      "fechaService": "2026-10-22",
+      "currentKm": "30600",
+      "proximoKm": "40000"
+    }
   ]
 }
