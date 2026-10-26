@@ -47240,5 +47240,39 @@
       "currentKm": "90300",
       "proximoKm": "100000"
     }
+  ],
+  "PLO963": [
+    {
+      "id": "svc-1793013047192-2443",
+      "cliente": "C4 LOUNGE",
+      "model": "C4 LOUNGE",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ INEO 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ INEO 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-24",
+      "currentKm": "109900",
+      "proximoKm": "120000"
+    }
   ]
 }
