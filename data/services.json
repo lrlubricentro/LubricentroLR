@@ -47574,5 +47574,39 @@
       "currentKm": "50000",
       "proximoKm": "60000"
     }
+  ],
+  "GCE268": [
+    {
+      "id": "svc-1793098967219-7095",
+      "cliente": "206",
+      "model": "206",
+      "checklist": {
+        "aceite": "ELAION TS 10W40",
+        "aditivoCarter": "OL VERLUST",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION TS 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen | Aditivo Carter: OL VERLUST",
+      "fechaService": "2026-10-26",
+      "currentKm": "89200",
+      "proximoKm": "99000"
+    }
   ]
 }
