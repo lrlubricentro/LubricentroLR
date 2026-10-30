@@ -34,39 +34,6 @@
       "proximoKm": "96000"
     },
     {
-      "id": "svc-1793373668406-4922",
-      "cliente": "Javier Cordero",
-      "telefono": "",
-      "model": "Chevrolet Tracker 1.8 AWD LTZ AT",
-      "checklist": {
-        "aceite": "Motul 5W30",
-        "aditivoCarter": "No",
-        "aditivoTransmision": "No",
-        "aditivoCombustible": "No",
-        "detalle": "",
-        "checks": {
-          "filtro-aceite": "si",
-          "filtro-combustible": "no",
-          "caja-velocidad": "no",
-          "diferencial-trasero": "no",
-          "filtro-aire": "si",
-          "filtro-polen": "si",
-          "caja-transfer": "no",
-          "diferencial-delantero": "no",
-          "liquido-freno": "no",
-          "bujias": "no",
-          "bateria": "no",
-          "liquido-refrigerante": "no",
-          "engrase": "si",
-          "liquido-hidraulico": "no"
-        }
-      },
-      "trabajo": "Aceite: Motul 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen, Engrase | Aditivo Carter: No | Aditivo Transmision: No | Aditivo Combustible: No",
-      "fechaService": "2026-10-29",
-      "currentKm": "85700",
-      "proximoKm": "96000"
-    },
-    {
       "id": "svc-1777006088924-8170",
       "cliente": "Javier Cordero",
       "telefono": "",
