@@ -10,7 +10,7 @@
       href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800&family=Sora:wght@500;600;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="styles.css?v=20260423" />
+    <link rel="stylesheet" href="styles.css?v=20261030b" />
   </head>
   <body>
     <div class="bg-shape shape-1" aria-hidden="true"></div>
@@ -62,7 +62,10 @@
             <h2>Datos del ultimo service</h2>
             <p><span>Patente:</span> <strong id="res-patente">-</strong></p>
             <p><span>Cliente:</span> <strong id="res-cliente">-</strong></p>
-            <p><span>Trabajo realizado:</span> <strong id="res-trabajo">-</strong></p>
+            <div class="trabajo-block">
+              <span>Trabajo realizado:</span>
+              <ul id="res-trabajo" class="trabajo-list"></ul>
+            </div>
             <p><span>Fecha service:</span> <strong id="res-fecha">-</strong></p>
             <p><span>Kilometraje actual:</span> <strong id="res-km-actual">-</strong></p>
           </div>
@@ -75,7 +78,7 @@
         </section>
 
         <section id="history" class="history card hidden">
-          <h2>Historial (ultimos 10 services)</h2>
+          <h2>Historial</h2>
           <ul id="res-history-list" class="history-list"></ul>
         </section>
 
@@ -118,6 +121,10 @@
             <label>
               Cliente
               <input id="owner-cliente" type="text" required />
+            </label>
+            <label>
+              Telefono
+              <input id="owner-telefono" type="tel" placeholder="Ej: 11 6891 6529" maxlength="25" />
             </label>
             <label>
               Modelo del auto
@@ -243,12 +250,19 @@
           <p id="owner-form-status" class="owner-form-status"></p>
         </form>
 
+        <div class="owner-search">
+          <label for="owner-search">Buscar cliente</label>
+          <input id="owner-search" type="search" placeholder="Patente, nombre, telefono o modelo" autocomplete="off" />
+          <small id="owner-search-count"></small>
+        </div>
+
         <div class="table-wrap">
           <table>
             <thead>
               <tr>
                 <th>Patente</th>
                 <th>Cliente</th>
+                <th>Telefono</th>
                 <th>Modelo</th>
                 <th>Fecha service</th>
                 <th>Proximo km</th>
@@ -302,6 +316,6 @@
       <p class="customer-hours">Horarios: Lun a Vie 08:00 - 12:30 y de 14:00 a 19:00hs | Sab 08:30 - 13:00</p>
     </footer>
 
-    <script src="app.js?v=20260424"></script>
+    <script src="app.js?v=20261030b"></script>
   </body>
 </html>

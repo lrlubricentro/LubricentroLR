@@ -11,7 +11,9 @@ const SYNC_RETRY_MAX_MS = 60000;
 const GITHUB_SYNC_TIMEOUT_MS = 15000;
 // ─────────────────────────────────────────────────────────────────────────────
 
-const MAX_HISTORY = 10;
+const MAX_HISTORY = 100;
+const OWNER_RECENT_LIMIT = 20;
+const OWNER_SEARCH_LIMIT = 50;
 const OWNER_PASSWORD_SALT = 17;
 const OWNER_PASSWORD_BYTES = [93, 99, 67, 65, 67, 71];
 
@@ -66,6 +68,8 @@ const ownerSubmit = document.getElementById("owner-submit");
 const ownerCancel = document.getElementById("owner-cancel");
 const ownerFormStatus = document.getElementById("owner-form-status");
 const ownerTableBody = document.getElementById("owner-table-body");
+const ownerSearchInput = document.getElementById("owner-search");
+const ownerSearchCount = document.getElementById("owner-search-count");
 const ownerHistorySection = document.getElementById("owner-history");
 const ownerHistoryTitle = document.getElementById("owner-history-title");
 const ownerHistoryBody = document.getElementById("owner-history-body");
@@ -84,6 +88,7 @@ const dataSourceDetail = document.getElementById("data-source-detail");
 const ownerPlateInput = document.getElementById("owner-patente");
 const ownerClienteInput = document.getElementById("owner-cliente");
 const ownerModelInput = document.getElementById("owner-model");
+const ownerTelefonoInput = document.getElementById("owner-telefono");
 const ownerFechaInput = document.getElementById("owner-fecha");
 const ownerCurrentKmInput = document.getElementById("owner-km-actual");
 const ownerKmInput = document.getElementById("owner-km");
@@ -333,6 +338,7 @@ function normalizeStorageShape(data) {
       .map((item) => ({
         id: item.id || buildServiceId(),
         cliente: item.cliente,
+        telefono: String(item.telefono || "").trim(),
         model: String(item.model || item.modelo || "").trim(),
         checklist: normalizeChecklist(item.checklist),
         trabajo: item.trabajo,
@@ -811,14 +817,102 @@ function parseLegacyTrabajoToForm(trabajo) {
   ownerTrabajoDetalleInput.value = trabajo || "";
 }
 
+function normalizeSearchText(value) {
+  return String(value || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/\s+/g, "");
+}
+
+function matchesOwnerSearch(plate, history, query) {
+  if (!query) {
+    return true;
+  }
+
+  const haystack = [plate];
+  history.forEach((item) => {
+    haystack.push(item.cliente, item.telefono, item.model);
+  });
+
+  const digitsQuery = query.replace(/\D/g, "");
+  return haystack.some((value) => {
+    const text = normalizeSearchText(value);
+    if (text.includes(query)) {
+      return true;
+    }
+    // Telefono: comparar solo digitos (ignora guiones y espacios)
+    return digitsQuery.length >= 4 && String(value || "").replace(/\D/g, "").includes(digitsQuery);
+  });
+}
+
+function buildWhatsAppLink(telefono) {
+  let digits = String(telefono || "").replace(/\D/g, "");
+  if (!digits) {
+    return "";
+  }
+  if (!digits.startsWith("54")) {
+    digits = `549${digits.replace(/^0/, "")}`;
+  }
+  return `https://wa.me/${digits}`;
+}
+
+function escapeHtml(value) {
+  return String(value ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function renderPhoneCell(telefono) {
+  if (!telefono) {
+    return "-";
+  }
+  const link = buildWhatsAppLink(telefono);
+  return `<a class="phone-link" href="${link}" target="_blank" rel="noopener noreferrer" title="Abrir WhatsApp">${escapeHtml(telefono)}</a>`;
+}
+
 function renderOwnerTable() {
-  const entries = Object.entries(servicesByPlate).sort((a, b) =>
-    a[0].localeCompare(b[0])
-  );
+  const allEntries = Object.entries(servicesByPlate);
+  const query = normalizeSearchText(ownerSearchInput ? ownerSearchInput.value : "");
+  let entries;
+
+  if (query) {
+    // Con busqueda: coincidencias ordenadas por patente (tope para no trabar la pagina)
+    entries = allEntries
+      .filter(([plate, history]) => matchesOwnerSearch(plate, history, query))
+      .sort((a, b) => a[0].localeCompare(b[0]));
+  } else {
+    // Sin busqueda: solo los ultimos services cargados
+    entries = allEntries
+      .filter(([, history]) => history.length > 0)
+      .sort((a, b) => String(b[1][0].fechaService).localeCompare(String(a[1][0].fechaService)));
+  }
+
+  const totalMatches = entries.length;
+  const limit = query ? OWNER_SEARCH_LIMIT : OWNER_RECENT_LIMIT;
+  entries = entries.slice(0, limit);
+
+  if (ownerSearchCount) {
+    if (!query) {
+      ownerSearchCount.textContent = `${allEntries.length} patentes cargadas. Mostrando los ultimos ${entries.length} services. Usa el buscador para encontrar un cliente.`;
+    } else if (totalMatches > limit) {
+      ownerSearchCount.textContent = `${totalMatches} resultados. Mostrando los primeros ${limit}: escribi mas para afinar la busqueda.`;
+    } else {
+      ownerSearchCount.textContent = `${totalMatches} resultado(s) de ${allEntries.length} patentes.`;
+    }
+  }
+
+  if (allEntries.length === 0) {
+    ownerTableBody.innerHTML =
+      '<tr><td class="empty-row" colspan="8">No hay registros cargados.</td></tr>';
+    return;
+  }
 
   if (entries.length === 0) {
     ownerTableBody.innerHTML =
-      '<tr><td class="empty-row" colspan="7">No hay registros cargados.</td></tr>';
+      '<tr><td class="empty-row" colspan="8">No hay coincidencias para esa busqueda.</td></tr>';
     return;
   }
 
@@ -828,13 +922,14 @@ function renderOwnerTable() {
       return `<tr>
         <td>${plate}</td>
         <td>${lastService ? lastService.cliente : "-"}</td>
+        <td>${lastService ? renderPhoneCell(lastService.telefono) : "-"}</td>
         <td>${lastService ? lastService.model || "-" : "-"}</td>
         <td>${lastService ? formatDisplayDate(lastService.fechaService) : "-"}</td>
         <td>${lastService ? formatKm(lastService.proximoKm) : "-"}</td>
         <td>${history.length} / ${MAX_HISTORY}</td>
         <td class="actions">
-          <button type="button" class="row-btn edit" data-action="view-history" data-plate="${plate}">Ver historial</button>
-          <button type="button" class="row-btn delete" data-action="delete-plate" data-plate="${plate}">Borrar patente</button>
+          <button type="button" class="row-btn edit" data-action="view-history" data-plate="${plate}">Historial</button>
+          <button type="button" class="row-btn delete" data-action="delete-plate" data-plate="${plate}" title="Borrar patente y todo su historial">Borrar</button>
         </td>
       </tr>`;
     })
@@ -870,6 +965,38 @@ function renderOwnerPlateHistory(plate) {
   ownerHistorySection.classList.remove("hidden");
 }
 
+function buildTrabajoItems(entry) {
+  const checklist = entry.checklist;
+
+  if (checklist) {
+    const items = [];
+    if (checklist.aceite) items.push(`Aceite: ${checklist.aceite}`);
+    Object.entries(checklist.checks || {})
+      .filter(([, value]) => value === "si")
+      .forEach(([key]) => items.push(checklistLabels[key] || key));
+    if (checklist.aditivoCarter) items.push(`Aditivo Carter: ${checklist.aditivoCarter}`);
+    if (checklist.aditivoTransmision) items.push(`Aditivo Transmision: ${checklist.aditivoTransmision}`);
+    if (checklist.aditivoCombustible) items.push(`Aditivo Combustible: ${checklist.aditivoCombustible}`);
+    if (checklist.detalle) items.push(`Detalle: ${checklist.detalle}`);
+    if (items.length > 0) return items;
+  }
+
+  // Registros viejos sin checklist: separar el texto por "|"
+  return String(entry.trabajo || "-")
+    .split("|")
+    .map((part) => part.trim())
+    .filter(Boolean);
+}
+
+function renderTrabajoList(listEl, entry) {
+  listEl.innerHTML = "";
+  buildTrabajoItems(entry).forEach((text) => {
+    const li = document.createElement("li");
+    li.textContent = text;
+    listEl.appendChild(li);
+  });
+}
+
 function renderCustomerResult(plate) {
   const history = servicesByPlate[plate];
 
@@ -884,7 +1011,7 @@ function renderCustomerResult(plate) {
 
   fields.patente.textContent = plate;
   fields.cliente.textContent = latest.cliente;
-  fields.trabajo.textContent = latest.trabajo;
+  renderTrabajoList(fields.trabajo, latest);
   fields.fecha.textContent = formatDisplayDate(latest.fechaService);
   fields.kmActual.textContent = formatKm(latest.currentKm);
   fields.proximoKm.textContent = formatKm(latest.proximoKm);
@@ -913,6 +1040,7 @@ ownerForm.addEventListener("submit", async (event) => {
   const plate = normalizePlate(ownerPlateInput.value);
   const cliente = ownerClienteInput.value.trim();
   const model = ownerModelInput.value.trim();
+  const telefono = ownerTelefonoInput.value.trim().replace(/[^\d+\-\s]/g, "");
   const fechaService = ownerFechaInput.value;
   const currentKm = ownerCurrentKmInput.value.trim().replace(/\D/g, "");
   const proximoKm = ownerKmInput.value.trim().replace(/\D/g, "");
@@ -932,6 +1060,7 @@ ownerForm.addEventListener("submit", async (event) => {
   const newEntry = {
     id: editingEntry ? editingEntry.id : buildServiceId(),
     cliente,
+    telefono,
     model,
     checklist,
     trabajo,
@@ -989,6 +1118,12 @@ ownerTableBody.addEventListener("click", async (event) => {
   }
 
   if (action === "delete-plate") {
+    const confirmed = window.confirm(
+      `¿Borrar la patente ${plate} y sus ${history.length} service(s)?\n\nEsta accion no se puede deshacer.`
+    );
+    if (!confirmed) {
+      return;
+    }
     delete servicesByPlate[plate];
     setOwnerStatus("Guardado local confirmado. Sincronizando con GitHub en segundo plano...");
     persistServices(servicesByPlate);
@@ -1024,6 +1159,12 @@ ownerHistoryBody.addEventListener("click", async (event) => {
   }
 
   if (action === "delete-service") {
+    const confirmed = window.confirm(
+      `¿Borrar el service del ${formatDisplayDate(service.fechaService)} de la patente ${plate}?`
+    );
+    if (!confirmed) {
+      return;
+    }
     servicesByPlate[plate] = history.filter((item) => item.id !== serviceId);
     if (servicesByPlate[plate].length === 0) {
       delete servicesByPlate[plate];
@@ -1043,6 +1184,7 @@ ownerHistoryBody.addEventListener("click", async (event) => {
   ownerPlateInput.value = plate;
   ownerClienteInput.value = service.cliente;
   ownerModelInput.value = service.model || "";
+  ownerTelefonoInput.value = service.telefono || "";
   ownerFechaInput.value = service.fechaService;
   ownerCurrentKmInput.value = service.currentKm || "";
   ownerKmInput.value = service.proximoKm || "";
@@ -1107,6 +1249,12 @@ ownerImportFileInput.addEventListener("change", async (event) => {
 
   ownerImportFileInput.value = "";
 });
+
+if (ownerSearchInput) {
+  ownerSearchInput.addEventListener("input", () => {
+    renderOwnerTable();
+  });
+}
 
 tabCustomer.addEventListener("click", () => switchView("customer"));
 tabOwner.addEventListener("click", async () => {
