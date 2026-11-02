@@ -39004,6 +39004,39 @@
   ],
   "AG643FJ": [
     {
+      "id": "svc-1793619232556-6015",
+      "cliente": "ACUDIR",
+      "telefono": "",
+      "model": "HIACE",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "A3",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: A3",
+      "fechaService": "2026-10-31",
+      "currentKm": "75000",
+      "proximoKm": "85000"
+    },
+    {
       "id": "svc-1789476128010-7603",
       "cliente": "ACUDIR",
       "telefono": "",
