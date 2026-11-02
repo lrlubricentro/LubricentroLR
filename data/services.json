@@ -49849,5 +49849,40 @@
       "currentKm": "118400",
       "proximoKm": "128000"
     }
+  ],
+  "AG908CH": [
+    {
+      "id": "svc-1793618984701-4202",
+      "cliente": "ARIEL",
+      "telefono": "1127865768",
+      "model": "BERLINGO",
+      "checklist": {
+        "aceite": "TOTAL QAURTZ 9000",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "A3",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QAURTZ 9000 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: A3",
+      "fechaService": "2026-10-31",
+      "currentKm": "28200",
+      "proximoKm": "38000"
+    }
   ]
 }
