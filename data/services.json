@@ -50259,5 +50259,40 @@
       "currentKm": "27300",
       "proximoKm": "37000"
     }
+  ],
+  "PEH856": [
+    {
+      "id": "svc-1793795748133-2312",
+      "cliente": "GLA 250",
+      "telefono": "",
+      "model": "GLA 250",
+      "checklist": {
+        "aceite": "",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "ESCOBILLAS",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen | Detalle: ESCOBILLAS",
+      "fechaService": "2026-11-03",
+      "currentKm": "86700",
+      "proximoKm": "97000"
+    }
   ]
 }
