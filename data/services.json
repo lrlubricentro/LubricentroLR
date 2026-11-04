@@ -50224,5 +50224,40 @@
       "currentKm": "62800",
       "proximoKm": "72000"
     }
+  ],
+  "AF284FF": [
+    {
+      "id": "svc-1793795692045-5982",
+      "cliente": "SANDERO RS",
+      "telefono": "",
+      "model": "SANDERO RS",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-03",
+      "currentKm": "27300",
+      "proximoKm": "37000"
+    }
   ]
 }
