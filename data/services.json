@@ -50572,5 +50572,40 @@
       "currentKm": "137200",
       "proximoKm": "147000"
     }
+  ],
+  "JDJ484": [
+    {
+      "id": "svc-1793878084591-4721",
+      "cliente": "RODAB",
+      "telefono": "",
+      "model": "207",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-04",
+      "currentKm": "155100",
+      "proximoKm": "165000"
+    }
   ]
 }
