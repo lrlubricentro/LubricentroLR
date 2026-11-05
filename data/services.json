@@ -50397,5 +50397,40 @@
       "currentKm": "228000",
       "proximoKm": "238000"
     }
+  ],
+  "PAI152": [
+    {
+      "id": "svc-1793877428848-5285",
+      "cliente": "JORGE",
+      "telefono": "",
+      "model": "H1",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ACEITE DE CAJA AT",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "si",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Caja Velocidad, Filtro de Aire, Filtro Polen | Detalle: CAMBIO ACEITE DE CAJA AT",
+      "fechaService": "2026-11-04",
+      "currentKm": "122800",
+      "proximoKm": "132000"
+    }
   ]
 }
