@@ -50607,5 +50607,40 @@
       "currentKm": "155100",
       "proximoKm": "165000"
     }
+  ],
+  "AC715OO": [
+    {
+      "id": "svc-1793878228343-6622",
+      "cliente": "PALIO",
+      "telefono": "",
+      "model": "PALIO",
+      "checklist": {
+        "aceite": "SELENIA K 15W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA K 15W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-04",
+      "currentKm": "91200",
+      "proximoKm": "101000"
+    }
   ]
 }
