@@ -50537,5 +50537,40 @@
       "currentKm": "117800",
       "proximoKm": "127000"
     }
+  ],
+  "GMU095": [
+    {
+      "id": "svc-1793877655799-5077",
+      "cliente": "A4",
+      "telefono": "",
+      "model": "A4",
+      "checklist": {
+        "aceite": "MOTUL 8100 XCLEAN 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 XCLEAN 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-04",
+      "currentKm": "137200",
+      "proximoKm": "147000"
+    }
   ]
 }
