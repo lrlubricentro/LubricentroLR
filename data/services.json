@@ -310,6 +310,39 @@
   ],
   "OPR810": [
     {
+      "id": "svc-1793963223305-3682",
+      "cliente": "GRAND SIENA",
+      "telefono": "",
+      "model": "GRAND SIENA",
+      "checklist": {
+        "aceite": "SELENIA K",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA K | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-02",
+      "currentKm": "370200",
+      "proximoKm": "380000"
+    },
+    {
       "id": "svc-1777396070251-1693",
       "cliente": "GRAN SIENA",
       "telefono": "",
