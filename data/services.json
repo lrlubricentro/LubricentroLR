@@ -11750,6 +11750,39 @@
   ],
   "AB533VC": [
     {
+      "id": "svc-1793963569920-3851",
+      "cliente": "CROSSFOX",
+      "telefono": "",
+      "model": "CROSSFOX",
+      "checklist": {
+        "aceite": "ELAION FS 540",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION FS 540 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-11-02",
+      "currentKm": "169100",
+      "proximoKm": "179000"
+    },
+    {
       "id": "svc-1780937920773-3862",
       "cliente": "FOX",
       "telefono": "",
