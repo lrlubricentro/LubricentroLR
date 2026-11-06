@@ -51161,5 +51161,40 @@
       "currentKm": "96500",
       "proximoKm": "106000"
     }
+  ],
+  "AF518PG": [
+    {
+      "id": "svc-1793963508968-4146",
+      "cliente": "AMAROK V6",
+      "telefono": "",
+      "model": "AMAROK V6",
+      "checklist": {
+        "aceite": "MANNOL EXTREME 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MANNOL EXTREME 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-02",
+      "currentKm": "59100",
+      "proximoKm": "70000"
+    }
   ]
 }
