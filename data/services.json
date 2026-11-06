@@ -51021,5 +51021,40 @@
       "currentKm": "52600",
       "proximoKm": "62000"
     }
+  ],
+  "AE523TX": [
+    {
+      "id": "svc-1793963276096-5903",
+      "cliente": "MONICA",
+      "telefono": "",
+      "model": "ECOSPORT",
+      "checklist": {
+        "aceite": "ELAION AURO FE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ESCOBILLAS",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: CAMBIO ESCOBILLAS",
+      "fechaService": "2026-11-02",
+      "currentKm": "48300",
+      "proximoKm": "58000"
+    }
   ]
 }
