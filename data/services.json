@@ -50918,5 +50918,40 @@
       "currentKm": "141000",
       "proximoKm": "151000"
     }
+  ],
+  "AA076OJ": [
+    {
+      "id": "svc-1793963114440-8263",
+      "cliente": "TRAILBLAZER",
+      "telefono": "",
+      "model": "TRAILBLAZER",
+      "checklist": {
+        "aceite": "ELAION AURO D2 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D2 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-02",
+      "currentKm": "192000",
+      "proximoKm": "202000"
+    }
   ]
 }
