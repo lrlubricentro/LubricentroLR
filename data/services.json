@@ -1,6 +1,39 @@
 {
   "AA177PF": [
     {
+      "id": "svc-1794052797658-5872",
+      "cliente": "TRACKER",
+      "telefono": "",
+      "model": "JAVIER",
+      "checklist": {
+        "aceite": "MOTUL 8100 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-29",
+      "currentKm": "85700",
+      "proximoKm": "95000"
+    },
+    {
       "id": "svc-1793375062711-1041",
       "cliente": "Javier Cordero",
       "telefono": "1168052928",
