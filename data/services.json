@@ -51577,5 +51577,40 @@
       "currentKm": "143000",
       "proximoKm": "153000"
     }
+  ],
+  "AF761ZZ": [
+    {
+      "id": "svc-1794399761859-6894",
+      "cliente": "LUCAS",
+      "telefono": "",
+      "model": "CRUZE",
+      "checklist": {
+        "aceite": "ELAION AURO D1 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO D1 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-29",
+      "currentKm": "52500",
+      "proximoKm": "62000"
+    }
   ]
 }
