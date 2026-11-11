@@ -52345,5 +52345,40 @@
       "currentKm": "40000",
       "proximoKm": "50000"
     }
+  ],
+  "AF247SS": [
+    {
+      "id": "svc-1794428309195-8568",
+      "cliente": "EXPERT",
+      "telefono": "",
+      "model": "EXPERT",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ INEO 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ INEO 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-06",
+      "currentKm": "49000",
+      "proximoKm": "59000"
+    }
   ]
 }
