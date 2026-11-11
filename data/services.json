@@ -51612,5 +51612,40 @@
       "currentKm": "52500",
       "proximoKm": "62000"
     }
+  ],
+  "KJV649": [
+    {
+      "id": "svc-1794399814508-7107",
+      "cliente": "DIEGUITO",
+      "telefono": "",
+      "model": "SANDERO",
+      "checklist": {
+        "aceite": "ELF EVOLUTION 900",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "A3",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELF EVOLUTION 900 | Checks SI: Filtro de Aceite | Detalle: A3",
+      "fechaService": "2026-10-29",
+      "currentKm": "42300",
+      "proximoKm": "52000"
+    }
   ]
 }
