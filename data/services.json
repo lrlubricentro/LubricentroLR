@@ -52240,5 +52240,40 @@
       "currentKm": "62600",
       "proximoKm": "72000"
     }
+  ],
+  "AH191QK": [
+    {
+      "id": "svc-1794428077379-2100",
+      "cliente": "TRASLADOS SRL",
+      "telefono": "",
+      "model": "TERRITORY",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA AF 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA AF 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-05",
+      "currentKm": "24900",
+      "proximoKm": "35000"
+    }
   ]
 }
