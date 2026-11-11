@@ -51647,5 +51647,40 @@
       "currentKm": "42300",
       "proximoKm": "52000"
     }
+  ],
+  "AE046AM": [
+    {
+      "id": "svc-1794399926252-2467",
+      "cliente": "220I",
+      "telefono": "",
+      "model": "220I",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-10-29",
+      "currentKm": "48600",
+      "proximoKm": "58000"
+    }
   ]
 }
