@@ -52065,5 +52065,40 @@
       "currentKm": "161400",
       "proximoKm": "171000"
     }
+  ],
+  "AA555OQ": [
+    {
+      "id": "svc-1794401876446-9476",
+      "cliente": "208",
+      "telefono": "",
+      "model": "208",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 9000 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 9000 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-05",
+      "currentKm": "99000",
+      "proximoKm": "109000"
+    }
   ]
 }
