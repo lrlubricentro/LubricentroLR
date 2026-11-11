@@ -27409,6 +27409,39 @@
   ],
   "LMO474": [
     {
+      "id": "svc-1794401832893-8522",
+      "cliente": "DUSTER",
+      "telefono": "",
+      "model": "DUSTER",
+      "checklist": {
+        "aceite": "ELF EVOLUTION 700 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELF EVOLUTION 700 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-05",
+      "currentKm": "260400",
+      "proximoKm": "270000"
+    },
+    {
       "id": "svc-1784322040948-432",
       "cliente": "DUSTER",
       "telefono": "",
