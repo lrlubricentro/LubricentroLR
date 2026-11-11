@@ -51997,5 +51997,40 @@
       "currentKm": "45400",
       "proximoKm": "55000"
     }
+  ],
+  "MMR032": [
+    {
+      "id": "svc-1794401733085-9255",
+      "cliente": "MINI",
+      "telefono": "",
+      "model": "MINI",
+      "checklist": {
+        "aceite": "CASTROL EDGE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL EDGE 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-05",
+      "currentKm": "161400",
+      "proximoKm": "171000"
+    }
   ]
 }
