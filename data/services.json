@@ -52170,5 +52170,40 @@
       "currentKm": "125500",
       "proximoKm": "135000"
     }
+  ],
+  "NLK172": [
+    {
+      "id": "svc-1794427918411-7810",
+      "cliente": "SAVEIRO",
+      "telefono": "",
+      "model": "SAVEIRO",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-05",
+      "currentKm": "145700",
+      "proximoKm": "155000"
+    }
   ]
 }
