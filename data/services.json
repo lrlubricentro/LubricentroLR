@@ -51717,5 +51717,40 @@
       "currentKm": "102100",
       "proximoKm": "112000"
     }
+  ],
+  "AF850UG": [
+    {
+      "id": "svc-1794400219252-4030",
+      "cliente": "BRONCO",
+      "telefono": "",
+      "model": "BRONCO",
+      "checklist": {
+        "aceite": "ELAION AURO FE 530",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO PASTILLAS DE FRENOS DELANTERAS Y TRASERAS",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "si",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "si",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "si",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 530 | Checks SI: Filtro de Aceite, Filtro de Combustible, Caja Velocidad, Filtro de Aire, Filtro Polen, Cambio Liquido Freno, Cambio Liquido Refrigerante | Detalle: CAMBIO PASTILLAS DE FRENOS DELANTERAS Y TRASERAS",
+      "fechaService": "2026-11-04",
+      "currentKm": "105100",
+      "proximoKm": "115000"
+    }
   ]
 }
