@@ -52551,5 +52551,40 @@
       "currentKm": "148500",
       "proximoKm": "158000"
     }
+  ],
+  "KQX483": [
+    {
+      "id": "svc-1794481922689-1018",
+      "cliente": "BORA",
+      "telefono": "",
+      "model": "BORA",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-11-06",
+      "currentKm": "117700",
+      "proximoKm": "127000"
+    }
   ]
 }
