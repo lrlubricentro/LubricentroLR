@@ -52691,5 +52691,40 @@
       "currentKm": "168400",
       "proximoKm": "178000"
     }
+  ],
+  "AA940EG": [
+    {
+      "id": "svc-1794482147685-1444",
+      "cliente": "SANDERO RS",
+      "telefono": "",
+      "model": "SANDERO RS",
+      "checklist": {
+        "aceite": "CASTROL MAGANTEC STOP START 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: CASTROL MAGANTEC STOP START 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-06",
+      "currentKm": "50000",
+      "proximoKm": "60000"
+    }
   ]
 }
