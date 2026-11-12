@@ -52762,6 +52762,39 @@
   ],
   "KWT596": [
     {
+      "id": "svc-1794504181180-7263",
+      "cliente": "ALFREDO",
+      "telefono": "",
+      "model": "SURAN",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "A3",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: A3",
+      "fechaService": "2026-11-12",
+      "currentKm": "153800",
+      "proximoKm": "164000"
+    },
+    {
       "id": "svc-1794504133661-2684",
       "cliente": "ALFREDO",
       "telefono": "",
