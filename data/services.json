@@ -53105,5 +53105,40 @@
       "currentKm": "36500",
       "proximoKm": "46000"
     }
+  ],
+  "AA578CJ": [
+    {
+      "id": "svc-1794573864880-8744",
+      "cliente": "408",
+      "telefono": "",
+      "model": "408",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 9000 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 9000 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-07",
+      "currentKm": "72400",
+      "proximoKm": "82000"
+    }
   ]
 }
