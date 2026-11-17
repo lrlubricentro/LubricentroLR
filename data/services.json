@@ -53558,5 +53558,40 @@
       "currentKm": "118100",
       "proximoKm": "128000"
     }
+  ],
+  "AF679LU": [
+    {
+      "id": "svc-1794914496402-4283",
+      "cliente": "CRUZE",
+      "telefono": "",
+      "model": "CRUZE",
+      "checklist": {
+        "aceite": "VALVOLINE ADAVANCED 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE ADAVANCED 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-13",
+      "currentKm": "39500",
+      "proximoKm": "49000"
+    }
   ]
 }
