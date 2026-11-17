@@ -53593,5 +53593,40 @@
       "currentKm": "39500",
       "proximoKm": "49000"
     }
+  ],
+  "AC561JM": [
+    {
+      "id": "svc-1794914549401-7351",
+      "cliente": "C4 LOUNGE",
+      "telefono": "",
+      "model": "C4 LOUNGE",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ INEO 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ INEO 5W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-13",
+      "currentKm": "65700",
+      "proximoKm": "75000"
+    }
   ]
 }
