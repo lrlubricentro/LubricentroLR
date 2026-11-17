@@ -53175,5 +53175,40 @@
       "currentKm": "101000",
       "proximoKm": "111000"
     }
+  ],
+  "AB806LG": [
+    {
+      "id": "svc-1794912560240-9609",
+      "cliente": "VENTO",
+      "telefono": "",
+      "model": "VENTO",
+      "checklist": {
+        "aceite": "MOTUL 8100 X-CESS GEN 2 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 X-CESS GEN 2 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible",
+      "fechaService": "2026-11-14",
+      "currentKm": "13800",
+      "proximoKm": "23000"
+    }
   ]
 }
