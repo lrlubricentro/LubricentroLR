@@ -53140,5 +53140,40 @@
       "currentKm": "72400",
       "proximoKm": "82000"
     }
+  ],
+  "AF449CR": [
+    {
+      "id": "svc-1794912486953-4951",
+      "cliente": "AMAROK",
+      "telefono": "",
+      "model": "AMAROK",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 0W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ESCOBILLAS",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 0W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: CAMBIO ESCOBILLAS",
+      "fechaService": "2026-11-14",
+      "currentKm": "101000",
+      "proximoKm": "111000"
+    }
   ]
 }
