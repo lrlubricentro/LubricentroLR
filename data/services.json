@@ -53663,5 +53663,40 @@
       "currentKm": "70700",
       "proximoKm": "80000"
     }
+  ],
+  "KPU585": [
+    {
+      "id": "svc-1794922935514-7380",
+      "cliente": "206",
+      "telefono": "",
+      "model": "206",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 7000 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 7000 10W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-10",
+      "currentKm": "113400",
+      "proximoKm": "123000"
+    }
   ]
 }
