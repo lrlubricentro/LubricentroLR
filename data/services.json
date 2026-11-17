@@ -27714,6 +27714,39 @@
   ],
   "AC385BL": [
     {
+      "id": "svc-1794912704177-4855",
+      "cliente": "FIESTA",
+      "telefono": "",
+      "model": "FIESTA",
+      "checklist": {
+        "aceite": "ELAION AURO FE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: ELAION AURO FE 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-14",
+      "currentKm": "106000",
+      "proximoKm": "116000"
+    },
+    {
       "id": "svc-1784322922694-8022",
       "cliente": "FIESTA",
       "telefono": "",
