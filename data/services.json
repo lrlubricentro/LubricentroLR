@@ -54116,5 +54116,40 @@
       "currentKm": "154900",
       "proximoKm": "165000"
     }
+  ],
+  "AG289AV": [
+    {
+      "id": "svc-1795000456231-4337",
+      "cliente": "STRADA",
+      "telefono": "",
+      "model": "STRADA",
+      "checklist": {
+        "aceite": "SELENIA FORWARD 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA FORWARD 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-11",
+      "currentKm": "42100",
+      "proximoKm": "52000"
+    }
   ]
 }
