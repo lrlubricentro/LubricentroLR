@@ -53803,5 +53803,40 @@
       "currentKm": "104300",
       "proximoKm": "114000"
     }
+  ],
+  "LXO262": [
+    {
+      "id": "svc-1794999963103-8123",
+      "cliente": "MEGANE 3",
+      "telefono": "",
+      "model": "MEGANE 3",
+      "checklist": {
+        "aceite": "INTERLUBE 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: INTERLUBE 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-11-10",
+      "currentKm": "125500",
+      "proximoKm": "135000"
+    }
   ]
 }
