@@ -53873,5 +53873,40 @@
       "currentKm": "105100",
       "proximoKm": "115000"
     }
+  ],
+  "KKU650": [
+    {
+      "id": "svc-1795000066629-2996",
+      "cliente": "BORA",
+      "telefono": "",
+      "model": "BORA",
+      "checklist": {
+        "aceite": "MOTUL 8100 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: MOTUL 8100 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire",
+      "fechaService": "2026-11-10",
+      "currentKm": "72000",
+      "proximoKm": "82000"
+    }
   ]
 }
