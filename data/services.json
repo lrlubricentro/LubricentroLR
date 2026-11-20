@@ -54256,5 +54256,40 @@
       "currentKm": "182200",
       "proximoKm": "192000"
     }
+  ],
+  "AF960JV": [
+    {
+      "id": "svc-1795184987566-3353",
+      "cliente": "FERNANDO",
+      "telefono": "",
+      "model": "COMPASS",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 0W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 0W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-19",
+      "currentKm": "32400",
+      "proximoKm": "42000"
+    }
   ]
 }
