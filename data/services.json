@@ -4606,6 +4606,39 @@
   ],
   "AG543UU": [
     {
+      "id": "svc-1795187214527-9567",
+      "cliente": "CRONOS",
+      "telefono": "",
+      "model": "CRONOS",
+      "checklist": {
+        "aceite": "SELENIA FORWARD 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SELENIA FORWARD 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-19",
+      "currentKm": "82500",
+      "proximoKm": "92000"
+    },
+    {
       "id": "svc-1778238541247-8356",
       "cliente": "CRONOS",
       "telefono": "",
