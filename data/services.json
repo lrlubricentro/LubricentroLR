@@ -54396,5 +54396,40 @@
       "currentKm": "67700",
       "proximoKm": "77000"
     }
+  ],
+  "AD303NM": [
+    {
+      "id": "svc-1795185197597-1821",
+      "cliente": "MARIANO",
+      "telefono": "",
+      "model": "C3 AIRCROSS",
+      "checklist": {
+        "aceite": "",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "A3",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: A3",
+      "fechaService": "2026-11-19",
+      "currentKm": "66000",
+      "proximoKm": "76000"
+    }
   ]
 }
