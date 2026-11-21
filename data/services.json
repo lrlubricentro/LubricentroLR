@@ -6985,6 +6985,39 @@
   ],
   "AG106SX": [
     {
+      "id": "svc-1795261059091-6888",
+      "cliente": "CRONOS",
+      "telefono": "",
+      "model": "CRONOS",
+      "checklist": {
+        "aceite": "VALVOLINE ADVANCED 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: VALVOLINE ADVANCED 0W20 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-18",
+      "currentKm": "93600",
+      "proximoKm": "103000"
+    },
+    {
       "id": "svc-1785757582659-3391",
       "cliente": "CRONOS",
       "telefono": "",
