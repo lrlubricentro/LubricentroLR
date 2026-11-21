@@ -18913,6 +18913,39 @@
   ],
   "AF772JU": [
     {
+      "id": "svc-1795260391837-9002",
+      "cliente": "SOL",
+      "telefono": "",
+      "model": "CRONOS",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 0W20",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 0W20 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-18",
+      "currentKm": "167700",
+      "proximoKm": "177000"
+    },
+    {
       "id": "svc-1781730160676-5672",
       "cliente": "SOL",
       "telefono": "",
