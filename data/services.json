@@ -4674,6 +4674,39 @@
   ],
   "AC492CV": [
     {
+      "id": "svc-1795261003443-6855",
+      "cliente": "MDR",
+      "telefono": "",
+      "model": "VERSA",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "CAMBIO ACEITE DE CAJA AT",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "si",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite, Caja Velocidad, Filtro de Aire | Detalle: CAMBIO ACEITE DE CAJA AT",
+      "fechaService": "2026-11-18",
+      "currentKm": "159300",
+      "proximoKm": "169000"
+    },
+    {
       "id": "svc-1792420374761-792",
       "cliente": "VERSA",
       "telefono": "",
