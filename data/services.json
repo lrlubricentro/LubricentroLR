@@ -55016,5 +55016,40 @@
       "currentKm": "128000",
       "proximoKm": "138000"
     }
+  ],
+  "AE568NR": [
+    {
+      "id": "svc-1795261782526-6894",
+      "cliente": "208",
+      "telefono": "",
+      "model": "208",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 9000 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "A3",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 9000 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: A3",
+      "fechaService": "2026-11-18",
+      "currentKm": "30000",
+      "proximoKm": "40000"
+    }
   ]
 }
