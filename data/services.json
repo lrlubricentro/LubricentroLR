@@ -54876,5 +54876,40 @@
       "currentKm": "53000",
       "proximoKm": "63000"
     }
+  ],
+  "AF137PM": [
+    {
+      "id": "svc-1795261416868-5686",
+      "cliente": "C4 CACTUS",
+      "telefono": "",
+      "model": "C4 CACTUS",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ INEO 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "si",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ INEO 5W30 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen, Cambio Bateria",
+      "fechaService": "2026-11-18",
+      "currentKm": "13800",
+      "proximoKm": "23000"
+    }
   ]
 }
