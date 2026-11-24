@@ -55119,5 +55119,40 @@
       "currentKm": "191200",
       "proximoKm": "203000"
     }
+  ],
+  "AC817DE": [
+    {
+      "id": "svc-1795518540441-6531",
+      "cliente": "TIGUAN",
+      "telefono": "",
+      "model": "TIGUAN",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 0W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "si",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 0W30 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen, Cambio Bujias",
+      "fechaService": "2026-11-10",
+      "currentKm": "95100",
+      "proximoKm": "105000"
+    }
   ]
 }
