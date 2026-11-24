@@ -12465,6 +12465,39 @@
   ],
   "AF706TN": [
     {
+      "id": "svc-1795518837001-876",
+      "cliente": "TAOS",
+      "telefono": "",
+      "model": "TAOS",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W40 | Checks SI: Filtro de Aceite, Filtro de Aire, Filtro Polen",
+      "fechaService": "2026-11-12",
+      "currentKm": "73700",
+      "proximoKm": "83000"
+    },
+    {
       "id": "svc-1780940146736-1553",
       "cliente": "TAOS",
       "telefono": "",
