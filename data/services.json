@@ -14510,6 +14510,39 @@
   ],
   "LDK715": [
     {
+      "id": "svc-1795519374617-5671",
+      "cliente": "BERLINGO",
+      "telefono": "",
+      "model": "BERLINGO",
+      "checklist": {
+        "aceite": "TOTAL QUARTZ 9000 5W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "A3",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "si",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "si",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: TOTAL QUARTZ 9000 5W40 | Checks SI: Filtro de Aceite, Filtro de Combustible, Filtro de Aire, Filtro Polen | Detalle: A3",
+      "fechaService": "2026-11-12",
+      "currentKm": "193000",
+      "proximoKm": "203000"
+    },
+    {
       "id": "svc-1781040758828-788",
       "cliente": "BERLINGO",
       "telefono": "",
