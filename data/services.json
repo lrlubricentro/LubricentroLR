@@ -55669,5 +55669,40 @@
       "currentKm": "141000",
       "proximoKm": "151000"
     }
+  ],
+  "EQQ544": [
+    {
+      "id": "svc-1795523527435-6140",
+      "cliente": "COROLLA",
+      "telefono": "",
+      "model": "COROLLA",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-11-16",
+      "currentKm": "273300",
+      "proximoKm": "283000"
+    }
   ]
 }
