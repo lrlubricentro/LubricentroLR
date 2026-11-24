@@ -55704,5 +55704,40 @@
       "currentKm": "273300",
       "proximoKm": "283000"
     }
+  ],
+  "SBD053": [
+    {
+      "id": "svc-1795523660828-6976",
+      "cliente": "205",
+      "telefono": "",
+      "model": "205",
+      "checklist": {
+        "aceite": "SHELL HELIX HX7 10W40",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "si",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX HX7 10W40 | Checks SI: Filtro de Aceite, Filtro de Aire",
+      "fechaService": "2026-11-16",
+      "currentKm": "238100",
+      "proximoKm": "248000"
+    }
   ]
 }
