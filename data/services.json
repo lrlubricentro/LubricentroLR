@@ -10177,6 +10177,39 @@
   ],
   "AF089VF": [
     {
+      "id": "svc-1795810316627-7049",
+      "cliente": "SW4",
+      "telefono": "",
+      "model": "SW4",
+      "checklist": {
+        "aceite": "SHELL HELIX ULTRA 5W30",
+        "aditivoCarter": "",
+        "aditivoTransmision": "",
+        "aditivoCombustible": "",
+        "detalle": "",
+        "checks": {
+          "filtro-aceite": "si",
+          "filtro-combustible": "",
+          "caja-velocidad": "",
+          "diferencial-trasero": "",
+          "filtro-aire": "no",
+          "filtro-polen": "",
+          "caja-transfer": "",
+          "diferencial-delantero": "",
+          "liquido-freno": "",
+          "bujias": "",
+          "bateria": "",
+          "liquido-refrigerante": "",
+          "engrase": "",
+          "liquido-hidraulico": ""
+        }
+      },
+      "trabajo": "Aceite: SHELL HELIX ULTRA 5W30 | Checks SI: Filtro de Aceite",
+      "fechaService": "2026-11-17",
+      "currentKm": "113300",
+      "proximoKm": "123000"
+    },
+    {
       "id": "svc-1780091197639-5326",
       "cliente": "SW4",
       "telefono": "",
